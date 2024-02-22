@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="atom.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title>Darek Kay</title>
-  <subtitle>Darek Kay is a professional front-end developer and an accessibility advocate.</subtitle>
+  <title>Mudrack's Feed</title>
+  <subtitle>Mudrack's Whistleblower Feed.</subtitle>
   <link href="https://mudrack.github.io/feed/atom.xml" rel="self"/>
   <!-- link href="https://darekkay.com/"/ -->
   <updated>2024-02-20T14:11:16Z</updated>
