@@ -6,21 +6,21 @@
     <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
       <head>
         <title>
-          RSS Feed |
+          Mudrack's Feed |
           <xsl:value-of select="/atom:feed/atom:title"/>
         </title>
         <meta charset="utf-8"/>
         <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <link rel="stylesheet" href="/assets/styles.css"/>
+        <!-- link rel="stylesheet" href="/assets/styles.css"/ -->
       </head>
       <body>
         <main class="layout-content">
           <dk-alert-box type="info">
-            This is an RSS feed. Subscribe by copying
+            <small>This is an Atom feed. Subscribe by copying
             the URL from the address bar into your newsreader. Visit <a
             href="https://aboutfeeds.com">About Feeds
-          </a> to learn more and get started. It’s free.
+          </a> to learn more and get started. It’s free.</small>
           </dk-alert-box>
           <div class="py-7">
             <h1 class="flex items-start">
@@ -68,7 +68,7 @@
               Visit Website
             </a>
 
-            <h2>Recent blog posts</h2>
+            <h2>Recent feed posts</h2>
             <xsl:for-each select="/atom:feed/atom:entry">
               <div class="pb-7">
                 <div class="text-2 text-offset">
