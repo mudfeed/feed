@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="atom.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title>Mudrack's Feed</title>
-  <subtitle>Mudrack's Whistleblower Feed.</subtitle>
-  <link href="https://mudrack.github.io/feed/atom.xml" rel="self"/>
+  <title>Mudrake's Feed</title>
+  <subtitle>Mudrake's Whistleblower Feed.</subtitle>
+  <link href="https://mudrake.github.io/feed/atom.xml" rel="self"/>
   <!-- link href="https://darekkay.com/"/ -->
   <updated>2024-02-20T14:11:16Z</updated>
-  <id>https://mudrack.github.io/feed/rss.xml</id>
+  <id>https://mudrake.github.io/feed/rss.xml</id>
   <author>
-    <name>Mudrack</name>
+    <name>Mudrake</name>
   </author>
 
     <entry>
-      <title>Mudrack's Feed</title>
+      <title>Mudrake's Feed</title>
       <summary>Whistleblower weblog.</summary>
       <link href=""/>
       <published>2024-02-21T11:39:16Z</published>
       <updated>2024-02-22T14:13:16Z</updated>
-      <id>https://mudrack.github.io/feed/rss.xml</id>
+      <id>https://mudrake.github.io/feed/rss.xml</id>
       <media:thumbnail url="https://darekkay.com/blog/ublock-website-themes/cover.png" />
       <content type="html"></content>
       <category term="quick-tip" /><category term="theme" /><category term="css" />
