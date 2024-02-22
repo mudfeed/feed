@@ -17,7 +17,7 @@
       <body>
         <main class="layout-content">
           <dk-alert-box type="info">
-            <strong>This is an RSS feed</strong>. Subscribe by copying
+            This is an RSS feed. Subscribe by copying
             the URL from the address bar into your newsreader. Visit <a
             href="https://aboutfeeds.com">About Feeds
           </a> to learn more and get started. It’s free.
@@ -57,7 +57,7 @@
               </svg>
               Atom Feed
             </h1>
-            <h2>http://mudrack.github.com/feed/atom</h2>
+            <h2><a href="http://mudrack.github.com/feed/atom">http://mudrack.github.com/feed/atom"</a></h2>
             <p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p>
