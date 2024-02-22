@@ -6,7 +6,7 @@
     <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
       <head>
         <title>
-          Mudrake's Feed |
+          MudFeed |
           <xsl:value-of select="/atom:feed/atom:title"/>
         </title>
         <meta charset="utf-8"/>
@@ -57,7 +57,7 @@
               </svg>
               Atom Feed
             </h1>
-            <h2><a href="http://mudrake.github.io/feed/atom.xsl">http://mudrake.github.io/feed/atom.xsl</a></h2>
+            <h2><a href="http://mudfeed.github.io/feed/atom.xsl">http://mudfeed.github.io/feed/atom.xsl</a></h2>
             <p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p>
