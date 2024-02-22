@@ -57,7 +57,7 @@
               </svg>
               Atom Feed
             </h1>
-            <h2>http://mudrack.github.com/feed/atom</h2>
+            <h2><a href="http://mudrack.github.com/feed/atom.xsl">http://mudrack.github.com/feed/atom.xsl</a></h2>
             <p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p>
