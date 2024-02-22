@@ -57,7 +57,7 @@
               </svg>
               RSS Feed Preview
             </h1>
-            <h2>darekkay.com</h2>
+            <h2>mudrack.github.com/feed/atom.xml</h2>
             <p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p>
