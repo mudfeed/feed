@@ -55,7 +55,7 @@
                   d="M184 213A140 140 0 0 0 44 73 V 38a175 175 0 0 1 175 175z"
                   fill="#FFF"/>
               </svg>
-              Atom Feed
+              MudFeed's Atom Feed
             </h1>
             <h2><a href="http://mudfeed.mooo.com">http://mudfeed.mooo.com</a></h2>
             <p>
