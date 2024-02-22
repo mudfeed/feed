@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="rss-style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Darek Kay</title>
+  <subtitle>Darek Kay is a professional front-end developer and an accessibility advocate.</subtitle>
+  <link href="https://mudrack.github.io/feed/atom.xml" rel="self"/>
+  <!-- link href="https://darekkay.com/"/ -->
+  <updated>2024-02-20T14:11:16Z</updated>
+  <id>https://mudrack.github.io/feed/rss.xml</id>
+  <author>
+    <name>Mudrack</name>
+  </author>
 
-<feed xmlns="http://www.w3.org/2005/Atom">
-
-	<title>Mudrake Microblog Feed</title>
-	<subtitle>jannis.bloem(at)Gmail.com</subtitle>
-	<link href="http://bit.ly/mudrake" rel="self" />
-	<link href="http://bit.ly/mudrake" />
-	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
-	<updated>2024-02-07T22:39:02Z</updated>
-	
-	
-	<entry>
-		<title>Micro atom feed</title>
-		<link href="http://but.ly/mudrake#2024-02-07,moving" />
-		<!-- link rel="alternate" type="text/html" href="http://example.org/2003/12/13/atom03.html"/ -->
-		<!-- link rel="edit" href="http://example.org/2003/12/13/atom03/edit"/ -->
-		<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
-     <published>2024-02-07T22:39:02Z</published>
-		<updated>2024-02-07T22:39:02</updated>
-		<summary>New micro atom feed</summary>
-		<content type="xhtml">
-			<div xmlns="http://www.w3.org/1999/xhtml">
-				<p>My new micro blogging atom feed</p>
-			</div>
-     </content>
-		<author>
-			<name>Jannis Bloemendal</name>
-			<email>jannis.bloem@gmail.com</email>
-		</author>
-	</entry>
+    <entry>
+      <title>Mudrack's Feed</title>
+      <summary>Whistleblower weblog.</summary>
+      <link href=""/>
+      <published>2024-02-21T11:39:16Z</published>
+      <updated>2024-02-22T14:13:16Z</updated>
+      <id>https://mudrack.github.io/feed/rss.xml</id>
+      <media:thumbnail url="https://darekkay.com/blog/ublock-website-themes/cover.png" />
+      <content type="html"></content>
+      <category term="quick-tip" /><category term="theme" /><category term="css" />
+    </entry>
 
 </feed>
