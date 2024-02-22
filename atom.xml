@@ -14,11 +14,11 @@
     <entry>
       <title>MudFeed</title>
       <summary>Whistleblower weblog.</summary>
-      <link href=""/>
+      <link href="" />
       <published>2024-02-21T11:39:16Z</published>
       <updated>2024-02-22T14:13:16Z</updated>
       <id>http://mudfeed.mooo.com</id>
-      <media:thumbnail url="https://darekkay.com/blog/ublock-website-themes/cover.png" />
+      <media:thumbnail url="http://mudfeed.mooo.com/logo.omg" />
       <content type="html"></content>
       <category term="quick-tip" /><category term="theme" /><category term="css" />
     </entry>
