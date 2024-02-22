@@ -3,10 +3,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title>MudFeed</title>
   <subtitle>MudFeed Whistleblower.</subtitle>
+  <link href="http://mudfeed.mooo.com/" />
   <link href="https://mudfeed.github.io/feed/atom.xml" rel="self"/>
-  <!-- link href="https://darekkay.com/"/ -->
   <updated>2024-02-20T14:11:16Z</updated>
-  <id>https://mudfeed.github.io/feed/rss.xml</id>
+  <id>http://mudfeed.mooo.com</id>
   <author>
     <name>MudFeed</name>
   </author>
@@ -17,7 +17,7 @@
       <link href=""/>
       <published>2024-02-21T11:39:16Z</published>
       <updated>2024-02-22T14:13:16Z</updated>
-      <id>https://mudfeed.github.io/feed/rss.xml</id>
+      <id>http://mudfeed.mooo.com</id>
       <media:thumbnail url="https://darekkay.com/blog/ublock-website-themes/cover.png" />
       <content type="html"></content>
       <category term="quick-tip" /><category term="theme" /><category term="css" />
