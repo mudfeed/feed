@@ -55,9 +55,9 @@
                   d="M184 213A140 140 0 0 0 44 73 V 38a175 175 0 0 1 175 175z"
                   fill="#FFF"/>
               </svg>
-              RSS Feed Preview
+              Atom Feed
             </h1>
-            <h2>mudrack.github.com/feed/atom.xml</h2>
+            <h2>http://mudrack.github.com/feed/atom</h2>
             <p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p>
@@ -65,7 +65,7 @@
               <xsl:attribute name="href">
                 <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
               </xsl:attribute>
-              Visit Website &#x2192;
+              Visit Website
             </a>
 
             <h2>Recent blog posts</h2>
