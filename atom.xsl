@@ -62,7 +62,8 @@
               MudFeed's Weblog
             </h1>
             <!-- h2><a href="http://mudfeed.mooo.com">http://mudfeed.mooo.com</a></h2 -->
-            <a>
+            <!--
+             <a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
               </xsl:attribute>
@@ -71,8 +72,8 @@
             <p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p>
+            -->
             
-
             <h2>Recent feed posts</h2>
             <xsl:for-each select="/atom:feed/atom:entry">
               <div class="pb-7">
