@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+ii<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="atom.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title>MudFeed</title>
@@ -108,6 +108,18 @@
       <category term="log" /><category term="whistleblower" />
     </entry>
 
+  <entry>
+      <title>Nowhere to go to, I am threatened for writing.</title>
+      <summary></summary>
+      <link href="" />
+      <published>2024-02-01T00:00:00Z</published>
+      <updated>2024-02-25T21:26:01Z</updated>
+      <id>http://mudfeed.mooo.com</id>
+      <media:thumbnail url="http://mudfeed.mooo.com/logo.png" />
+      <content type="html"></content>
+      <category term="log" /><category term="whistleblower" />
+    </entry>
+
 <!--
 
 ·
@@ -120,13 +132,15 @@ Jannis Bloemendal
 @JannisBloem
 ·
 
-// ###
+
 Feb 1
 I am threatened for the next three years
 12
 Jannis Bloemendal
 @JannisBloem
 ·
+
+// ###
 Feb 1
 Nowhere to go to , I am threatened for writing
 9
