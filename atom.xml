@@ -12,6 +12,18 @@
   </author>
 
     <entry>
+      <title>I am...</title>
+      <summary>influenced and knowledge attacked rigidly by Oppel.</summary>
+      <link href="" />
+      <published>2024-02-25T18:15:16Z</published>
+      <updated>2024-02-25T18:15:16Z</updated>
+      <id>http://mudfeed.mooo.com</id>
+      <media:thumbnail url="http://mudfeed.mooo.com/logo.png" />
+      <content type="html"></content>
+      <category term="log" /><category term="message" />
+    </entry>
+
+    <entry>
       <title>MudFeed</title>
       <summary>Whistleblower weblog.</summary>
       <link href="" />
