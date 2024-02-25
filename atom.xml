@@ -23,7 +23,7 @@
       <category term="quick-tip" /><category term="theme" /><category term="css" />
     </entry>
 
-  <entry>
+   <entry>
       <title>I don't want...</title>
       <summary>I don't want be suppressed by secret services anymore, I am threatened with suïcidemurder</summary>
       <link href="" />
@@ -32,7 +32,7 @@
       <id>http://mudfeed.mooo.com</id>
       <media:thumbnail url="http://mudfeed.mooo.com/logo.png" />
       <content type="html"></content>
-      <category term="log" /><categorie term="whistleblower" />
+      <category term="log" /><category term="whistleblower" />
     </entry>
 
 <!--
