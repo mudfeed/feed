@@ -17,7 +17,6 @@
           .text-3 { padding-bottom: 0px; }
           .text-4 { padding-bottom: 20px; }
         </style>
-        <!-- link rel="stylesheet" href="/assets/styles.css"/ -->
       </head>
       <body>
         <main class="layout-content">
@@ -66,12 +65,12 @@
             <p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p>
-            <!-- a>
+            <a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
               </xsl:attribute>
               Visit Website
-            </a -->
+            </a>
 
             <h2>Recent feed posts</h2>
             <xsl:for-each select="/atom:feed/atom:entry">
