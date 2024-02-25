@@ -21,8 +21,7 @@
       <body>
         <main class="layout-content">
           <dk-alert-box type="info">
-            <small>This is an Atom feed. Subscribe by copying the URL into your newsreader.
-            <br />Visit <a href="https://aboutfeeds.com">About Feeds</a> to learn more and get started. It’s free.</small>
+            <small>This is an Atom feed. Subscribe by copying the URL into your newsreader. Visit <a href="https://aboutfeeds.com">About Feeds</a> to learn more and get started. It’s free.</small>
           </dk-alert-box>
           <div class="py-7">
             <h1 class="flex items-start">
