@@ -18,33 +18,27 @@
       <published>2024-02-21T11:39:16Z</published>
       <updated>2024-02-22T14:13:16Z</updated>
       <id>http://mudfeed.mooo.com</id>
-      <media:thumbnail url="http://mudfeed.mooo.com/logo.omg" />
+      <media:thumbnail url="http://mudfeed.mooo.com/logo.png" />
       <content type="html"></content>
       <category term="quick-tip" /><category term="theme" /><category term="css" />
     </entry>
 
+  <entry>
+      <title>I don't want...</title>
+      <summary>Whistleblower weblog.</summary>
+      <link href="" />
+      <published>2024-02-01T00:00:00Z</published>
+      <updated>2024-02-01T00:00:00Z</updated>
+      <id>http://mudfeed.mooo.com</id>
+      <media:thumbnail url="http://mudfeed.mooo.com/logo.png" />
+      <content type="html">I don't want be suppressed by secret services anymore, I am threatened with suïcidemurder</content>
+      <category term="log" /><categorie term="whistleblower" />
+    </entry>
+
 <!--
-To view keyboard shortcuts, press question markView keyboard shortcuts
-Jannis Bloemendal
-89 posts
-See new posts
-Edit profile
-Jannis Bloemendal
-@JannisBloem
-Rotterdam Joined January 2024
-12 Following
-1 Follower
-Posts
-Replies
-Highlights
-Media
-Likes
-Jannis Bloemendal’s posts
-Jannis Bloemendal
-@JannisBloem
+
 ·
 Feb 1
-
 
 I don't want be suppressed by secret services anymore, I am threatened with suïcide
 murder
@@ -52,6 +46,8 @@ murder
 Jannis Bloemendal
 @JannisBloem
 ·
+
+// ###
 Feb 1
 I am threatened for the next three years
 12
