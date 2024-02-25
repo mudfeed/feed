@@ -61,16 +61,17 @@
               </svg>
               MudFeed's Weblog
             </h1>
-            <h2><a href="http://mudfeed.mooo.com">http://mudfeed.mooo.com</a></h2>
-            <p>
-              <xsl:value-of select="/atom:feed/atom:subtitle"/>
-            </p>
+            <!-- h2><a href="http://mudfeed.mooo.com">http://mudfeed.mooo.com</a></h2 -->
             <a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
               </xsl:attribute>
-              Visit Website
-            </a>
+              <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
+            </a>  
+            <p>
+              <xsl:value-of select="/atom:feed/atom:subtitle"/>
+            </p>
+            
 
             <h2>Recent feed posts</h2>
             <xsl:for-each select="/atom:feed/atom:entry">
