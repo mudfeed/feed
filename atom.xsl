@@ -81,12 +81,15 @@
             <xsl:for-each select="/atom:feed/atom:entry">
               <div class="pb-7">
                 <div class="text-3 font-bold">
+                 <!--
                   <a>
                     <xsl:attribute name="href">
                       <xsl:value-of select="atom:link/@href"/>
                     </xsl:attribute>
                     <xsl:value-of select="atom:title"/>
                   </a>
+                  -->
+                  <xsl:value-of select="atom:title"/>
                 </div>
                 <div class="text-2 text-offset">
                   Published on <xsl:value-of select="substring(atom:published, 0, 11)" />
