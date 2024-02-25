@@ -15,7 +15,7 @@
         <style type="text/css">
           .text-2 { font-size: 8pt; }
           .text-3 { padding-bottom: 0px; }
-          .text-4 { padding-bottom: 20px; }
+          .pb-7 { padding-bottom: 20px; }
         </style>
       </head>
       <body>
