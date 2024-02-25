@@ -12,8 +12,10 @@
         <meta charset="utf-8"/>
         <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <style type="text/css">
-          .text-3 { padding-bottom: 10px; }
+        <style type="text/css"
+          .text-2 { font-size: 8pt; }
+          .text-3 { padding-bottom: 0px; }
+          .text-4 { padding-bottom: 20px; }
         </style>
         <!-- link rel="stylesheet" href="/assets/styles.css"/ -->
       </head>
@@ -64,12 +66,12 @@
             <p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p>
-            <a>
+            <!-- a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
               </xsl:attribute>
               Visit Website
-            </a>
+            </a -->
 
             <h2>Recent feed posts</h2>
             <xsl:for-each select="/atom:feed/atom:entry">
@@ -79,7 +81,7 @@
                   <xsl:value-of select="substring(atom:published, 0, 11)" />
                 </div>
 
-                <div class="text-4 font-bold">
+                <div class="text-3 font-bold">
                   <a>
                     <xsl:attribute name="href">
                       <xsl:value-of select="atom:link/@href"/>
@@ -87,7 +89,7 @@
                     <xsl:value-of select="atom:title"/>
                   </a>
                 </div>
-                <div class="text-3"><xsl:value-of select="atom:summary"/></div>
+                <div class="text-4"><xsl:value-of select="atom:summary"/></div>
               </div>
             </xsl:for-each>
           </div>
