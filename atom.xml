@@ -11,6 +11,17 @@
     <name>MudFeed</name>
   </author>
 
+   <entry>
+      <title>I am dragged into and tortured repetetively in a murder case since days.</title>
+      <summary></summary>
+      <link href="" />
+      <published>2024-02-25T21:22:16Z</published>
+      <updated>2024-02-25T21:22:16Z</updated>
+      <id>http://mudfeed.mooo.com</id>
+      <media:thumbnail url="http://mudfeed.mooo.com/logo.png" />
+      <content type="html"></content>
+      <category term="log" /><category term="message" />
+    </entry>
 
     <entry>
       <title>Secret services are anhilating my future chances.</title>
