@@ -14,7 +14,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <style type="text/css">
           .text-2 { font-size: 8pt; }
-          .text-3 { padding-bottom: 0px; }
+          .text-1 { padding-bottom: 0px; }
           .pb-7 { padding-bottom: 20px; }
         </style>
       </head>
@@ -83,7 +83,7 @@
                 <div class="text-2 text-offset">
                   Published on <xsl:value-of select="substring(atom:published, 0, 11)" />
                 </div>
-                <div class="text-3 font-bold">
+                <div class="text-1 font-bold">
                  <!--
                   <a>
                     <xsl:attribute name="href">
