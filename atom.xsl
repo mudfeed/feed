@@ -29,7 +29,11 @@
           <div class="py-7">
             <h1 class="flex items-start">
               <!-- https://commons.wikimedia.org/wiki/File:Feed-icon.svg -->
-              <svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+              <a>
+                <xsl:attribute name="href">
+                  <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
+                </xsl:attribute>
+                <svg xmlns="http://www.w3.org/2000/svg" version="1.1"
                    class="mr-5"
                    style="flex-shrink: 0; width: 1em; height: 1em;"
                    viewBox="0 0 256 256">
@@ -59,21 +63,20 @@
                   d="M184 213A140 140 0 0 0 44 73 V 38a175 175 0 0 1 175 175z"
                   fill="#FFF"/>
               </svg>
+              </a>
               MudFeed's Weblog
             </h1>
-            <!-- h2><a href="http://mudfeed.mooo.com">http://mudfeed.mooo.com</a></h2 -->
-            <!--
+            <!-- h2><a href="http://mudfeed.mooo.com">http://mudfeed.mooo.com</a></h2 -->   
              <a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
               </xsl:attribute>
               <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
             </a>  
-            <p>
+            <!-- p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
-            </p>
-            -->
-            
+            </p -->
+                   
             <h2>Recent feed posts</h2>
             <xsl:for-each select="/atom:feed/atom:entry">
               <div class="pb-7">
