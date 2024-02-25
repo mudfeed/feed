@@ -15,7 +15,7 @@
         <style type="text/css">
           .text-3 { padding-bottom: 10px; }
         </style>
-        <!--link rel="stylesheet" href="/assets/styles.css"/ -->
+        <!-- link rel="stylesheet" href="/assets/styles.css"/ -->
       </head>
       <body>
         <main class="layout-content">
