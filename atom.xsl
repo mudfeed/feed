@@ -12,7 +12,10 @@
         <meta charset="utf-8"/>
         <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <!-- link rel="stylesheet" href="/assets/styles.css"/ -->
+        <style type="text/css">
+          text-4 { padding-bottom: 10px; }
+        </style>
+        <--link rel="stylesheet" href="/assets/styles.css"/ -->
       </head>
       <body>
         <main class="layout-content">
@@ -84,7 +87,6 @@
                     <xsl:value-of select="atom:title"/>
                   </a>
                 </div>
-
                 <div class="text-3"><xsl:value-of select="atom:summary"/></div>
               </div>
             </xsl:for-each>
