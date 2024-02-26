@@ -19,7 +19,7 @@ var slider = document.getElementById('value');
 var save = document.getElementById('save');
 save.addEventListener('click', function(){
 try {
-  var values = localStorage.getItem('values');
+  var values = localStorage.getItem('values0');
   if (values) {
     values += ','+Date.now()+', '+slider.value;
     localStorage.setItem('values0', values);
