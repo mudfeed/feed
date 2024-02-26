@@ -79,7 +79,11 @@
             <h2>Recent feed posts</h2>
             <div class="text-8"><xsl:value-of select="/atom:feed/atom:author/atom:email" /></div>
             <xsl:for-each select="/atom:feed/atom:entry">
-              <div class="pb-7">
+              <div class="post pb-7">
+                <xsl:attribute name="id">
+                  <xsl:value-of select="atom:published"/>
+                </xsl:attribute>
+
                 <div class="text-2 text-offset">
                   Published on <xsl:value-of select="substring(atom:published, 0, 11)" />
                 </div>
