@@ -3,7 +3,7 @@
 <title>Log</title>
 </head>
 <body>
-<H3>Hello</H3>
+<H3>Log</H3>
 <input id="value" type="range" min="0" max="400" step"5"></select><button id="save">save</button>
 <script type="text/javascript">
 var slider = document.getElementById('value');
@@ -12,11 +12,11 @@ save.addEventListener('click', function(){
 try {
   var values = localStorage.getItem('values');
   if (values) {
-    values += ', '+slider.value;
+    values += ','+Date.now()+','+slider.value;
     localStorage.setItem('values', values);
   } else { 
     values = '';
-    values += slider.value;
+    values += Date.now()+','+slider.value;
     localStorage.setItem('values', values);
   }
   alert(values);
