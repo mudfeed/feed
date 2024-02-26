@@ -9,7 +9,8 @@
   position:relative;
 }
 #description {
-  width:80%; 
+  width:80%;
+  height:20%;
   float:left;
   position:relative;
 }
@@ -26,14 +27,14 @@ var save = document.getElementById('save');
 var description = document.getElementById('description');
 save.addEventListener('click', function(){
 try {
-  var values = localStorage.getItem('values0');
+  var values = localStorage.getItem('values1');
   if (values) {
-    values += ','+Date.now()+', '+slider.value+', '+btoa(description.value);
-    localStorage.setItem('values0', values);
+    values += ', '+Date.now()+', '+slider.value+', '+btoa(description.value);
+    localStorage.setItem('values1', values);
   } else { 
     values = '';
     values += Date.now()+', '+slider.value+', '+btoa(description.value);
-    localStorage.setItem('values0', values);
+    localStorage.setItem('values1', values);
   }
   var data = document.getElementById('data');
   data.textContent = values;
