@@ -12,11 +12,13 @@ save.addEventListener('click', function(){
 try {
   var values = localStorage.getItem('values');
   if (values) {
-    alert(values);
+    // alert(values);
   } else { 
     values = [];
   }
+  alert('foo');
   values.push(slider.value);
+  
   alert(values);
   localStorage.setItem('values', values);
 } catch(e) {
