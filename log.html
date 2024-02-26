@@ -26,8 +26,8 @@ var slider = document.getElementById('value');
 var save = document.getElementById('save');
 var description = document.getElementById('description');
 var values = localStorage.getItem('values1');
+var data = document.getElementById('data');
 if (values) {
-  var data = document.getElementById('data');
   data.textContent = values;
 }
 save.addEventListener('click', function(){
@@ -41,7 +41,6 @@ try {
     values += Date.now()+', '+slider.value+', '+btoa(description.value);
     localStorage.setItem('values1', values);
   }
-  var data = document.getElementById('data');
   data.textContent = values;
   // alert(values);
 } catch(e) {
