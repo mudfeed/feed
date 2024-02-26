@@ -7,13 +7,16 @@
 <script type="text/javascript">
 var slider = document.getElementById('value');
 var save = document.getElementById('save');
-var values = document.storage.get('values');
-if (values) {
-
-} else { 
+save.addEventListener('click', function(){
+  var values = localStorage.getItem('values');
+  if (values) {
+    alert(values);
+  } else { 
     values = [];
-}
-document.storage.push('values', values);
+  }
+  values.push(slider.value);
+  localStorage.setItem('values', values);
+});
 </script>
 </body>
 </html>
