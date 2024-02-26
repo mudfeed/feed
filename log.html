@@ -25,6 +25,11 @@
 var slider = document.getElementById('value');
 var save = document.getElementById('save');
 var description = document.getElementById('description');
+var values = localStorage.getItem('values1');
+if (values) {
+  var data = document.getElementById('data');
+  data.textContent = values;
+}
 save.addEventListener('click', function(){
 try {
   var values = localStorage.getItem('values1');
