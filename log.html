@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Log</title>
+</head>
+<body>
+<select id="value" type=""></select><button id="save">save</button>
+<script type="text/javascript">
+var slider = document.getElementById('value');
+var save = document.getElementById('save');
+var values = document.storage.get('values');
+if (values) {
+
+} else { 
+    values = [];
+}
+document.storage.push('values', values);
+</script>
+</body>
+</html>
