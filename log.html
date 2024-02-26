@@ -23,7 +23,7 @@ try {
     values += Date.now()+','+slider.value;
     localStorage.setItem('values', values);
   }
-  var data = document.getElemementById('data');
+  var data = document.getElementById('data');
   data.textContent = values;
   // alert(values);
 } catch(e) {
