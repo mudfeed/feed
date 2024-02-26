@@ -9,6 +9,7 @@
 var slider = document.getElementById('value');
 var save = document.getElementById('save');
 save.addEventListener('click', function(){
+try {
   var values = localStorage.getItem('values');
   if (values) {
     alert(values);
@@ -18,6 +19,9 @@ save.addEventListener('click', function(){
   values.push(slider.value);
   alert(values);
   localStorage.setItem('values', values);
+} catch(e) {
+alert(e);
+}
 });
 </script>
 </body>
