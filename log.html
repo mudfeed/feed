@@ -21,12 +21,12 @@ save.addEventListener('click', function(){
 try {
   var values = localStorage.getItem('values');
   if (values) {
-    values += ','+Date.now()+','+slider.value;
-    localStorage.setItem('values', values);
+    values += ','+Date.now()+', '+slider.value;
+    localStorage.setItem('values0', values);
   } else { 
     values = '';
-    values += Date.now()+','+slider.value;
-    localStorage.setItem('values', values);
+    values += Date.now()+', '+slider.value;
+    localStorage.setItem('values0', values);
   }
   var data = document.getElementById('data');
   data.textContent = values;
