@@ -4,28 +4,35 @@
 <style type="text/css">
 #value { width:80%; }
 #data { 
-width:80%; 
-float:left;
-position:relative;
+  width:80%; 
+  float:left;
+  position:relative;
+}
+#description {
+  width:80%; 
+  float:left;
+  position:relative;
 }
 </style>
 </head>
 <body>
 <H3>Log values</H3>
-<input id="value" type="range" min="0" max="300" step"5"></select><button id="save">save</button>
+<input id="value" type="range" min="0" max="300" step"5"></select><button id="save">save</button><br />
+<textarea id="description"></textarea>
 <p id="data"></p>
 <script type="text/javascript">
 var slider = document.getElementById('value');
 var save = document.getElementById('save');
+var description = document.getElementById('description');
 save.addEventListener('click', function(){
 try {
   var values = localStorage.getItem('values0');
   if (values) {
-    values += ','+Date.now()+', '+slider.value;
+    values += ','+Date.now()+', '+slider.value+', '+btoa(description.value);
     localStorage.setItem('values0', values);
   } else { 
     values = '';
-    values += Date.now()+', '+slider.value;
+    values += Date.now()+', '+slider.value+', '+btoa(description.value);
     localStorage.setItem('values0', values);
   }
   var data = document.getElementById('data');
