@@ -71,7 +71,7 @@
               </xsl:attribute>
               <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
             </a> 
-[<a href="mailto:your-email@adress.com?subject=mudfeed.mooo.com&body=Take a look at mudfeed.mooo.com&cc=Jannis.bloem@gmail.com">share</a>]
+<a href="mailto:your-email@adress.com?subject=http://mudfeed.mooo.com&body=Take a look at http://mudfeed.mooo.com&cc=jannis.bloem@gmail.com">[share]</a>
             <!-- p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p -->
