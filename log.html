@@ -30,21 +30,21 @@
 var slider = document.getElementById('value');
 var save = document.getElementById('save');
 var description = document.getElementById('description');
-var values = localStorage.getItem('values1');
+var values = localStorage.getItem('values2');
 var data = document.getElementById('data');
 if (values) {
   data.textContent = values;
 }
 save.addEventListener('click', function(){
 try {
-  var values = localStorage.getItem('values1');
+  var values = localStorage.getItem('values2');
   if (values) {
     values += ', '+Date.now()+', '+slider.value+', '+btoa(description.value);
-    localStorage.setItem('values1', values);
+    localStorage.setItem('values2', values);
   } else { 
     values = '';
     values += Date.now()+', '+slider.value+', '+btoa(description.value);
-    localStorage.setItem('values1', values);
+    localStorage.setItem('values2', values);
   }
   data.textContent = values;
   // alert(values);
