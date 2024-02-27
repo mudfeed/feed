@@ -13,6 +13,18 @@
   </author>
 
 <entry>
+      <title>Someone gave me a bike on the street, I am happy</title>
+      <summary></summary>
+      <link href="" />
+      <published>2024-02-27T17:55:01Z</published>
+      <updated>2024-02-27T17:55:01Z</updated>
+      <id>http://mudfeed.mooo.com</id>
+      <media:thumbnail url="http://mudfeed.mooo.com/logo.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="feeling" />
+</entry>
+
+ <entry>
       <title>Listening to chill hop yearmix 2023 https://youtu.be/_FMjH5rzawI?si=JvcP36463MmgbO9y</title>
       <summary></summary>
       <link href="" />
@@ -22,7 +34,7 @@
       <media:thumbnail url="http://mudfeed.mooo.com/logo.png" />
       <content type="html"></content>
       <category term="post" /><category term="feeling" />
-   </entry>
+</entry>
 
  <entry>
       <title>People are becoming friendlier on the outside</title>
