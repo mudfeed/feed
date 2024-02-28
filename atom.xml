@@ -11,6 +11,7 @@
     <name>Jannis Bloemendal</name>
     <email>jannis.bloem@gmail.com</email>
   </author>
+
 <entry>
       <title>I am getting dragged into concentration camps every day by Oppel</title>
       <summary></summary>
@@ -20,7 +21,7 @@
       <id>http://mudfeed.mooo.com</id>
       <media:thumbnail url="http://mudfeed.mooo.com/logo.png" />
       <content type="html"></content>
-      <category term="post" /><category term="para" />
+      <category term="post" /><category term="para" /><category term="darkdamage" />
 </entry>
 
 <entry>
