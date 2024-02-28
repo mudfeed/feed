@@ -85,7 +85,7 @@
                 </xsl:attribute>
 
                 <div class="text-2 text-offset">
-                  Published on <xsl:value-of select="substring(atom:published, 0, 11)" />
+                  Published on <xsl:value-of select="atom:published" />
                 </div>
                 <div class="text-1 font-bold">
                  <!--
