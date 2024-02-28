@@ -12,6 +12,19 @@
     <email>jannis.bloem@gmail.com</email>
   </author>
 
+
+entry>
+      <title>Oppel is experimenting with animals</title>
+      <summary></summary>
+      <link href="" />
+      <published>2024-02-28T11:14:01Z</published>
+      <updated>2024-02-28T11:14:02Z</updated>
+      <id>http://mudfeed.mooo.com</id>
+      <media:thumbnail url="http://mudfeed.mooo.com/logo.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="para" />
+</entry>
+
 <entry>
       <title>Oppel is building a blood storm hooking children into Ukraine</title>
       <summary></summary>
