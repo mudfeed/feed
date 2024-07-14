@@ -5,12 +5,13 @@
   <subtitle>MudFeed Whistleblower.</subtitle>
   <link href="http://mudfeed.mooo.com/" />
   <link href="https://mudfeed.github.io/feed/atom.xml" rel="self"/>
-  <link href="https://www.linkedin.com/in/jannis-bloemendal/" rel="self" />
+  <link href="" rel="self" />
   <updated>2024-02-28T13:44:01Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
     <email>jannis.bloem@gmail.com</email>
+    <uri>https://www.linkedin.com/in/jannis-bloemendal/</uri>
   </author>
   <entry>
       <title>I knowledge pressured all night since days</title>

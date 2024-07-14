@@ -70,19 +70,22 @@
                 <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
               </xsl:attribute>
               <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
-            </a><br /> 
-            <a>
-              <xsl:attribute name="href">
-                <xsl:value-of select="/atom:feed/atom:link[3]/@href"/>
-              </xsl:attribute>
-              <xsl:value-of select="/atom:feed/atom:link[3]/@href"/>
-            </a>
+            </a> 
+           
             <!-- p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p -->
                    
             <h2>Recent feed posts</h2>
-            <div class="text-8"><xsl:value-of select="/atom:feed/atom:author/atom:email" /></div>
+            <div class="text-8">
+              <xsl:value-of select="/atom:feed/atom:author/atom:email" /><br />
+              <a>
+                <xsl:attribute name="href">
+                  <xsl:value-of select="/atom:feed/atom:author/atom:uri"/>
+                </xsl:attribute>
+                <xsl:value-of select="/atom:feed/atom:author/atom:uri"/>
+              </a>
+            </div>
             <xsl:for-each select="/atom:feed/atom:entry">
               <div class="post pb-7">
                 <xsl:attribute name="id">
