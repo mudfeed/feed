@@ -71,7 +71,12 @@
               </xsl:attribute>
               <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
             </a> 
-            
+            <a>
+              <xsl:attribute name="href">
+                <xsl:value-of select="/atom:feed/atom:link[3]/@href"/>
+              </xsl:attribute>
+              <xsl:value-of select="/atom:feed/atom:link[3]/@href"/>
+            </a>
             <!-- p>
               <xsl:value-of select="/atom:feed/atom:subtitle"/>
             </p -->
