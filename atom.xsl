@@ -78,8 +78,7 @@
                    
             <h2>Recent feed posts</h2>
             <div class="text-8">
-              <a href="mailto:jannis.bloem@gmail.com"><xsl:value-of select="/atom:feed/atom:author/atom:email" /></a>
-              <a href="https://www.linkedin.com/in/jannis-bloemendal/"><xsl:value-of select="/atom:feed/atom:author/atom:uri"/></a>
+              <a href="mailto:jannis.bloem@gmail.com"><xsl:value-of select="/atom:feed/atom:author/atom:email" /></a>, <a href="https://www.linkedin.com/in/jannis-bloemendal/"><xsl:value-of select="/atom:feed/atom:author/atom:uri"/></a>
             </div>
             <xsl:for-each select="/atom:feed/atom:entry">
               <div class="post pb-7">
