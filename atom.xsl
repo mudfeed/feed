@@ -18,6 +18,7 @@
           .text-1 { padding-bottom: 0px; }
           .pb-7 { padding-bottom: 20px; }
           .text-8 { padding-top:0px; padding-bottom: 20px; }
+          .text-9 { font-size: 12pt; }
         </style>
       </head>
       <body>
@@ -91,7 +92,7 @@
                 <xsl:attribute name="href">
                   <xsl:value-of select="concat('#', atom:published)"/>
                 </xsl:attribute>
-                &#128279; Published on <xsl:value-of select="atom:published" />
+                <span class="text-9">&#128279;</span> Published on <xsl:value-of select="atom:published" />
               </a>
               <div class="text-1 font-bold">
                <!--
