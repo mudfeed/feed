@@ -21,7 +21,7 @@
       <published>2024-07-18T10:09:01Z</published>
       <updated>2024-07-18T10:09:02Z</updated>
       <id>https://mudfeed.github.io/feed/atom.xml</id>
-      <media:thumbnail url="https://mudfeed.github.io/feed/logo.png" />
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
       <category term="post" /><category term="whistleblowing" /><category term="exposure" /><category term="politics" /><category term="withdraw" /><category term="salary-hijack" />
   </entry>
