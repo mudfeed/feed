@@ -22,9 +22,10 @@
       </head>
       <body>
         <main class="layout-content">
-          <dk-alert-box type="info">
+        <header>
+          <div type="info">
             <small>This is an Atom feed. Subscribe by copying the URL into your newsreader. Visit <a href="https://aboutfeeds.com">About Feeds</a> to learn more and get started. It’s free.</small>
-          </dk-alert-box>
+          </div>
           <div class="py-7">
             <h1 class="flex items-start">
               <!-- https://commons.wikimedia.org/wiki/File:Feed-icon.svg -->
@@ -81,30 +82,31 @@
             <div class="text-8">
               <xsl:text>&lt;</xsl:text><a href="mailto:jannis.bloem@gmail.com"><xsl:value-of select="/atom:feed/atom:author/atom:email" /></a><xsl:text>&#160;</xsl:text><a href=""><xsl:attribute name="href"><xsl:value-of select="/atom:feed/atom:link[3]/@href"/></xsl:attribute>0x3F31D84F-pub.asc</a>, (<a href="https://www.linkedin.com/in/jannis-bloemendal/"><xsl:value-of select="/atom:feed/atom:author/atom:uri"/></a> )<xsl:text>&gt;</xsl:text>
             </div>
-            <xsl:for-each select="/atom:feed/atom:entry">
-              <div class="post pb-7">
-                <xsl:attribute name="id">
-                  <xsl:value-of select="atom:published"/>
-                </xsl:attribute>
+          </header>
+          <xsl:for-each select="/atom:feed/atom:entry">
+            <div class="post pb-7">
+              <xsl:attribute name="id">
+                <xsl:value-of select="atom:published"/>
+              </xsl:attribute>
 
-                <div class="text-2 text-offset">
-                  Published on <xsl:value-of select="atom:published" />
-                </div>
-                <div class="text-1 font-bold">
-                 <!--
-                  <a>
-                    <xsl:attribute name="href">
-                      <xsl:value-of select="atom:link/@href"/>
-                    </xsl:attribute>
-                    <xsl:value-of select="atom:title"/>
-                  </a>
-                  -->
-                  <xsl:value-of select="atom:title"/>
-                </div>
-                
-                <!-- div class="text-4"><xsl:value-of select="atom:summary"/></div -->
+              <div class="text-2 text-offset">
+                Published on <xsl:value-of select="atom:published" />
               </div>
-            </xsl:for-each>
+              <div class="text-1 font-bold">
+               <!--
+                <a>
+                  <xsl:attribute name="href">
+                    <xsl:value-of select="atom:link/@href"/>
+                  </xsl:attribute>
+                  <xsl:value-of select="atom:title"/>
+                </a>
+                -->
+                <xsl:value-of select="atom:title"/>
+              </div>
+              
+              <!-- div class="text-4"><xsl:value-of select="atom:summary"/></div -->
+            </div>
+          </xsl:for-each>
           </div>
         </main>
       </body>
