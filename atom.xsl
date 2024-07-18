@@ -12,6 +12,7 @@
         <meta charset="utf-8"/>
         <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="icon" href="feed.png" />
         <style type="text/css">
           .text-2 { font-size: 8pt; }
           .text-1 { padding-bottom: 0px; }
