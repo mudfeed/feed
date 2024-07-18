@@ -91,7 +91,7 @@
                 <xsl:attribute name="href">
                   <xsl:value-of select="concat('#', atom:published)"/>
                 </xsl:attribute>
-                Published on <xsl:value-of select="atom:published" />
+                &#128279; Published on <xsl:value-of select="atom:published" />
               </a>
               <div class="text-1 font-bold">
                <!--
