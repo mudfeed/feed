@@ -4,8 +4,9 @@
   <title>MudFeed</title>
   <subtitle>MudFeed Whistleblower.</subtitle>
   <link href="http://mudfeed.mooo.com/" />
-  <link href="https://mudfeed.github.io/feed/atom.xml" rel="self" />
+  <link href="https://mudfeed.github.io/feed/atom.xml" rel="self" />  
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
+  <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
   <updated>2024-02-28T13:44:01Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
