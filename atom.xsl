@@ -72,8 +72,9 @@
               <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
             </xsl:attribute>
             <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
-          </a> 
-         
+          </a><br />
+          <a href="https://github.com/mudfeed/feed/archive/refs/heads/gh-pages.zip">https://github.com/mudfeed/feed/archive/refs/heads/gh-pages.zip</a>
+          
           <!-- p>
             <xsl:value-of select="/atom:feed/atom:subtitle"/>
           </p -->
