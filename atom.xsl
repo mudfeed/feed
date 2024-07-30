@@ -66,7 +66,8 @@
             </a>
             MudFeed's Weblog
           </h1>
-          <!-- h2><a href="http://mudfeed.mooo.com">http://mudfeed.mooo.com</a></h2 -->   
+          <!-- h2><a href="http://mudfeed.mooo.com">http://mudfeed.mooo.com</a></h2 -->
+           <span class="text-9">&#128279;</span>
            <a>
             <xsl:attribute name="href">
               <xsl:value-of select="/atom:feed/atom:link[2]/@href"/>
