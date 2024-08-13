@@ -22,8 +22,26 @@ Hash: SHA256
   <!-- autonomy abuse of domination, conglomerate, reconstitution recrimination information obligation and duty to care -->
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
-  <!-- far in excess -->
-   <entry>
+  <!-- KGB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+ <entry>
+  <title>KGB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power #motionofcensure #zerobacklash #unwarranted #qualityverification #foreclosure #garantsupport #maturity #adjustmentpremium</title>
+      <summary></summary>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-13T18:51:01Z" />
+      <published>2024-08-13T18:51:01Z</published>
+      <updated>2024-08-13T18:51:01Z</updated>
+      <id>tag:mudfeed.github.io,2024:08-13:T18:51:01Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" /><category term="asymmetricdarkmight" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
+  <entry>
      <title>CIA has been disclosing an evasive fraud of surety guarantee capital payment agreement and performance fidelity garanty comission to issue a payment guarantee certificate to compensate Jannis Bloemendal #motionofcensure #zerobacklash #unwarranted #qualityverification #foreclosure #garantsupport #maturity #adjustmentpremium</title>
       <summary></summary>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-12T20:39:01Z" />
@@ -3864,17 +3882,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJmum2qAAoJEAFr6uo/MdhPHtAP/1CwRindxUj/lm//hQZYfYIvk0B5
-sF1FvopHAqFjWibfNr7Yt6Uo8gXoqybf95KZmirSFgIrD7C9bm4/w4oYLWuKLnSS
-ntUxr58lkhPkqXreH/Bk1aArgcL7qCoLedAkmAnsn1ba0+5UddP9+Ma/cnti+QAH
-ENpIhsbmmgSTLsNByc5vpSROxVYH99BcA3qjuIUOsS6phJnlyrrql1pvy7P1p1KW
-Qhkh6FZ1pHpY0colW6V5/d4IIBA3cWQc6MZS0pfFKhYAeYbugeDreLNBlpYzdY/w
-HRof+BkiImUBuik9mIJtK3oq/TtH7tWoS+e0PK+nM6M3KDj5uc8IP6WZS2sxzQxj
-fUTlFjXrG+qa2/2QqfLeq3MMkDXI/iPsss6Oa9yzg5vTZCc6Nuw5mwRUzsbrKt9w
-GyhVT8zileiw7K4iUsb0yizc8X795xIGXY5hzHkXttAOrJfjvwSAbbrg0kcTAyyd
-okKvVIrL0K9eDEaMInKY5KnpjzQYqWk/Ji2rF6AOzZ/EGrm6opmqwekZqtQMcZhq
-4DodTLyikqF8PxC/IvMW+7Qx9GblYww/1aP27TziKmtZS3QIQ+Xj89TSK2d0Ye5O
-Gb85a0+8MHFpL8YwhsTRM0lmV0KkBMGDDuyCn5JWglemv5SrcfL3THZw30cqlG57
-CO8pa7f7ffNMi46R
-=u4Pq
+bC5jb20+BQJmu560AAoJEAFr6uo/MdhPLTEP/RUrhYeuc1I1p1S7SM4/YMSU8aIm
+xpg2f9rZVjkc92mJ9e+zqd3VEBPaEUkPHT87SjeMVnSEPbJ/vEeR9246gZiSd6WJ
+nfVrCyjNpjBMk26c4Vwu4NkC3Ub5jPzgqttFsdSybbJgYRC0BLUDRoCxCmrFoEqb
+kkKxTnr8jRYWv8Z7mgjqCVfR2iAzbUp+kZBcsMvD2e89OGDsf4jB9nAQQNePDB+C
+6SMD1tbYyTMCwMRi0Wjmlw1axRuzkfj/YPdcFZIc4MXghgbMDkt00g0QS6hx34fw
+o5pQjxVaR/zXiVR4CLfkcgb7xSeNrXQNtrr3MwLsV9N+2CUBxNRBwhaJiSxkxQeQ
+zZDVQwAiYWjnUHA4KMzOYl0ryBFV5Iy5uToZpAhI8PYf9lGimZoaeq8UkMvIcwPF
+OKHRjLwXHR/ro01mImERfkoMRt46sYwqJlHjoIDci9vsDQl8qpt9WYiuIY6+MHNV
+pKMeu1Fi4FW4Iy2KZergcoXdxTIlEu9ssMk9dGbb9yKPGeqA9aC6mH8++3GqAF93
+MU4beAwCw3EACeCiIMAl1xdhadwBekV0RP43FXUFEK+CWG8aQPAG4qi5TPgxKDBW
+oxtJW55IVdImFsWd43JQnm4pjC9unDog5k3Gs70ycbJPoGLDYKx0tuKT/otJ6LhQ
+RH9kLv1ULIdREYqi
+=L/Pn
 -----END PGP SIGNATURE-----
