@@ -5,7 +5,7 @@ Hash: SHA256
 <?xml-stylesheet href="atom.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title>MudFeed</title>
-  <subtitle>MudFeed Whistleblower.</subtitle>
+  <subtitle>MudFeed Protocol.</subtitle>
   <link href="http://mudfeed.mooo.com/" />
   <link href="https://mudfeed.github.io/feed/atom.xml" rel="self" />
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
@@ -24,7 +24,43 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- KGB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
  <entry>
-  <title>KGB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power #motionofcensure #zerobacklash #unwarranted #qualityverification #foreclosure #garantsupport #maturity #adjustmentpremium</title>
+    <title>KGB is executing a declaration of intention to incur a penalty and liability extinction of the exercise of a right resolutions on the anticipation of a decision act of violence against the life, physical integrity or liberty of a person acts against the life, renewing  a bill of exchange on account of performance and negligence of the age of criminal responsibility, neutral in terms of effect on competition on a trust basis to execute a declaration of intention in abounds of quotation free of cost without any commitment on part a matter of records on the authority of disadvantage of subject in reservation of provision without loss of generality #zerobacklash #unwarranted #qualityverification #foreclosure #garantsupport #maturity #adjustmentpremium</title>
+      <summary></summary>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-13T22:16:01Z" />
+      <published>2024-08-13T22:16:01Z</published>
+      <updated>2024-08-13T22:16:01Z</updated>
+      <id>tag:mudfeed.github.io,2024:08-13:T22:16:01Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" /><category term="asymmetricdarkmight" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
+  <entry>
+      <title>KGB is rising the declaration of intention and origin acknowledgment of debt fulfillment in contract remission of penalty dishonoring and bill nonassistance claim of a breach of statutory regulation reminder with fixing of a period and time balance of results obtained by means of spread acts of violence against the life, physical integrity or liberty of a person to mistake as to the wrongful nature of the act in declaration of consent of intent and honor declaration of discontinuance of compliance declaration of indemnity #zerobacklash #unwarranted #qualityverification #foreclosure #garantsupport #maturity #adjustmentpremium</title>
+      <summary></summary>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-13T22:10:01Z" />
+      <published>2024-08-13T22:10:01Z</published>
+      <updated>2024-08-13T22:10:01Z</updated>
+      <id>tag:mudfeed.github.io,2024:08-13:T22:10:01Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" /><category term="asymmetricdarkmight" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
+  <entry>
+      <title>KGB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power #motionofcensure #zerobacklash #unwarranted #qualityverification #foreclosure #garantsupport #maturity #adjustmentpremium</title>
       <summary></summary>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-13T18:51:01Z" />
       <published>2024-08-13T18:51:01Z</published>
@@ -3882,17 +3918,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJmu560AAoJEAFr6uo/MdhPLTEP/RUrhYeuc1I1p1S7SM4/YMSU8aIm
-xpg2f9rZVjkc92mJ9e+zqd3VEBPaEUkPHT87SjeMVnSEPbJ/vEeR9246gZiSd6WJ
-nfVrCyjNpjBMk26c4Vwu4NkC3Ub5jPzgqttFsdSybbJgYRC0BLUDRoCxCmrFoEqb
-kkKxTnr8jRYWv8Z7mgjqCVfR2iAzbUp+kZBcsMvD2e89OGDsf4jB9nAQQNePDB+C
-6SMD1tbYyTMCwMRi0Wjmlw1axRuzkfj/YPdcFZIc4MXghgbMDkt00g0QS6hx34fw
-o5pQjxVaR/zXiVR4CLfkcgb7xSeNrXQNtrr3MwLsV9N+2CUBxNRBwhaJiSxkxQeQ
-zZDVQwAiYWjnUHA4KMzOYl0ryBFV5Iy5uToZpAhI8PYf9lGimZoaeq8UkMvIcwPF
-OKHRjLwXHR/ro01mImERfkoMRt46sYwqJlHjoIDci9vsDQl8qpt9WYiuIY6+MHNV
-pKMeu1Fi4FW4Iy2KZergcoXdxTIlEu9ssMk9dGbb9yKPGeqA9aC6mH8++3GqAF93
-MU4beAwCw3EACeCiIMAl1xdhadwBekV0RP43FXUFEK+CWG8aQPAG4qi5TPgxKDBW
-oxtJW55IVdImFsWd43JQnm4pjC9unDog5k3Gs70ycbJPoGLDYKx0tuKT/otJ6LhQ
-RH9kLv1ULIdREYqi
-=L/Pn
+bC5jb20+BQJmu87XAAoJEAFr6uo/MdhPSXIP/i4HswLvG1XXT6IWrHQfm5LfoIai
+ey1zqNfSyeUsiaglFmQUNu5yStJYolVtOHgg69bHKr8afCA7qxdQNl6zkAA3U6bp
++9SsNW6lOHwhi1erGz9C3O/w9XWpuAEgJXgi8FBsJUN7pV/AKVXSCVEGmMb0qgLP
+5tjR5uSKHe4kXAqMspu5W4tNWoynRrNm2bCAPyq83TpQUxJsZ2CfQ8UozhMZT6SE
+cYRbRrfZCZGXA7FrrkEsB6NyvEUQ3fbqMTaWnND58uZozn3XfKzUG+Ot42F9DEY3
+HHOjwC3fF4+cN3mIzdj+UjTeS0TMXTcqPypKGlsfhzuxAsR9uAaVXNwzax7Ubtkm
+b9a5iAnjC+ESDY6dmmastbcX2SpvwAeB5kQpsf6o9bZc9f1TaTBC5VHQL/O/KVGK
+eizsEIUP/B1+gL1L+pUVzhRZjvZQg36BLr5Q7Yxi8thdxQIp3DtE55eJCFp41y+f
+Kpc2nP169YkKzZaPvNWw9RlhLvBUSpanH6G6lmLMQN28Nv+UF8NsnTalA7SUAcAQ
+FvIZERZn8MxPGnveoZBm73zzhQElEk57puKIQwumhLU9edJJbE0yQpKweIzsYXL9
+jonaLrDpRnOXoOBfeOXLChVRcjprlaJ//OfNTqVxwT7n/+uhQ7psexJZXhS77lHT
+33qJw7qbvIHcjrkv
+=i5V0
 -----END PGP SIGNATURE-----
