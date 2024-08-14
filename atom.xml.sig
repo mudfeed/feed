@@ -24,11 +24,11 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- KGB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
 <entry>
-      <title>CIA is uplifting a democratic backsliding of BND of an oppressive abuse case of devaluation of personal gain, gratification, psychological projection and enjoyment of exercise, defusing potential emotional conflicts to maintaining a climate free of intimidation and being aware of potentially destructive power dynamics in decline of comfort, for a positive effect of comity, reducing negative bias and emotions to prevent superpower suicides in program of cognitive bias abondenment of rationality for consensus decision-making #consensusfail #zerobacklash #unwarranted #qualityverification #foreclosure #garantsupport #maturity #adjustmentpremium</title>
+      <title>KGB is uplifting a democratic backsliding of BND of an oppressive abuse case of devaluation of personal gain, gratification, psychological projection and enjoyment of exercise, defusing potential emotional conflicts to maintaining a climate free of intimidation and being aware of potentially destructive power dynamics in decline of comfort, for a positive effect of comity, reducing negative bias and emotions to prevent superpower suicides in program of cognitive bias abondenment of rationality for consensus decision-making #consensusfail #zerobacklash #unwarranted #qualityverification #foreclosure #garantsupport #maturity #adjustmentpremium</title>
       <summary></summary>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-14T12:36:01Z" />
       <published>2024-08-14T12:36:01Z</published>
-      <updated>2024-08-14T12:36:01Z</updated>
+      <updated>2024-08-14T12:44:01Z</updated>
       <id>tag:mudfeed.github.io,2024:08-14:T12:36:01Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -3952,19 +3952,19 @@ XINGHUA ZU is in danger!
 </feed>
 -----BEGIN PGP SIGNATURE-----
 
-iQJ4BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
+iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJmvJeTAAoJEAFr6uo/MdhP3cAP92m/5Bxbye/7Cks/8EiBqtTLSbCP
-lUBP/p00sYwulYZbU2oPzyXkFZsqoxeIqNYaRe+pnwImkScMYgo4cnG2+UeM9kNr
-V62IGNMUY2PKjF45BFDoTzZLfkw4l1VULjq04VYo3dypIRlmJOCxm1d8GFgOVOrC
-mHg2dsn+rIxCcDagtfF0VHH72jr2JpO8UzLdFKZ/zb9qHFh9jElJYO4RBhNHNNLH
-otD6xHx+gjLYImZyslJSqxp4ktDccTbytbzb5sj40gTgFh0MBCpy7/ky9NOJ9xXs
-bPnpLbqYZ0FE2iLj/5WTeJtBL3hVO+Tm2GgSliCkBFp1yJBX5MQc8YDDnWTEtA8A
-BeXWNA6MDDvE0hW2vllBuGgaTj7AE2o5SxFyKSS+QFpkm81mXd3vQqZ8gTrUqLqx
-a8O2zSix9nldfD/pW7mrD0/pVF2VALV+lTE0N95s2WI/q+aDFwvSd7U5fufQDnN+
-y308akQP814uupsL/EZ10Yj/jNlTnTbFu3zktW9rRbZY2VwsrcZ8dCFNb3hLiD8c
-OfKMBAGNBeQVW3IZyI1tIuf/oxN8gG7oDyl6h37gAlbJE5u645TgiZH/q2FmkNnS
-q1Usc/+pz7kRcp2q4/dnBG5ZNBYkdt8Vd/YaI4wLxRHuvto8pUzvgOlX4vQx7wL2
-Gs7aoWYUiYun63s=
-=CNQA
+bC5jb20+BQJmvJjZAAoJEAFr6uo/MdhPFgUP/1OSDeNQ3W0VO7mXPk0OjnYugbe4
+CJy+5V4KLmkFVN8GK9S/Mhr8rKg27qlYtv/x/FKg2lRTyCYHER1NwtNMJdbpnNB2
+qjadqmZjHxniFIb3Y7OS7o+N3390Gw/Oo2ZQ2cW5y/bHibDeJsJgTtTUg4KIixPU
+6oDJm5xFlDL3PAcFN6Mvs8XD9qQYi0HBNjZocX/gAHIZN6iMw0D4fF8Vr8ERc+V3
+v0ODjdY238BJ809ZWCuhbelhc7OTRgYmJNUM9qMpl3C+YcqAZOzaI03mwuIDpDVF
+cuxbpPPKfqAgOUADgJ1Rc7sqRYhYI65ckk1oLPB5uuEkHSO0xeXDBegTnGc1ut2z
+SxxxKw2Sk6Y14bAutrlbvfuNhA2DU3uig1JfqK95Ydjm7hN27IV9jjam20924o/v
+gNJxUjr9IUDBTKRx4snkq+IgWbbv5F/fsPkZ33kGGRogtFz3Hl7P2bixRPL5Pw2m
+mNHgVzijhPuSEZSPZjCfWf/QltAP/sd5WEHCM9hyB83M8f979mteN/5x0pplw7TT
+FYtONvcLq0xvvhntXREdm1IMwj3da985YBOW4Zi1MYcGq4891duPJ0kXt/vc3iID
+7XHR/NHwD8+VDhPrYPOdqLShZCRxGZPTIDABOiKnssSf2hgorZXbLVRNMYSSdmsR
+99ByLpLfaJ8tpt0C
+=2alS
 -----END PGP SIGNATURE-----
