@@ -24,7 +24,7 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- KGB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
 <entry>
-      <title>KGB is disclosing a warrant of bad loan grouping and sub bundling, reminder of uncertainty, violation for diminution and identity outward projection, morbit and resentfulness for consolidation to federate a motion of censure andistance paragon and pursuit for a compensative amount of security #zerobacklash #unwarranted #qualityverification #foreclosure #garantsupport #maturity #adjustmentpremium</title>
+      <title>KGB is disclosing a warrant of bad loan grouping and sub bundling, reminder of uncertainty, violation for diminution and identity outward projection, morbit and resentfulness for consolidation to federate a motion of censure, distance paragon and pursuit for a compensative amount of security #zerobacklash #unwarranted #qualityverification #foreclosure #garantsupport #maturity #adjustmentpremium</title>
       <summary></summary>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-15T11:14:01Z" />
       <published>2024-08-15T11:14:01Z</published>
@@ -4008,17 +4008,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJmvdaRAAoJEAFr6uo/MdhPC50P/1Vsmu53+YbX5W8+qwQu0EUfWXou
-lCXkj0X9KTYQ288hKr9taeLbzYo/7AqzfksMKEoUXg2RRM8alQ9mCh3yRMivkDOS
-RcojmRVGbPP3b7KwHsYA5Axk4eGJMjWrL5UdN8VOR3ZZP2UMyiYmlP39xX0xS4Jh
-kbKuBc+Fw7xwri+T+qcSyjRMlal6g6Z7morqVxC+fVOAWnjG7l9uRAQfC0hZZmxs
-sULeol1WKGSc5Gf0aVdRiVLCzyTMps/EVZpr6KW9JlIHTVDlQE9ws24UiAmrEQJ3
-/Sl/nRGu0WPzI2aJmfx87IFB3U/1Iu4qyZhfjDuP0Q7bInEIVUmWwOVsMqFkKPVr
-TTmDASAr5IL93OFK8zGAJoxVup4me/PWl4libmpRYm0VZt7RqFYE5WMNGM4/vaS3
-sEFfhQi3qVUycn05fAqnAjr04ZVTO/NP6LrQ+htrnJGNR6Guj13xCMoBtLYE4IU+
-d5Wybi76+1d9rBhhTrhTM5NII2iWBfawZMflbwOXaq+o5k3eUn8GPVql0XWjPwfN
-IJZodOAq95DLPrJ0SChmxSxBR4Uz4gRpeJZHVVd4sxvOY6DkEIFUKdvdG9F7Ykt5
-1e2W7v7lWL5SkedFwB4rX1Ru7GdOetESU1cyMWeuh1CoWmJgU2Cq+MUFhWU+UyjR
-V7i6lQTu4Cmf+L96
-=59MU
+bC5jb20+BQJmvdfCAAoJEAFr6uo/MdhPkdkP/iRXRk88Spq5XD8Kz+l4Dt/zVW20
+M4fTdCVcrZUGo12qwsJfBQ+2IB1CEDvFCcH0tHoTsz0Hu6XCFoJZY0y4BM9cBcl1
+7vE0EEQUXQU/CMfCqR7gJ5i7U5Q8IrhGoZCJpc2kiGRcNJzzlmoXo9ri6sgIrKgT
+70O9pIGuITNJ7h3Itj2ahex+ExaUv0ZoN1IL3AJrmCQxM6O7cv9XL9sAZq8iwxCq
+o0ePLuy1hyCgeE0cY4B+MeyimV2BO/XYqffYAy5O01hYqxemC8Mxi51gD3QFMbE+
+YqWW0XivUL0joLLh4E3DefqxgAT58pmKxYz0+s3RUvHS052xNQtXSkidMCgsSBk9
+Dfk7s7KF/hr3d02brpKq05wv3OYLBoInZwGcCTp8R8eHV4J9OLzfMulCDULP4dtx
+93u9wZm4S+d0urNlwomkTOFrJx/t+Y+WSTYEOC4EHhZV0xidGq4O1qpRELzmBWgg
+BpsV+FUCRXjn1Cd6P8HZo5sK1tIHrfz3GYLUqfcikZlUedXDFBamhfdQBeWdXAAm
+mrsjV/15+dZ3ARjK7xhKvRzqMc8/1gFT2Ab2DCIWKWKlBzSCSkLX/F94Jipr+oVO
+DwrDm00MgiKOe+IcSlBHkZxoAqhXFdRK169Emy+UuKUcL6ICwRajus6MsW5KrzVM
+g3PvogvL2tALr22N
+=yW6+
 -----END PGP SIGNATURE-----
