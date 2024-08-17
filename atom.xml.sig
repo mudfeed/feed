@@ -23,7 +23,25 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- KGB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
-  <entry>
+   <entry>
+      <title>CIA is disclosing a duty to tolerate immunity of prosecution for the embodiment view, aversion and trust of performance in violation of negligence of EMP weapon authority and diplomatic values of fairness, goodwill and kindness for concession with convention demand for contingency insurance in breach of official duty and security to fine for breach of contract #bluebell #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
+      <summary></summary>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-18T00:42:01Z" />
+      <published>2024-08-18T00:42:01Z</published>
+      <updated>2024-08-18T00:45:01Z</updated>
+      <id>tag:mudfeed.github.io,2024:08-18:T00:42:01Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" /><category term="asymmetricdarkmight" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+    </entry>
+    <entry>
       <title>KGB is disclosing a group, bilateral projective inflating performance assets in abuse of knowledge and power in negative comity increasing an imbalance of power by sophisticatedly bypassing the jurisdiction and purposes of mission, in issue of succession, professional and economic activity, exercised outside of official function, voluntarily submitted to the proceeding unintended collateral consequences and drawbacks of economic actorship with an incentive to increase the exposure to a risk cost bearing party, in prevention to cover state criminality of an criminal embodied emanance being too big and connected to fail, obligating to issue the proposal and certificate of exclusion of immunity, sovereignty and extradition #bluebell #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
       <summary></summary>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-17T17:54:01Z" />
@@ -4188,17 +4206,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJmwNZjAAoJEAFr6uo/MdhP73oP/3z6kz3EQs5cU1LJMv/Qk714nwjG
-Gxp2iuRG2PagCbmkBsWlS229UPN4nKNNTqMknR9z7wL5Hncr5nQaVboZK6crQ9Ku
-AjRuhoWkovYdsZNY5wMc/WVVW/4eQWzcJ68hPdeBg1HvFEVp6Z9ly8HuBD7QREn0
-sc5tAoon/OJI43vIu0zSyl/hMqYe0g48SLXya6xb44xugo30Ihm+fHqYvOhwGnQR
-G2k4eHv2LkIEH/OS5dYTlYbsKDylZCXlg9thB03KGRKeS8tH9ak2yKd+I7p6DOYF
-NNr/9sUngcNdxw5FS/tQw0N5RSzCfxAPq9ns7yt7/S8Y6AQYX+9jXBFoWiA8yjvB
-MLtFLRc8Z3QKkMjiitK5MK/7Fm63p+fdAqaxW829vZhGm/oNBeMPSETImQpo4dR4
-7eHJzaCBvp92KIu81PsrTNPU0Ptkf7j1br/SJ9OE2IcYCZm/1erg3NjroB+Jahbo
-2vwApgK7k/TIiQSDgG70nyZpzjPwJDyAnTHRVgYK72se+OC6QsoDz/Ql2try0Prv
-VldiCQU+1nYpe4jzgwEPVhNZhgSHcEgC4qBlwsIs6pj+RQDFzVNAZqNMBDlYMsSM
-bi+nDrY7Hf7mfTtGGXdI0v8Keo1bBy2uLtGPq5wl/qXqMS3NQ8jRCHKa0RTob8VF
-nJId+7kYO7zbDPo+
-=oAbO
+bC5jb20+BQJmwTciAAoJEAFr6uo/MdhPuUwP/i+DoL0UyEjcFfX3/dwMJdqLSVy8
+fo8OoxG+Jc5hg8TUFVOINshFB5inu2d11nk5wu+QLj3GfPPzSzMl4GFrVGOBcBQj
+W4+IyzoEYHwVgmLeDuLfg9rwakqtFeE9XG9aFFvs5qPF46AQzzAFUrO57fcIiNV1
+32lSWEa7DF9Owd4zRUe2qW3R2rPiH3+TPuyCEgua3r8T4T0saUXtl+teSPWYhTI9
+6SD747r7S4ViQ8iVXSX2c0zKymX9bk/OpoZOJeVQ7Pykffqe7VbGvPMSufjP8e1t
+fQpqMb8gMkyrjnNPHyO8U22BkijBIhESQEk4rCQlmNnXPltgz9OaKJXA8kPpjT53
+1yxY0EAhCZy08+Pbw9ZiTRJjxOcCKKrQ+TWZWC7tjRnfNQjmkrD9ONwKCCDUpKkE
+S7YeQH0g1QwsB400rRV9Qg6S0yLMICWCIT/hatP4tjyaAsKLHjC9O/Cdkw5p/OZ1
+zQlSLNGK8neo3YQGLKRd1or/3SCYzTs8HKxOjM01jbr5OdBOJTBUrnnF6t68FvkK
+AxVf9oAAbebi5cNWntt+5rUwsFTArU4nLMpq1N8+Fz2IG1LzfKMEw5LMwZ9MGz3H
+fUWzk0j/349G7FyrzZYy9m3WeGjkuZxqmUSYwRO4uK/iBD5nHpuKz265h7MsgB2u
+5LxxJLwiHj6t2wmY
+=R+f/
 -----END PGP SIGNATURE-----
