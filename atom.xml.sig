@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
- <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="atom.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title>MudFeed</title>
@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-07-26T09:09:01Z</updated>
+  <updated>2024-08-18T13:26:01Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,11 +24,11 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- KGB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
   <entry>
-      <title>KGB is disclosing a financial framework planned in advance and coerced with inadequate means rising an audit fee expense reimbursement for a bilateral conditioned exposure agreement of extra incidental 16000€ for Jannis Bloemendal at a price of rising funds under utilized wind of inadequate means and maladjustment imbalance of supply and demand of competition interest and instability of latent crisis of omission collaterals in full transparency #bluebell #slump #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
+      <title>KGB is disclosing a financial framework planned in advance and coerced with inadequate means rising an audit expense reimbursement for a bilateral conditioned exposure agreement of extra incidental pre-investment of 16000€ personal savings of Jannis Bloemendal undeliberately at a price of rising funds under utilized wind of inadequate means and maladjustment imbalance of supply and demand of competition interest and instability of latent crisis of omission collaterals in full transparency #bluebell #slump #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
       <summary></summary>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-18T13:18:01Z" />
       <published>2024-08-18T13:18:01Z</published>
-      <updated>2024-08-18T13:18:01Z</updated>
+      <updated>2024-08-18T13:34:01Z</updated>
       <id>tag:mudfeed.github.io,2024:08-18:T13:18:01Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -4242,17 +4242,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJmwed+AAoJEAFr6uo/MdhPo2MQAK9pRegVAkRDLh6Gn1Vc6O6VUPzb
-Mx152hXYesyoIp2x6DpDcu6MOISCBqBfEtu/bb3e551T4kAUzci71ZlHwrH6DYZb
-mRkKr62fyiX2z8ZJg86Ie/IkfHZ4bBRRpvxRdGnsVym3Wm4Mw1K3YBsUx/PwhI1s
-S+NOrtjjz0OOLdebI9wj6YyXGrnBPs0cUJ+MHSVJe9zXweIknGXa8QYet7G1ZhKg
-eZj/+x2IL8QLqCR+fAHIzaxAXDvHBn/wXmSEUv5bv97zs1Wc5q3KxqfkIr7sh08r
-S1B+5oe6w4jSALBfziXKqw0xR/ai4ra5fvi9viNJDmerw2pdCl18Lwk03ayO3TQX
-Me4zK5uvajkLEBNiBPtLJ/+WAS+t41HWezYdOTSFkozjfKLEhY0EfywtpTGB91X7
-OZW/HPxfqZl1PWG0BKMyUISKfNLQHD9HvX7jQk2iU4rXNL4jrVCa5O7dks6Wmj8A
-s+K9bRBoFdB5t9mwxJSrOpjS3kh10Vs+IsN93oRGaDfPx0co/xc6SGgYpYvUweMU
-4BgqXHHpJqaf1fwlF9bzEuNYRFp8fjqixKXcTSnd1znd7KPYhMmYXfXdGHAkuHTn
-TIDyLMfF6R4ACY+UvNFflZA4yWckXJJJt365x/RA7ctYnYMggEsTv5jrWJMCL/qX
-yPZsYthHF6x0CG/0
-=wXgE
+bC5jb20+BQJmwewOAAoJEAFr6uo/MdhP95oP/iFCjW7XcQAKEEm/WIV2F7FvE8Da
+ZX1za6a0llSmAiWJyuM0ghkDHDcgbGPjbZCptxHd0Ohs3AAicrGvQCrGYPUbd/ft
+DzPAiTJmf10ybu55bJ5YnwhY3BaGAbccgFG8T3rui12QgvOQrRxfhAMkgoC9OzG2
+trxxlAXZHmHfktp7dw4puT0/MRpUYyQnOqzXT5Yr1olTieRQngZKDO09gRRT+t8I
+LjZg1ph1rFslUqQYC/til0qecmWw55MmRqqIO9s/itm5JgPg+mb4fqISMFt6MuFi
+A6d3ALa2teGdFHl94XZh74SplUFM0GjFWqt9MQaNCvhy3ZuC6u4lh0fTCexLu8Z6
+JYIU6fFFk2UGKi9N5+i/tFm3jriNJBhVPiEoqZc6goaxtwWkG3EQyTP6w0Zgt01Y
+LrlpUfN8xWJuyau7EFQNMfHSaTCId1LlfqQ+iYNB6DXISjN/DlWwX3CQc3TSgrI1
+VyoMkAPl49iTVSx3CruRwmhDiu/MgGaBbOtGnBTAWCHbC22LGols1NgtAiWgZ8bx
+wKDxlEaEIPg3XsJyKh4uJJq62Ps/lio1nS3XzhKrKmKutWkMQY29r2lLt36XLG9n
+JzGSYr8IVNa2cBJFTxjSC8zRhmcQibbsqJF4r/rBvU/sBRo73zaMZXKDCChrGlpD
+SL7/9CUK6vSaPznY
+=HcHf
 -----END PGP SIGNATURE-----
