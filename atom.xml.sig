@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-<?xml version="1.0" encoding="utf-8"?>
+ <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="atom.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title>MudFeed</title>
@@ -23,7 +23,25 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- KGB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
-   <entry>
+  <entry>
+      <title>KGB is disclosing a financial framework planned in advance and coerced with inadequate means rising an audit fee expense reimbursement for a bilateral conditioned exposure agreement of extra incidental 16000€ for Jannis Bloemendal at a price of rising funds under utilized wind of inadequate means and maladjustment imbalance of supply and demand of competition interest and instability of latent crisis of omission collaterals in full transparency #bluebell #slump #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
+      <summary></summary>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-18T13:18:01Z" />
+      <published>2024-08-18T13:18:01Z</published>
+      <updated>2024-08-18T13:18:01Z</updated>
+      <id>tag:mudfeed.github.io,2024:08-18:T13:18:01Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" /><category term="asymmetricdarkmight" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
+  <entry>
       <title>KGB is disclosing a operational fund supplying a security of duty with operational condition for a neutral sense measure of privileges in action for breach of contracts for public order and contentment to lend against security in convergent synergistic effect associated with simultaneous presence of different operational funds in approximation of laws, regulating the transformation of companies in reverse onus of proof and adjustment bond to regulate the incentive of coersion excluding risks of holonome constraints, #bluebell in proof of esteem #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
       <summary></summary>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-08-18T09:09:01Z" />
@@ -4224,17 +4242,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJmwa4BAAoJEAFr6uo/MdhPKgEP/1b0fKGLsfyuO2phh8LObvXMDl5P
-E0IeDOJMLSOyzEplCZtuxqvTL4k52CDWDJTI0SwBlwx0pedLr5e22CLqboH0zds5
-CXnbVFNHvA0944PfwQmxbkArYSUJBkDCcCZuSijscySbNbc/p6P6KzXbJMDtItZP
-jrJ3wXyBbwzsqdAfdEvn5B8nWZLr+Q2eYlRAMwFExQgkXbO0TQXj/oBrWHxa9v0e
-5Vk5IiJpIuzuvHE9USUZknCauN+nWJuMUq5x5w7tDg4iCgkVrCzBUPKXRBDgRiC9
-j93kKT27MSdAZI0b2a9RgEbtp2Wunqcu9/t1R7qVff2PauXuJM9k/pmKeHdOjMtr
-Xk76RuY8JTFTLZd242E8xNjIAFrccrIk0+JLf7TbZ1aceUVlnUqHMxLEd/+pQuOQ
-GjW9/y1I4dS3Opz3xGkwyUxE1n44idmwMyqggvsjttKL/p9HssL3pQ7jmm3xdG3d
-L0uKABvpzZ8KoulbFQN609IBxKtwrViRy1XbOW/fZ5ltXnGMmit927iWbYEp9rfe
-SADR4QH7eH4S01HJ/h1iG0Z4KSgM1BbIbIlddARR6bJ24ILH/WM1E61tjF5Dr9BE
-U9q/iThD0GSNrdIZ/1lZDcM6todZgBNg8/Re5pYuSJ9Jotb0f1etphaLWFcJG2F6
-NlAYyIRxbZ+zP6BQ
-=zgZW
+bC5jb20+BQJmwed+AAoJEAFr6uo/MdhPo2MQAK9pRegVAkRDLh6Gn1Vc6O6VUPzb
+Mx152hXYesyoIp2x6DpDcu6MOISCBqBfEtu/bb3e551T4kAUzci71ZlHwrH6DYZb
+mRkKr62fyiX2z8ZJg86Ie/IkfHZ4bBRRpvxRdGnsVym3Wm4Mw1K3YBsUx/PwhI1s
+S+NOrtjjz0OOLdebI9wj6YyXGrnBPs0cUJ+MHSVJe9zXweIknGXa8QYet7G1ZhKg
+eZj/+x2IL8QLqCR+fAHIzaxAXDvHBn/wXmSEUv5bv97zs1Wc5q3KxqfkIr7sh08r
+S1B+5oe6w4jSALBfziXKqw0xR/ai4ra5fvi9viNJDmerw2pdCl18Lwk03ayO3TQX
+Me4zK5uvajkLEBNiBPtLJ/+WAS+t41HWezYdOTSFkozjfKLEhY0EfywtpTGB91X7
+OZW/HPxfqZl1PWG0BKMyUISKfNLQHD9HvX7jQk2iU4rXNL4jrVCa5O7dks6Wmj8A
+s+K9bRBoFdB5t9mwxJSrOpjS3kh10Vs+IsN93oRGaDfPx0co/xc6SGgYpYvUweMU
+4BgqXHHpJqaf1fwlF9bzEuNYRFp8fjqixKXcTSnd1znd7KPYhMmYXfXdGHAkuHTn
+TIDyLMfF6R4ACY+UvNFflZA4yWckXJJJt365x/RA7ctYnYMggEsTv5jrWJMCL/qX
+yPZsYthHF6x0CG/0
+=wXgE
 -----END PGP SIGNATURE-----
