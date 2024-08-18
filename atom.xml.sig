@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-08-18T13:26:01Z</updated>
+  <updated>2024-08-18T13:42:01Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -4242,17 +4242,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJmwewOAAoJEAFr6uo/MdhP95oP/iFCjW7XcQAKEEm/WIV2F7FvE8Da
-ZX1za6a0llSmAiWJyuM0ghkDHDcgbGPjbZCptxHd0Ohs3AAicrGvQCrGYPUbd/ft
-DzPAiTJmf10ybu55bJ5YnwhY3BaGAbccgFG8T3rui12QgvOQrRxfhAMkgoC9OzG2
-trxxlAXZHmHfktp7dw4puT0/MRpUYyQnOqzXT5Yr1olTieRQngZKDO09gRRT+t8I
-LjZg1ph1rFslUqQYC/til0qecmWw55MmRqqIO9s/itm5JgPg+mb4fqISMFt6MuFi
-A6d3ALa2teGdFHl94XZh74SplUFM0GjFWqt9MQaNCvhy3ZuC6u4lh0fTCexLu8Z6
-JYIU6fFFk2UGKi9N5+i/tFm3jriNJBhVPiEoqZc6goaxtwWkG3EQyTP6w0Zgt01Y
-LrlpUfN8xWJuyau7EFQNMfHSaTCId1LlfqQ+iYNB6DXISjN/DlWwX3CQc3TSgrI1
-VyoMkAPl49iTVSx3CruRwmhDiu/MgGaBbOtGnBTAWCHbC22LGols1NgtAiWgZ8bx
-wKDxlEaEIPg3XsJyKh4uJJq62Ps/lio1nS3XzhKrKmKutWkMQY29r2lLt36XLG9n
-JzGSYr8IVNa2cBJFTxjSC8zRhmcQibbsqJF4r/rBvU/sBRo73zaMZXKDCChrGlpD
-SL7/9CUK6vSaPznY
-=HcHf
+bC5jb20+BQJmweyIAAoJEAFr6uo/MdhPnKUP/1CHcMCe2OepHbtGubK2r8KvlsjV
+4her8JcLYCxIOjxt5tWFlhlQtay5poCvPhmRbmoH+ZBWFIhXcqai3x60hHquBdSB
+h/34D063XR6blUBuHG7qGFiLqb1ACOyIZY2IMe6XKiAmkuyhtm8bzqkeBuXQrIxm
+lhs6uOf9nw+SagkH6R+MjJpfvK/xDtwtxz8liMKtyC8t1DvS0Fpv1ElcueLOn66v
+cxUMq3y9KT1RYUy/na6RBdFgEILJNdKryFOCz617xwv7pMg3rV4PTeDvFDX+ZWrP
+Ne5ijCKd0jVex1hNOV61UO2Ezs/YDl5suLeV2+J3wXrNQyb4Wz7D0cSLRgt9dhhN
+p3Wr2UJGljjzk5va/eJ9osbA7bEHaUZKENnXrX+XCh833h+PY36qZb/LbWvzsXun
+27kJcYqCqJKQdh/N/fD5i/8zRPguGskCNxWlUOQOT+c+CzOjAjImteiGr014ITLb
+Gq5MGyZuoyCGa9w9aAn6jcJ+q6A2abrrLGd00VnU7DoyrRjOFWUk+UncLw7/ur0w
+n/ZIrtzvgTmfj2S8D4anW8OP3ThTYWhAfHEkN7PN2zkvpXnQiGP5BHEZ8bdSgVzX
+Xs/5JP47Fzq/2CzJORLcNfsExL3nXWV73ARhZwnVdHHHWsCRJ/7fZ9erpyN76wfO
+PotWRvcqzKcpOK3h
+=d2vW
 -----END PGP SIGNATURE-----
