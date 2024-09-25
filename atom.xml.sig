@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-09-23T17:28:01Z</updated>
+  <updated>2024-09-23T17:28:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,12 +24,12 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
  <entry>
-   <title>FSB is disclosing the claims and premium of recapitulation of condemnation, sense of indebtedness and expropriation of all companies to be consolidated within the jurisdiction to solidify in case of recurrence to decline re-enactment to prevent damage, the mentionable guilty persons are: Mikoyan, Eckhart, Leif, Fokker, Dave, Kai, Erik, Anne, Friedhild, Albert, Mertin, Hussein, Lutz, Hermann, Luisa, Tobias, Juris, Guido, Unknown #viability #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
+      <title>FSB is disclosing the claims and premium of recapitulation of condemnation, sense of indebtedness and expropriation of all companies to be consolidated within the jurisdiction to solidify in case of recurrence to decline re-enactment to prevent damage, the mentionable guilty persons are: Mikoyan, Eckhart, Leif, Fokker, Bernd, Anne, Dave, Kai, Erik, Anne, Friedhild, Albert, Mertin, Hussein, Lutz, Hermann, Luisa, Tobias, Victoria, Juris, Guido, Unknown #viability #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
       <summary></summary>
-      <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-23T17:26:01Z" />
-      <published>2024-09-24T17:26:01Z</published>
-      <updated>2024-09-24T17:28:01Z</updated>
-      <id>tag:mudfeed.github.io,2024:09-24:T17:26:01Z</id>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-23T17:26:00Z" />
+      <published>2024-09-24T17:26:00Z</published>
+      <updated>2024-09-25T08:42:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:09-24:T17:26:00Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
       <category term="post" /><category term="exposure" />
@@ -4800,17 +4800,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJm8ts/AAoJEAFr6uo/MdhPc3IP/R8IuBUUySf8MhdLKhnbVxliX6lQ
-BJg4DJ5WkWNyjzXyStuRGHhdG8aYxTQLAstg6P22OKrXymEzVSMLwmLGqOvEwWg2
-dp74TWsNYkMnD3tf9rLloFseRAWZNGsq2iaHzZ5WSFxcIVtDX8OMKNSh/vd1r58a
-OBV9SsrYKA1PB5WQtdGTSkTURuVgFrqbINkS03Q61gRzRT+uarFeNTge4+W9b/aq
-Csy23YJLDXjYRNKdlUJEvwoJhk3vOjRTpmRfXWSfO+wNlCRHhXT//1L7eOrHQSE0
-wV/yJqNhgM63+P59K66tPI3kmJBGlDwYolxk52oSL7rC3kUB6TB4F2G2aH3AQzmQ
-jObxO7gA7oiCGQTA66Ao1MDECBpnhyz5Zj8LY4sz+As+A1Ueg6JwGVeQEwOBNkhK
-GIfa/gQFsQdiIAbT1cnvJa0bL+/eh4d6fP6cOGPAq7jx5bapoX611Mgu6R6sgT9K
-v5AQ/BQ/+MUYuKID2ux3G/XKi3I0lCgqk53OkXym9pgnAuU1jalgwm+zhzMscghk
-/9R+vlBBsj/V3w1zbTcIrZ8fF/XKzvOfQ3R4/QohC21sXb+PBBKl5IoLx0bmlBFz
-5TTkkegT6m7qDcMKxML30/0QSXVGeAvcwUz29L0mrx686TpywlMvDXEHOQKGwUsV
-GyxK7/WkpFF96x5A
-=8MrZ
+bC5jb20+BQJm87DnAAoJEAFr6uo/MdhP0O8P/3NRshkr7aNpv+GXOYrntmoWdSCI
+1aka8mrO4GX4c+NJTfMXm7c6kFgknrhMS5cOk8oQW3zgV3pR8qoLiu+TNIBplzUi
+YW4p2JYSPAAx6xsX+GbCjjjOCaii1UQzdTA7AB4qSU85BJ4ZymQVT1UHXrVVOR8j
+odMAJTY7AvtjETzZFmQX4zy891NGz9MBTVHxewGNNGtxMDgwSK62Vwp38UPDVbT2
+N0hSag7jHd1UlxvJx14lSpo9zyiFbSKxzl0yVHQpit6XSL1Qob97ktNN6mHRd9vi
+WTuZXXq5atCl6yyQCZ9dAa50rrLRUbd8nYvrNFcS4ekGcdcwcNm5dSPslEzyfjJ7
+fwvt3LlUdAz0LtIGp8+GaoQgTP0Mik+nhB4w2B40+DxKC3qzuMW42UBlUNBMvrc3
+2xtgEW+W9eKFR9dSqVVh8x0XRTZ4YWwQ4OjrpHQzMpBuVkFfYEhRtFgOfZRGcDLC
+6PhT7hn3CsNsrOlBvBwEevwbDQJQTG62xPJQh3UjvxJYqZgKKsb5sJLk9H3t1jbf
+Tw+XlG+PaUErF5aeaWg78PIhF0z7aq7GEqKK/Yc2EwwcjOKTxNRB0p7oqu54uW8o
+VAMt80FA5GoytoPfCOWfNQXsbgW1YlCiWhdRzkx41bTy3YFaut72IXGwl+tXR7Vt
+EciwkQUN2sb+zwnD
+=bHV2
 -----END PGP SIGNATURE-----
