@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-09-26T13:50:00Z</updated>
+  <updated>2024-09-26T16:45:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,7 +23,24 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
- <entry>
+  <entry>
+      <title>FSB is exposing a collateral bond in claim for a statement of collateral purpose for Friedhild primary responsible, acting maliciously and incompetent of maternity, in risk of directions for evidence assigned by way of indirect perpetrator distribution, profitability of control in actuation and supervision of apportionment in determination of efficiency for distortion analysis and degree of bias distortion measurement to find fortuitousness of might conversion and uncandidness, untruthfulness and hollow-heartedness of insincerity and falseness of mesh of lies, inadequate collateral extrinsic incriminating evidence and concrete promise implying an investment duty and guarantee of inadmissible evidence of exceeding a minimum collateral in conformity of formal qualification of transfer of ownership, characterisation and guilt, not in sign of recovery, nor telltale signing to be revealing in distortion of competition, perception and corruption #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-26T16:44:00Z" />
+      <published>2024-09-26T16:45:00Z</published>
+      <updated>2024-09-26T16:45:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:09-26:T16:45:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
+  <entry>
       <title>FSB is rising a flag of convenience in threat assessment of Hermann in preliminary estimation and risk-benefit evaluation of costs in bets of a dark hedge backing obstacles and obstruction of a sticking point being in previous conviction, frowned upon and entrap in backhand collusion, exceeding convention of providing a uniform arbitration and incommensuration, irrefutable inopportune of excessive damage and incontrovertible unreasonable expectations of incontestable, conclusive, rebuttable presumption of performance of inviolable acts #zerobacklash #qualityverification #foreclosure #garantsupport</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-25T19:16:00Z" />
       <published>2024-09-26T13:50:00Z</published>
@@ -4870,17 +4887,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJm9UwkAAoJEAFr6uo/MdhPakUP/2j11ZepZxq5UyXJxUecMXvxz94n
-STruzT3VYq4O3bwKJQKZj7El+eXwg5f4+SCGX/xxHInj97KC6STks99Ukd+uNo65
-U2r9o98v8gPpLpy02Vk1MXBOY9U6nXYKuY5yHFxAwjRx/ZU+WWE3DeZ7F1FpOtYF
-ME6UAmIWrT5OliIMxa34NkbF8SDJ1LbsI3a0OJMrjhX3BIILd9C/oUrMpKp2S9l7
-J+TXagcSbztTTrvVtIGgP50oBZrG6lO6FXMGkHyCzwSRF6qEANb0LTHPlyVAVG4m
-h3T/MFetOULSOeMqxrK3dI41Ecnd1PgJILhrdSKLRBw/a5mjZCd0mudLJl9BiBrg
-jOVKd4pDLWiCm384SAblFodvwVKRV0nYkqfDoLdLY+6pOSd4n0vTOasZBfx4vuSc
-+M/1tec6CXMiKCj6dTvKwB3CyO2PjiccfdMLjqFWKdTbm4kxdLymFVZ5nY3PXV/l
-R1S6Tna0xuo1KcKqvidE+zAmsVcO8eEtyla406y27q7J6lQeD4kOQUZzFfSa3MX9
-RJl58OBT5TET9A8T3HI7UCpvd+gitCh5UbWikJef6Mbm1Uhus73bzY3C5oREwh6c
-LmrXvrZt3X4xH5q4Ol3ODa5yZfvu559HPPu1HH7aPTf1hak85INUs77dJxHSkI78
-1kd7ASUmETUB9fI3
-=7UXH
+bC5jb20+BQJm9XR0AAoJEAFr6uo/MdhPaeYP/26UiVlDqhW71zFVDKm8Wy4Cn38T
+FuBH9ZILqspfF7G3jc3vyOL5yjrA0g+DzKasMwyH/sHscMl8K+NNngrWJhl2VwsV
+ifX6HIxo9kHshTUJyk3QN2FdthxiE0TVcQv4tXCRypvr6LXKeXdA8qaMiPY7ieMm
+wr58k4QOwIPnbTpM/rkSpI7L0ZtvrjRL2iiR4B15GqvoV1ZPaGVcrBZ/D2LS1fk/
+Srd/l5Lly9nMlDog177TzKgkgJFuhAHOAiVEGoNWGd8gs8y9rM87/agd+eE3Tqym
+2Da/zBM8xkom2KuKA6mGAmZMOiaqdJJWklnS+ksxexkdq2LBBn8dGYnxiohyVOew
+pVNGUfYPRyDgvSrx8Mzgq8a+LNh4CtePuyXr5esqYGH/f3sV0s7hyP2cclhNDxRW
+17Oc8wqlPT1CvjrTuiEjFUSf8Fq2TfPf+M0scc2Apr1baSHKQJpRD/8N9u0EueQs
+o6BXdrRaksoBGOQa8TOc1JfKsOmgsbin4ECKjoButTel/NmKcibjehmt+oHWYTbe
+KXxPdNa1kvbvcu4M35WfX0yvVD6AgUWru/U7en2q5vRoDydowdjq5t1jK8yIRVvd
+ndyQl4Ka97HvS9pLauowBKpn6+Dg7piN1y3e3DxsGl3O7VVrhF9Jj6+VaumClb+Y
+23a8Tf3rDUIBUrBA
+=2kwU
 -----END PGP SIGNATURE-----
