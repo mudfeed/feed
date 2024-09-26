@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-09-26T08:07:00Z</updated>
+  <updated>2024-09-26T13:50:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,23 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+ <entry>
+      <title>FSB is rising a flag of convenience in threat assessment of Hermann in preliminary estimation and risk-benefit evaluation of costs in bets of a dark hedge backing obstacles and obstruction of a sticking point being in previous conviction, frowned upon and entrap in backhand collusion, exceeding convention of providing a uniform arbitration and incommensuration, irrefutable inopportune of excessive damage and incontrovertible unreasonable expectations of incontestable, conclusive, rebuttable presumption of performance of inviolable acts #zerobacklash #qualityverification #foreclosure #garantsupport #maturit
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-25T19:16:00Z" />
+      <published>2024-09-26T13:50:00Z</published>
+      <updated>2024-09-26T13:50:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:09-26:T13:50:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>FSB is investigating in suspicion of current external limitation of influence of historical potential of Heinrich Bloemendal in capacity of severe restriction and basishistorical misrepresentation of his knowledge network, acquisition, advantage, representation on a knowledge time spillover in risk of neutrality and dependend adequate thorough information in current state of affairs #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-25T19:16:00Z" />
@@ -4853,17 +4870,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJm9P0FAAoJEAFr6uo/MdhPtQIQAK4mSn2ba9z3P+dLVQxZfiHwPKrN
-CS3xSx0H4MPlk6Kq99RbHMpXVSkKeYfwt76bSveFpgKwMfDAMP6ImMnd2wOPUDXB
-/tr8Eh7fcpCyyYIT+KMNuZJoBWFb7t5DKsHVR99dXk7T63CjNdZUgi2xEQSaoJWw
-+iWGzevaZ+yD+/5WEk28FcFS5/lJVduuyHqBUGEOiRWbMhkM0+jifpGbIkBUnubz
-5lmz/Qkcr2P+o+w4Cmzst9WK6KZlURef6wQvAss7JmSxoBUxOD4eVasJ4dfikFlJ
-lPMNmfQ4lyZ9xJlu6CjsM6zcDB7SSVj9VV3teLZ/TUKZJmzHfRYS/LFaVhTG6b6G
-SF+Ep6P7Gvofj8BZZhXamqHjhBg61Gz2GiFTSgKYypzVVVQy/NHli4PLFnVQyObr
-op9+nJSkq0PjEAJfegMn5m9fnqRNi+oEvl5oxND0vv7FIHuRZqAPSDcW63R01CtK
-3LjzD9hfaX10gMlvM42XSKQds5hlU3tfRUK2CBkywPBWV56X4/+WjIOOZ6x+B5nB
-axERXKGfmiF9hpkEJRSxqKYzFy7IDshi7wjZXTBxGdZNcFoykVaFvcm+WPEBx6xj
-F1mVv81eAYzRE9OD/C7bu3e0/kUNY8Bxf8TRhgEoKlscFsvWxeAyoQDEbrEeqQe4
-obTQgryDYsMslSu8
-=fzpm
+bC5jb20+BQJm9UsgAAoJEAFr6uo/MdhPu2MQAK5Jp9S5/Wvu5HbhjvAGHf83YTnU
+rpdXFGa2RmfyJIteJbGz0hlV9UGXLI64ozZsvczOG9WpJU2MqmEeIhyHOvapDlE6
+5Y267Gz7or3doCg8Ulz7PSruwhiMt+Xkom3I0xv3D7noe2kStbjNoXopH2+2HwV0
+Lcxtj11CnKlwlD6emtaXsk503IZ0e5IJRBAsfV3ZCzvZWWv6Lv2rI2KSqtTu9kRj
+3U3QcDYgLDTluN3UjusE/yKAyr0uo5OojHPJi3tcT4lQFL4gZlEbwa9ft+O+Dhy5
+6n3X95tr/3p2lsMW3nwpOc23HUF8sks7KDwRiEU9r8jqwc2SdIvf44lKNcfRvKrD
+OgubQt8dtFRa1SeKtsKl4egGHsFzAHk+5ezLGrOG0UMMBUOBY6qVfqYef0YXNIIi
+ZTrquP/Tb6/xMqXOY26ZrMEjOZLZYciah3ysT1tplgLaiBLLA9F5/H/UY8loF47w
+Ce8xWbF2BotNNC84vPCr9jBMR/q5BjzwbIbYXOXaG2yzHkxCv0RWSHcBWMrn7gQl
+wLkUVnBEIgoxdimjcG2OxEbxCNt1xf7aplTF/ySRW9OKhe6HfTYOIMqDj9/UKsYK
+FZ/hUOSnlX0Dot/6my9BTo39qSplsWreytDBFmJ0S4RL7C1A+dV3+YVdl7LqpJPC
+j9sJqBBeMHNkxtKM
+=R431
 -----END PGP SIGNATURE-----
