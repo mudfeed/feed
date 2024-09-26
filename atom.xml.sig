@@ -24,7 +24,7 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
  <entry>
-      <title>FSB is rising a flag of convenience in threat assessment of Hermann in preliminary estimation and risk-benefit evaluation of costs in bets of a dark hedge backing obstacles and obstruction of a sticking point being in previous conviction, frowned upon and entrap in backhand collusion, exceeding convention of providing a uniform arbitration and incommensuration, irrefutable inopportune of excessive damage and incontrovertible unreasonable expectations of incontestable, conclusive, rebuttable presumption of performance of inviolable acts #zerobacklash #qualityverification #foreclosure #garantsupport #maturit
+      <title>FSB is rising a flag of convenience in threat assessment of Hermann in preliminary estimation and risk-benefit evaluation of costs in bets of a dark hedge backing obstacles and obstruction of a sticking point being in previous conviction, frowned upon and entrap in backhand collusion, exceeding convention of providing a uniform arbitration and incommensuration, irrefutable inopportune of excessive damage and incontrovertible unreasonable expectations of incontestable, conclusive, rebuttable presumption of performance of inviolable acts #zerobacklash #qualityverification #foreclosure #garantsupport</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-25T19:16:00Z" />
       <published>2024-09-26T13:50:00Z</published>
       <updated>2024-09-26T13:50:00Z</updated>
@@ -4870,17 +4870,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJm9UsgAAoJEAFr6uo/MdhPu2MQAK5Jp9S5/Wvu5HbhjvAGHf83YTnU
-rpdXFGa2RmfyJIteJbGz0hlV9UGXLI64ozZsvczOG9WpJU2MqmEeIhyHOvapDlE6
-5Y267Gz7or3doCg8Ulz7PSruwhiMt+Xkom3I0xv3D7noe2kStbjNoXopH2+2HwV0
-Lcxtj11CnKlwlD6emtaXsk503IZ0e5IJRBAsfV3ZCzvZWWv6Lv2rI2KSqtTu9kRj
-3U3QcDYgLDTluN3UjusE/yKAyr0uo5OojHPJi3tcT4lQFL4gZlEbwa9ft+O+Dhy5
-6n3X95tr/3p2lsMW3nwpOc23HUF8sks7KDwRiEU9r8jqwc2SdIvf44lKNcfRvKrD
-OgubQt8dtFRa1SeKtsKl4egGHsFzAHk+5ezLGrOG0UMMBUOBY6qVfqYef0YXNIIi
-ZTrquP/Tb6/xMqXOY26ZrMEjOZLZYciah3ysT1tplgLaiBLLA9F5/H/UY8loF47w
-Ce8xWbF2BotNNC84vPCr9jBMR/q5BjzwbIbYXOXaG2yzHkxCv0RWSHcBWMrn7gQl
-wLkUVnBEIgoxdimjcG2OxEbxCNt1xf7aplTF/ySRW9OKhe6HfTYOIMqDj9/UKsYK
-FZ/hUOSnlX0Dot/6my9BTo39qSplsWreytDBFmJ0S4RL7C1A+dV3+YVdl7LqpJPC
-j9sJqBBeMHNkxtKM
-=R431
+bC5jb20+BQJm9UwkAAoJEAFr6uo/MdhPakUP/2j11ZepZxq5UyXJxUecMXvxz94n
+STruzT3VYq4O3bwKJQKZj7El+eXwg5f4+SCGX/xxHInj97KC6STks99Ukd+uNo65
+U2r9o98v8gPpLpy02Vk1MXBOY9U6nXYKuY5yHFxAwjRx/ZU+WWE3DeZ7F1FpOtYF
+ME6UAmIWrT5OliIMxa34NkbF8SDJ1LbsI3a0OJMrjhX3BIILd9C/oUrMpKp2S9l7
+J+TXagcSbztTTrvVtIGgP50oBZrG6lO6FXMGkHyCzwSRF6qEANb0LTHPlyVAVG4m
+h3T/MFetOULSOeMqxrK3dI41Ecnd1PgJILhrdSKLRBw/a5mjZCd0mudLJl9BiBrg
+jOVKd4pDLWiCm384SAblFodvwVKRV0nYkqfDoLdLY+6pOSd4n0vTOasZBfx4vuSc
++M/1tec6CXMiKCj6dTvKwB3CyO2PjiccfdMLjqFWKdTbm4kxdLymFVZ5nY3PXV/l
+R1S6Tna0xuo1KcKqvidE+zAmsVcO8eEtyla406y27q7J6lQeD4kOQUZzFfSa3MX9
+RJl58OBT5TET9A8T3HI7UCpvd+gitCh5UbWikJef6Mbm1Uhus73bzY3C5oREwh6c
+LmrXvrZt3X4xH5q4Ol3ODa5yZfvu559HPPu1HH7aPTf1hak85INUs77dJxHSkI78
+1kd7ASUmETUB9fI3
+=7UXH
 -----END PGP SIGNATURE-----
