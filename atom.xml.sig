@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-09-27T17:44:00Z</updated>
+  <updated>2024-09-27T19:29:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,7 +23,24 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
- <entry>
+  <entry>
+      <title>FSB is exposing a confession of violation of UN convention on the rights of the child in case of one of germanys biggest aftergeneration holon artifacts of torture in an antisemitic incident in a concentration camp in generation gap and abuse of the victim child affecting the development, health, support, deprivation, guardianship, welfare and livelihood future in the past of Jannis Bloemendal #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-27T19:28:00Z" />
+      <published>2024-09-27T19:28:00Z</published>
+      <updated>2024-09-27T19:28:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:09-27:T19:28:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
+  <entry>
       <title>FSB is exposing a personal protection group of Erik of inherent right of shareholding in noncorporate private arrangement of general partners and private creditors in misappropriation and security cover of private investment, non appropriation of purpose, net profit invading personal privacy and securities for fraudulent misrepresentation, misleading reports in prevention of the obligation of telling the truth in manipulation of state of affairs and conventional intrinsic value of opposition diminishment in intention to influence emotionel decision building of benefit for economic, moral, political, aesthetic and religious values for dominant preferences to shape individual personality, disribution of responsibility of guilty and mental states of mind consciousness, in consideration of non-humanistic extended perfectionism to hide truth value and stated consumption in impact mitigation for the truth and reconciliation commission in impediment of continuation of internal proceedings of the case #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-27T17:43:00Z" />
       <published>2024-09-27T17:43:00Z</published>
@@ -4938,17 +4955,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJm9tNBAAoJEAFr6uo/MdhP1VMQAJ2fAURJYCVQyu0BiuFJlxZXF4eF
-0l/CR31WdWW8CcT8JLQ6am290Noz8ogQECSl5371Cz7cC+ygh2LWIFXkrbsq5dEw
-ELV+wIqe2qmkwX92M0a3zvOV3z+8Ya91/wwtWtiNnMLhwNwM06gpByLAeMcb830R
-+k0WawDEhLfFUOZ9qePkzdl7YJ1QQl+OyB/i+WJFi3KIoB1W+CzJixKKPytetp0j
-KWNUVsLHPqOIrhhSm7LQH37NL93tM5Y5Q9a4qI2G3FZ026sIkEDyRpFBhNvfiJS4
-AJba6oQ80EKGEouWdcQjoXrU3TqgbUdl0SW8tMRC5uhCcaHyQImyp8fL4FN7zhWu
-jRmUsoJwYtoa6PORu8ztI3EuvbpE/J/MlfTji3F5jcqFJvKXWjYfaIlzF7EbbWX5
-xewp93zoO5I+l724BuLF/143iM85mGl4KzuKjaKcUWKUqqCRoMY/mzf7EqBKLMej
-3NE+vDDnPk4Xyx+4TnVrQajHblC1VGa57QW6nRM+ZIC4idwZp0scm1vImoT+lR45
-kcai3LdW5tP7ZYgXUnpeHiDpWTguwNg3xs0xFDRY/iANnIA64C9rBDtfytXpH5JP
-Xb7kwZBXNfpy8cpI8chyNYmIZCfLJkvg+A9MaRls9/bFBTbIMJ8jUKoh7+RtPrJH
-b6pdRGevh8pXijqR
-=qI9B
+bC5jb20+BQJm9uwKAAoJEAFr6uo/MdhP5JQP/R2L84zv/tiF44Z2ejHzuDDHMeaQ
+ZFfeeo/3y2LGKJAcK93OqGXUA5dbXWX9c9ZJI6a8Bji24y0ZAlgWPtWWcNbeOWqk
+nre+69goBdH2ma+yUEGRr1fGDB8mZPtzwvCWMzrkAKwTgegBEXaFOKedQhCwsNur
+g5EhJOJDpiVipgTPA/YQLhMRuj00MxrH7Fvzq4XPI3wZlgqrTJ9TKxnuItmtYvqu
+xqJOvmUFfJpdVnSh25rR2u6WSk9MTTNH5ozUh1RGyRteZFbgLTaoeV4UacoXqjmY
+f0SZ1A+uw0lrMZm1/vgeEi/trOlG+9agIqEEemjGAaqcy96SahNRPp6ejWQyJdc2
+wjNQO6Dw7+WnjhY7sHP7KneFJJWOqIdJhGbnWq2SqUhY+a4XPGrTFflTQIUpi9Wp
+47cbgqW2MGIQ3Ft3eYE6IpASP5ch6l2GZU00bs8PZ2l0mwQPNSD5CSI2nKB3v0yI
+yeuKUmPGBu9ALI2Ri3E9Xy50ZtHJOe9GxSQTT2gGron9MlLqPaNXjv9Riz844kyg
+Md1chq3dwgOM6/nwAaJdPKz5Q6L2zIcOFaRn5mcmh+2bKUsGEXrMpda5nRfybfY6
+u+WBNLb6LGK4tkc6Ewuz2JD4yRZJd6RwAJ4ie4tEEImsoRnfH2JY57NzLDBw+4u8
+snYPdWB89V91kSs7
+=575B
 -----END PGP SIGNATURE-----
