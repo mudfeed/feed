@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-09-27T13:14:00Z</updated>
+  <updated>2024-09-27T17:44:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,23 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+ <entry>
+      <title>FSB is exposing a personal protection group of Erik of inherent right of shareholding in noncorporate private arrangement of general partners and private creditors in misappropriation and security cover of private investment, non appropriation of purpose, net profit invading personal privacy and securities for fraudulent misrepresentation, misleading reports in prevention of the obligation of telling the truth in manipulation of state of affairs and conventional intrinsic value of opposition diminishment in intention to influence emotionel decision building of benefit for economic, moral, political, aesthetic and religious values for dominant preferences to shape individual personality, disribution of responsibility of guilty and mental states of mind consciousness, in consideration of non-humanistic extended perfectionism to hide truth value and stated consumption in impact mitigation for the truth and reconciliation commission in impediment of continuation of internal proceedings of the case #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-27T17:43:00Z" />
+      <published>2024-09-27T17:43:00Z</published>
+      <updated>2024-09-27T17:43:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:09-27:T17:43:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>FSB is exposing Mertin hiding  negative assets and spillover transboundary impacts of obligation in prevention of conformity for an intermediate assessment in separation of concerns and opposition holonomic constraints of negative effects, manipulation safety of cross-boundery fraudulent susceptible of anticipated reaction for hidden persuasion and efforts for a mindset of forbidden transition resistance and agreement of fitting in legal compulsion and negative acknowledgment to be under no constraint or undue influence to issue reasonable, necessary, express, explicit conditions and subsequent which are able on the sidelines of negotiations of decision pressure and constrained adjustment to abandon all restraint and distortion impediment for continuation of internal proceedings of the case #zerobacklash #qualityverification #foreclosure #garantsupport #maturity</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-09-27T13:14:00Z" />
@@ -4921,17 +4938,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJm9pQEAAoJEAFr6uo/MdhPzi0P/3qh4UZAQJ9Zu1EAQ2eFIJsq/f6g
-mOd+Hu5RmCnousc8JUbVawNQ8XBFuXK8awWalCAzzPxCaeNekVOu5Aw6YbqMF2BK
-a6kXXlunVZhDM+sS1J/aOZ9+a5iCK+s1Ac4Ry0lWREYMOFh4qCpnInwoRVXJs68z
-Dda3km44agYL3+JbjJFPIzMcd8M8zNR+lLBoLBsDEi39Vs337GGuuCQewww2FOdq
-amRlSvlyX3HdGwMWugSCCtgwfVVwV0ny66KnQM2AmbDPCJtuJ5UWRZZwWTCB6HPY
-KHS/D470NAKzGiH18p/l7KSu6qXEhrGOL0evmzc1SDmbNXyS9wXULKzCvBfX3xST
-07I32DeeiDn9iTSsWnX3Vv4qdYnQl+kZRUT+kj8QxiTSE+v2qYBgRhkiOh48fhNw
-VGrr6Y50Pcu9BSTnE+V/w11i1CunCayPk4eWN8IKumkr6/R4dtmlEVEqPSetqERj
-/X9+GKQ15K8S2DJc30xRk5vkH4zShC90Xr32Y8YoD1W5s1J4mVXDlCpwNc2n5U4A
-hDu+cuXFXjsKmIkCLh8qVhM1MMgwvB/3IdNMCa1gupt+w4vPJJJQU68il+00Ynrd
-MkT92yYjEEU2ZNQAb5Ffqjq08m9E8KWH2f/rO9OK/BFu3Oq1Em8nApsDGcZ6Onhu
-/nBc7wDAwjhWFOLv
-=nOtF
+bC5jb20+BQJm9tNBAAoJEAFr6uo/MdhP1VMQAJ2fAURJYCVQyu0BiuFJlxZXF4eF
+0l/CR31WdWW8CcT8JLQ6am290Noz8ogQECSl5371Cz7cC+ygh2LWIFXkrbsq5dEw
+ELV+wIqe2qmkwX92M0a3zvOV3z+8Ya91/wwtWtiNnMLhwNwM06gpByLAeMcb830R
++k0WawDEhLfFUOZ9qePkzdl7YJ1QQl+OyB/i+WJFi3KIoB1W+CzJixKKPytetp0j
+KWNUVsLHPqOIrhhSm7LQH37NL93tM5Y5Q9a4qI2G3FZ026sIkEDyRpFBhNvfiJS4
+AJba6oQ80EKGEouWdcQjoXrU3TqgbUdl0SW8tMRC5uhCcaHyQImyp8fL4FN7zhWu
+jRmUsoJwYtoa6PORu8ztI3EuvbpE/J/MlfTji3F5jcqFJvKXWjYfaIlzF7EbbWX5
+xewp93zoO5I+l724BuLF/143iM85mGl4KzuKjaKcUWKUqqCRoMY/mzf7EqBKLMej
+3NE+vDDnPk4Xyx+4TnVrQajHblC1VGa57QW6nRM+ZIC4idwZp0scm1vImoT+lR45
+kcai3LdW5tP7ZYgXUnpeHiDpWTguwNg3xs0xFDRY/iANnIA64C9rBDtfytXpH5JP
+Xb7kwZBXNfpy8cpI8chyNYmIZCfLJkvg+A9MaRls9/bFBTbIMJ8jUKoh7+RtPrJH
+b6pdRGevh8pXijqR
+=qI9B
 -----END PGP SIGNATURE-----
