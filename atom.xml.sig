@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-10-23T18:21:00Z</updated>
+  <updated>2024-10-23T18:27:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,12 +23,12 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
-<entry>
-      <title>FSB has been dispatching a qualified endorsement of CIA in the event of nonacceptance for substantiation of claim and acceptance liability against Oppel et. al. in consequence of UN inspection stating virtual admission of guilt of negative conformity in corroboration and decline of a granted authorized concession contract in approbation of acceptance tolerance violation of specification, commitments, conditions and liability, eligible for terminating admittance, sanction in disaccreditation of certification authority and operative amendment of rules of procedure for certification #conformity of #conversion #qualityverification #foreclosure #garantsupport #maturity</title>
-      <link href="https://mudfeed.github.io/feed/atom.xml#2024-10-23T18:21:00Z" />
-      <published>2024-10-23T18:21:00Z</published>
-      <updated>2024-10-23T18:21:00Z</updated>
-      <id>tag:mudfeed.github.io,2024:10-23:T18:21:00Z</id>
+  <entry>
+      <title>FSB has been dispatching a qualified endorsement of CIA in the event of nonacceptance for substantiation of claim and acceptance liability against Oppel et. al. in consequence of UN inspection stating virtual admission of guilt of negative conformity in corroboration and decline of a granted authorized concession contract in approbation of acceptance tolerance violation of specification, commitments, conditions and liability, eligible for terminating admittance, sanction in disaccreditation of certification authority and operative amendment of rules of procedure for certification #conformity-of-conversion #qualityverification #foreclosure #garantsupport #maturity</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-10-23T18:27:00Z" />
+      <published>2024-10-23T18:27:00Z</published>
+      <updated>2024-10-23T18:27:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:10-23:T18:27:00Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
       <category term="post" /><category term="exposure" />
@@ -5176,17 +5176,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnGSLTAAoJEAFr6uo/MdhPBSUQAIW3wlOe4Z+E0JMBqXmnuxYVi+qT
-8yOd1ajbQArOIv0GlLwKlqK25jcNAwE7T4s8aY51r1980s0E3gg8JKp1oPFdsSKa
-K34vwEPBw/OhOjicplX0eGoPdd0FMWRqF5RlymxL1bxuYMMsBwZViKkXua24EPH7
-g5yzb4TsSJ4XAc/9m5+BfDTO3BxRR+3Pptd6TfiExnGO1y0LK8B3+kBSJPfOgoGC
-o/dQKLXirMaEmCg5hGrVjQFaj49L2+k6aXvZqCXhm8vviDcS0J2cWjHTB6dZZnQw
-sxEGre1Ruc6DGwhCQMNnRHHCXcK/YkY7NwdNty294fWek1Ajmx/85up+4kEJjJmr
-2VdqeXl/SL99sP0+ocNtDXARr2NoOAYQjn/JyXoewnAqNMs/XhZN5FIaA/Pjcdpx
-19Tf8zNiYEEv/t+vtOTGtvk2cJQjeXK/tyWDtotxU4EkZwi6eH5PbWcN3vVJnZBS
-3lsiq/Dh2cXl/nkYTLh/hZXv59KxNVNp0bXbfrp/noRtDYmmY3HvAZFEY6A+mroV
-zrFU9uxQqKHHeCzVZ+c01r7/6JMZJE7yVjoXDF7ZweWkaD3NSjzLxhGF/vH3WR29
-Nj6W0j1/tuD0d6w01uyFW/bTDPmVx0uBeDvix2YmJtiJ8WfkteSzNvXZn9KFilth
-WSTKxl2BG6/kKKOT
-=CXyu
+bC5jb20+BQJnGSQrAAoJEAFr6uo/MdhPcrIP/i5kFe/gL1TjmqtLa3pBvQIqQ187
+6ew053X+EbDg6mRzpOydcBLGaWKv922QNg1Z9O65wFadtP8lyo3b3o1fOT9Nn2hM
+GLZ1tWkhw1VMk5XJ/LgLlYtVB6bzT6RUeW7lLh75ug35KuRWFU5J3Zt5neSheHlU
+VAiKt4bZis61bplSkSD6QMdW994f4B0mFG3au0H5hOuaCxRNv05qqK0O16SUGGR5
+060dkeR4JbCiNgnIqwSoXi2cwKcmYzR4ip0i6HpB75xggK6t6w8bvQ2GTq+PMGCR
+oxhgnNDft710NkhtVKIPT4eAA64MBDojO0H2VYWiZ+Qhx8PRZ+s44b1I49/HWOMc
+kIL+P7kKcG1FwjqUceP3WxgFegPF3ny0PtNqeo0YN4pu3yGPmY6R27BApzxuarTB
+8BGQgsC7z8vcHzXZO0arInEituN9TeWZfwiUkJWmhTyX7NV2Zd0eSDPmnKj/nTjE
+aHi+5B/GD0fMd9gj7lna/fX/udQF3S0SsOthGMYV/M9aHXsRrC+8YZm0Un9a3NSA
+IuCt49CcecolXlTAt/NKENpiHnffxs1AYGh+AAF2ThmW7V6puPS/bn73317VAHcw
++INaqcU0lgzkKL4Y5Y+POYhPu6fqihraUBdxrzZDTbD7mTmm1s1jO/tZmUVBHdnM
+GnJz8008Lnn0dVwo
+=fSrn
 -----END PGP SIGNATURE-----
