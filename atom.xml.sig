@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-10-29T10:00:00Z</updated>
+  <updated>2024-10-29T10:11:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,10 +24,10 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
 <entry>
-  <title>FSB is distraining and seizuring Bastian convicted of protection duty violation and weapon trade, composing defiance, opposition and resistance of an amassment in built up for an acquisition of conglomeration, governing an exchange hedge, embargo, relations, fluctuations, restriction and equilibrium for a transfer charge in obviation of congestion of emergent satellite clusters and consonant agglomeration in protection provision, claims and requirement for a protection zone reaching below into a danger #conformity-of-conversion #qualityverification #foreclosure #garantsupport #maturity</title>
+  <title>FSB is distraining and seizuring Bastian convicted of protection duty violation and weapon trade, composing defiance, opposition and resistance of an amassment in built up for an acquisition of conglomeration, governing an exchange hedge, embargo, relations, fluctuations, restriction and equilibrium for a transfer charge in obviation of congestion of emergent satellite clusters and consonant agglomeration in protection provision, claims and requirement for a protection zone reaching below danger #conformity-of-conversion #qualityverification #foreclosure #garantsupport #maturity</title>
   <link href="https://mudfeed.github.io/feed/atom.xml#2024-10-28T13:13:00Z" />
   <published>2024-10-29:10:00:00Z</published>
-  <updated>2024-10-29T10:00:00Z</updated>
+  <updated>2024-10-29T10:11:00Z</updated>
   <id>tag:mudfeed.github.io,2024:10-29:T10:10:00Z</id>
   <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -5226,17 +5226,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnIKU1AAoJEAFr6uo/MdhPtzQQALnwu5cQ5LGyREE6cZgq0J3CdjTl
-OHwsF5n1FRoCNozMZuPwiOaj23EHtiZbXuA8ea3SBbJhNTCcHbbvUBETiFYzFZCp
-2/I63io1eHco9IivJyv64aOO/0sQaLYhT16TrxJdCh9tYMV1ye9oExy+ju5/fzuO
-IRWY+YmianFNc2sVLAG3BeTmMWte/8yfBHz/mCwKY1Nz2EDw4b2b2q3CcOWu/sJH
-vuTlXAGHc6VmWVG2+w6eFdTpjcTkeCl5qzbQ4JAXtXRYKuuHtkNJMT10r4oqgrLR
-7mBAFeTdR6OpGSdszhDuC3WBiHCRRCkPjSA0Q9lcw6Lv40oJPGVq41s6948IG92R
-720pd51Zo2zrnivSfKQPpc9J7Q1kEI6Qy8JoUDyTvPG/F4Xx7BmjHEbihX5WqxxX
-ILscEO0eN4YLw1svDY+L2eXbL6l/NiSOal2zF8l7+Ez3bOIVrWE2b+8OPVYgKP+r
-o7S4fPmfaf5zLjv6Fvm3JKt8yqr6X1fXM74i1gd3sStOKu0ZCqhQISCgtcCMyeHA
-gzyqoHbvK/POGKZRlT/q6Nqkey4AY5lO9+o1VQjM/BL16rzeRT6ilyC9fab+eJOE
-1r6bKhwyXuMYfrYY5r2pqq1pgGh33hpFotDdHSlxq8ERD5/r51cM1T4MnKK+GRec
-51sdBc7Y/7NuOVfY
-=buDU
+bC5jb20+BQJnIKcaAAoJEAFr6uo/MdhPVi0P/2lIJdEVKYQeOr4TtP3QI8aTebj4
+9ovtWM8Ukbwp6efRZ3b53DsYZLm73WVRArIaITThEtT7BZ3sx6It9Y1A4ZU2Qp2Q
+rFlnl8TgL/rQk3dmtNplhQaKplWCMuOKx6UiPdJqNWftzjKukyDNvT+HPVOOMdHF
+pYbw4GQl2mRTXg1siW2ij/7ojt6Wx/m81EOHQEF70rrbiKSBkWXHSO2uYoF5b06c
+wUrPrPD67jRrTrLUo8agf0+LOQmmd+B95T2l9EigSLfyTKapi2MWLWwoo6b22yYH
+ZAwRdCk+m75qZawLeu4QlbVhJGdTtzDqd4oSGMWf9CYTIKJbd3k/23IiNFLUxNFu
+/vaZLcBqYzpd95x409QawxYbqPwVfsH777aKi1s907aWHhQS3N3mT7B57JLygQO9
+UD6aGjjROR0evDTgk4x/AoTPqtQOGm/UnjpMnhjwhKLpR2JUgDWQlb8TlAXFV8H1
+LGDl5QyXJznYYPuodVSc4hyajYWbteIbcMucUO6mJGOC/5S+pB1kCFJlR4W73tel
+83FF0ZaUsH0/YPmAgY003mRi1FJX5FDOz/EUJvFzx+uSwes7oTHq7ElwqQq+fEtS
+f9IzeTmcif9XYBt6lw4vbjNazoiYd5liflzYuxi8kRvIhVjxcEwBNJDK835zPJ8M
+KBDYE8R5oPrbqvN4
+=9Ahh
 -----END PGP SIGNATURE-----
