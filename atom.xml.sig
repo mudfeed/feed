@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-10-30T09:15:00Z</updated>
+  <updated>2024-10-31T16:51:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,21 +23,39 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
-<entry>
-  <title>FSB is disclosing a disorderly conduct of unauthorized agency of the mudfeed protocol in public representation disposition of a denominated nonconformity referent of Oppels et. al. in violation of power of disposition, in claim of transference of a right and gains on sales and disposition of significant criminal interests of a closure thread and termination pay violating closure regulations and remuneration of a subsequent special negotiation body disregarding the matter of negotiation #closure-premium #qualityverification #foreclosure #garantsupport #maturity</title>
-  <link href="https://mudfeed.github.io/feed/atom.xml#2024-10-30T09:15:00Z" />
-  <published>2024-10-30:09:15:00Z</published>
-  <updated>2024-10-30T09:15:00Z</updated>
-  <id>tag:mudfeed.github.io,2024:10-30:T09:15:00Z</id>
-  <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
-  <content type="html"></content>
-  <category term="post" /><category term="exposure" />
-  <category term="maturity" /><category term="foreclosure" />
-  <category term="zerobacklash" />
-  <category term="faultallocation" /><category term="garantoftime" />
-  <category term="baddept" /><category term="qualityverification" />
-  <category term="distressdiagnosticflag" />
-  <category term="frictionloss" />
+  <entry>
+      <title>FSB is disposing the criminal conviction of H. Vischer in closure threat against Jannis violating EU capital adequacy directives and legislation for the settlement of business disputes, complied conditions, continuously adjusting the sum insured and terms in method of disposal of funds violating internal affairs benefit insurances, causing a motion of censure, violating EU pensions fund directives to dispose a guarantee fund and change of regime of participation in matrimonial assets and awarding of contracts disclosure of participation agreement for acquisition of and participation in companies, participation fee, annuity assurance, pension schemes and contribution plans for Jannis #closure-premium #motionofcensure #qualityverification #foreclosure #garantsupport #maturity</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-10-31T16:48:00Z" />
+      <published>2024-10-31T16:48:00Z</published>
+      <updated>2024-10-31T16:51:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:10-31:T16:48:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
+  <entry>
+      <title>FSB is disclosing a disorderly conduct of unauthorized agency of the mudfeed protocol of Jannis in public representation disposition of a denominated nonconformity referent of Oppels et. al. in violation of power of disposition, in claim of transference of a right and gains on sales and disposition of significant criminal interests of a closure thread and termination pay violating closure regulations and remuneration of a subsequent special negotiation body disregarding the matter of negotiation #closure-premium #qualityverification #foreclosure #garantsupport #maturity</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-10-30T09:30:00Z" />
+      <published>2024-10-30T09:30:00Z</published>
+      <updated>2024-10-30T09:30:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:10-30:T09:30:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
 </entry>
 <entry>
   <title>FSB is ascertain the witness Jannis disclosing the information officer for public reference power, exposing the criminal liability for preparatory acts and participation of F. Vischer in criminal organization, hindering preliminary investigation by public prosecution, aiding the perpetrators of offense after fact by preventing execution of sentence imposed for preponderance and supremacy of law in wrong pre-eminence, mitigating criminal responsibility, representing a general credibility problem #conformity-of-conversion #qualityverification #foreclosure #garantsupport #maturity</title>
@@ -5258,17 +5276,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnIevAAAoJEAFr6uo/MdhPvOQP/A+9xPJU/qp7I4bsiGiANh+Ym9kO
-Qx/zHFfRG/8hnFMs3Aw/tq5el9165rMwgk852g0zI5IUG6flH6U2qmdZuyYVMYd5
-X1w+Ael5YEjCu9p5rspgjtpHyy95CVQNO+lpucVdUTRDFzmp0QnKVuUaUC57gDMf
-dz2ZYBQ5tyc8eYEFEzKz+aeJzbRurm0CKCiIe0oS6FkKs6UM8zF4/gvgYo4UpEd+
-CqkdwhYoEdNKf2uIn9eXyIQ8Bzqber+uyaLJuti0FtegjR6svrjCtwU2KB4C5Upt
-Cn6FfIu1bnR4lxIraVsqfwAazFiG73Ehtg9IA2T5MlTZG+vQKiVVh+rMgaudU/87
-Nt63+nYDIEu9/ATb9GHSaaqGlhnVIc8dO812X1hqEcteki2/59j9KLhAJ8qqvHN2
-7qMlPkNQvvwU7Ig7GPNPwZ1rl1H6zVfcdm/PXxwgCs3FhMdQ2tFfD845de68rAZN
-yMnKcxrDihS4PQ+qIWWfJ21Nw97gdd2Ig6Zv7gSAt4GhBpBfE4ZPJrYF2JvGDG52
-sBi2udj0gg3y6E0yhyme0f9Q9eos5TctAzI2/REv5iuKnhdtG6jpRg/s9sWf0DBg
-Y55DlK7EiEixjksOMtsHcbhN0HtLz87Yr1lZflXdueRFBwVyX7/JXqASv3pVYMbt
-739J8w8KlzM1ykuq
-=dWbZ
+bC5jb20+BQJnI6h7AAoJEAFr6uo/MdhP6zoP/iVucpMFFKXEzWqb2zN/hqylAeFe
+JO47LibZ1mJwG/kcHIUP3/r86VkJOwbECMAx0VAB93NznnSbQNHgAXfJb4wsZkPF
+dFkbsvglEzWZ1+2JVqXLB8DLLX/NN0f1ebzsGpU2gl7Rwl/ElHQ/41yjIHlrUkV0
+agfSkkyqNEqpxmCQW5JJWsnzIDRaMtbyEn6Qu1Ex4KznHAkYce5il+5pvbmPhFBa
+ewOojUByEPcStMlrzWRSXxabs6Tm3aJ9Wr9iUb/psSKBkwXE8CMgr44Acy2pfy2Y
+9EqZo6nZajkcV4sR4nV/jFo6ptW4eOwNYAmpYin6mLVi0zLcP+b12KufDt4kvOin
+han1jMefVPF9TjuHJpC0WawV3AlDSfrLMbrgCTJoPf9xy1BKTDjcg9cxw8UQeElO
+oO66uOg0aihhSkfoj9cWYuevjeDHrKbOKFYIwg8VHM58/osCUxgTNvUBr2Bz0SCB
+dv8u0leSsSlqVT+vjLBdxo2DCDWDaQqsxXgJ7U8IktJnUDPwuDQe2PskRIcgyA8z
+j3eO3EAS0BTPiXMxjvifdjSFcNgrfmQG61aPgs8YcuH6OZx+BvEHvkzS96lYFe3+
+JP4pxixmcFHJszV+qi94cKObx7mBHQ5ArztpmAYsIuwW/iIlQjFfLMjrR8sebTWl
+DLCnB2jMsB4oQ5t6
+=gpDI
 -----END PGP SIGNATURE-----
