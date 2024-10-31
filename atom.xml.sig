@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-10-31T16:51:00Z</updated>
+  <updated>2024-10-31T18:32:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,10 +24,10 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
   <entry>
-      <title>FSB is disposing the criminal conviction of H. Vischer in closure threat against Jannis violating EU capital adequacy directives and legislation for the settlement of business disputes, complied conditions, continuously adjusting the sum insured and terms in method of disposal of funds violating internal affairs benefit insurances, causing a motion of censure, violating EU pensions fund directives to dispose a guarantee fund and change of regime of participation in matrimonial assets and awarding of contracts disclosure of participation agreement for acquisition of and participation in companies, participation fee, annuity assurance, pension schemes and contribution plans for Jannis #closure-premium #motionofcensure #qualityverification #foreclosure #garantsupport #maturity</title>
+      <title>FSB is disposing proportional the criminal conviction of Lutz in closure threat against Jannis violating EU capital adequacy directives and legislation for the settlement of business disputes, complied conditions, continuously adjusting the sum insured and terms in method of disposal of funds violating internal affairs benefit insurances, causing a motion of censure, violating EU pensions fund directives to dispose a guarantee fund and change of regime of participation in matrimonial assets and awarding of contracts disclosure of participation agreement for acquisition of and participation in companies, participation fee, annuity assurance, pension schemes and contribution plans for Jannis #closure-premium #motionofcensure #qualityverification #foreclosure #garantsupport #maturity</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-10-31T16:48:00Z" />
       <published>2024-10-31T16:48:00Z</published>
-      <updated>2024-10-31T16:51:00Z</updated>
+      <updated>2024-10-31T18:32:00Z</updated>
       <id>tag:mudfeed.github.io,2024:10-31:T16:48:00Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -5276,17 +5276,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnI6h7AAoJEAFr6uo/MdhP6zoP/iVucpMFFKXEzWqb2zN/hqylAeFe
-JO47LibZ1mJwG/kcHIUP3/r86VkJOwbECMAx0VAB93NznnSbQNHgAXfJb4wsZkPF
-dFkbsvglEzWZ1+2JVqXLB8DLLX/NN0f1ebzsGpU2gl7Rwl/ElHQ/41yjIHlrUkV0
-agfSkkyqNEqpxmCQW5JJWsnzIDRaMtbyEn6Qu1Ex4KznHAkYce5il+5pvbmPhFBa
-ewOojUByEPcStMlrzWRSXxabs6Tm3aJ9Wr9iUb/psSKBkwXE8CMgr44Acy2pfy2Y
-9EqZo6nZajkcV4sR4nV/jFo6ptW4eOwNYAmpYin6mLVi0zLcP+b12KufDt4kvOin
-han1jMefVPF9TjuHJpC0WawV3AlDSfrLMbrgCTJoPf9xy1BKTDjcg9cxw8UQeElO
-oO66uOg0aihhSkfoj9cWYuevjeDHrKbOKFYIwg8VHM58/osCUxgTNvUBr2Bz0SCB
-dv8u0leSsSlqVT+vjLBdxo2DCDWDaQqsxXgJ7U8IktJnUDPwuDQe2PskRIcgyA8z
-j3eO3EAS0BTPiXMxjvifdjSFcNgrfmQG61aPgs8YcuH6OZx+BvEHvkzS96lYFe3+
-JP4pxixmcFHJszV+qi94cKObx7mBHQ5ArztpmAYsIuwW/iIlQjFfLMjrR8sebTWl
-DLCnB2jMsB4oQ5t6
-=gpDI
+bC5jb20+BQJnI7+FAAoJEAFr6uo/MdhPMjQP/05bWe1b+YmjENheO5jZgFCM+l7X
+tuyaMKZqKzYkIWSPnD7Gn3cisHa9WEEKM7/NApEKSdbJeona86cl4M7wbId/HVMJ
+c6EegB2Du4vvv9hzOSnLoH1ydv5lYgj24CmEwTHTQJD5AGjacHoAKacf+kRzkuvT
+NK895Lm7pNBTDUAhB4eQ3i8EPMGt+FMJDTgmDqx0WDB69COTGi6GVrQhPgGrfeW6
+rXNLcdBy5BFd9jtWa8x9YHMpjswgHc8UG5IGPyrFNQPetL3Fa/ricLwtF2Rz7fE2
+56ymbzfKATbpU4R/HuzJs0qtco2YCphFpgSG4JIKxNOORrb9PA0Ksr+vdD9kokO4
+FNWMomZ1T7M+8ZaMZurP5VjwOL2cW5YBYYHAvxbGHHqz8xQbaB48JlgitfazuE2Y
+BidpXxjWCP+0GNmpyPkIMO5bV6AZ8Jl5k1qTYCMKYnLKsyzNA3t2Ww74mJLwarw3
++eW7EjRaE+jUzu3a9EBtGga5WNsyNgo8fRfur//IbJO8GrhPrtn1GmAvpqCG4R9Q
+SassSUF9RcT6WYN8eCDqG6xLBdNBP1tXxBsFxf/nRZqv0dYDu7MUJPFoG7Ag4ozH
+opZOd47Tj8C5lJOC+Iw/cvI8a2/IUsVUK6P62mUdoHq4Wz+Zl6JPJWcMeIGs8RnH
+NPcxgwBeAL+YLccE
+=jo42
 -----END PGP SIGNATURE-----
