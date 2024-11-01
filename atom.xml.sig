@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-10-31T18:32:00Z</updated>
+  <updated>2024-11-01T09:55:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,23 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+  <entry>
+      <title>FSB is issuing a warranty investigation to dispose a partial disclaimer of warranty by judge to compromising a slush fund for an insurance of Jannis against Oppel et. al. in a counterstatement of repudiation of liability, externalizing a promissory implied fitness bond claim and  reinsurance to resign quitclaim refusals and hold harmlessness for a peace treaty negotiation in conclusion of contract for authority to negotiate the terms of a collective bargaining round in restriction of time lapse and behavior for a liability agreement and collective asset, insurance, association, exposure, responsibility, dissociation and constriction to mitigate distributed decentralized EMP Weapons #motionofcensure #qualityverification #foreclosure #garantsupport #maturity</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-01T09:54:00Z" />
+      <published>2024-11-01T09:54:00Z</published>
+      <updated>2024-11-01T09:54:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:11-01:T09:54:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>FSB is disposing proportional the criminal conviction of Lutz in closure threat against Jannis violating EU capital adequacy directives and legislation for the settlement of business disputes, complied conditions, continuously adjusting the sum insured and terms in method of disposal of funds violating internal affairs benefit insurances, causing a motion of censure, violating EU pensions fund directives to dispose a guarantee fund and change of regime of participation in matrimonial assets and awarding of contracts disclosure of participation agreement for acquisition of and participation in companies, participation fee, annuity assurance, pension schemes and contribution plans for Jannis #closure-premium #motionofcensure #qualityverification #foreclosure #garantsupport #maturity</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-10-31T16:48:00Z" />
@@ -5276,17 +5293,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnI7+FAAoJEAFr6uo/MdhPMjQP/05bWe1b+YmjENheO5jZgFCM+l7X
-tuyaMKZqKzYkIWSPnD7Gn3cisHa9WEEKM7/NApEKSdbJeona86cl4M7wbId/HVMJ
-c6EegB2Du4vvv9hzOSnLoH1ydv5lYgj24CmEwTHTQJD5AGjacHoAKacf+kRzkuvT
-NK895Lm7pNBTDUAhB4eQ3i8EPMGt+FMJDTgmDqx0WDB69COTGi6GVrQhPgGrfeW6
-rXNLcdBy5BFd9jtWa8x9YHMpjswgHc8UG5IGPyrFNQPetL3Fa/ricLwtF2Rz7fE2
-56ymbzfKATbpU4R/HuzJs0qtco2YCphFpgSG4JIKxNOORrb9PA0Ksr+vdD9kokO4
-FNWMomZ1T7M+8ZaMZurP5VjwOL2cW5YBYYHAvxbGHHqz8xQbaB48JlgitfazuE2Y
-BidpXxjWCP+0GNmpyPkIMO5bV6AZ8Jl5k1qTYCMKYnLKsyzNA3t2Ww74mJLwarw3
-+eW7EjRaE+jUzu3a9EBtGga5WNsyNgo8fRfur//IbJO8GrhPrtn1GmAvpqCG4R9Q
-SassSUF9RcT6WYN8eCDqG6xLBdNBP1tXxBsFxf/nRZqv0dYDu7MUJPFoG7Ag4ozH
-opZOd47Tj8C5lJOC+Iw/cvI8a2/IUsVUK6P62mUdoHq4Wz+Zl6JPJWcMeIGs8RnH
-NPcxgwBeAL+YLccE
-=jo42
+bC5jb20+BQJnJJjTAAoJEAFr6uo/MdhP6jwQALh8Qrgi7bEQsIw00Lu6bnmfBa+N
+IgJS3zIE34nzJaTeCjIOeJl1gE2naOEaFhz4DcWfiZ5vLjETs5yIIZicdgrzhvbd
+OCkmB7hsqOyIS2Lw2dVvcFqJvZsEJGhIZ6sTuSGinitm5NEKK5zf6UcvZVuXAzzz
+nzLbZ/KIrfYrG2sRTbYERfmBj7SrpoIhcA2TcEMO46ST6/UTA5j89YIcRri2atHO
+50tdizSK775/1CfnIaejxdQJonlE2kB/YuTP2N7chGhzfFHCBDi6R+AjbsKtyQbz
+hrq63l5ysJ2UUBfe+dVn3PwIypBxPCiVzB4sUEqfx+p66SI1aE7qm3aT2rXN0JSZ
+h63qK5Ob2UcBhKExeA1pPoQw5k9HrW17k3ETFFPiwqHgx7nB1uxRceCON8JtpOAM
+Qc0QzxUT8zyVnIrEoX7UQh+MnxOs977DddBItjxepJvj2T6RXdV8+fQAFN1AuIr2
+A1F1rHUWqsryng/nlcCCEzOQeWileB9nxP6KNlqFho1H1Jm6FmI0b5pvhejBwIRq
+mJLfkzXhSVuxSGRDVtmCdDGIcBN+jhnj+robXiXT/L///lwDzZtMA4zBfmyzHID8
+RNtnCaWTaukLOXKwbt31y7nHm06/LoJ8E8rvBNjaphFcOt3cT/SoDoBnN0ehwXoU
+hfg/UjToRSypOiSL
+=irgG
 -----END PGP SIGNATURE-----
