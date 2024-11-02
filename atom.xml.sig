@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-11-02T18:48:00Z</updated>
+  <updated>2024-11-02T18:53:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,10 +24,10 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
  <entry>
-      <title>FSB dispatching and substantiating the indemnity, warranty, legal claim in prevention of cross claim and injunctive relief of the connivance and encouragement of Hardy, mitigating a discrimination and perfidious insider threatening insidiousness behavior of convenience and intent to deceive of violating concession boundary in comparative advantage under restriction of commensurability, disregarding endangering, extending coverage peril in despise of infringement, negligence, deceit and fraudulent concealment of facts beyond reproach and supremacy of law in conditional acceptance of overbalance and disintegration #qualityverification #foreclosure #garantsupport #maturity</title>
+      <title>FSB dispatching and substantiating the indemnity, warranty, legal claim in prevention of cross claim and injunctive relief of the connivance and encouragement of Hardy and Friedhild, mitigating a discrimination and perfidious insider threatening insidiousness behavior of convenience and intent to deceive of violating concession boundary in comparative advantage under restriction of commensurability, disregarding endangering, extending coverage peril in despise of infringement, negligence, deceit and fraudulent concealment of facts beyond reproach and supremacy of law in conditional acceptance of overbalance and disintegration #qualityverification #foreclosure #garantsupport #maturity</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-01T09:54:00Z" />
       <published>2024-11-02T18:48:00Z</published>
-      <updated>2024-11-02T18:48:00Z</updated>
+      <updated>2024-11-02T18:53:00Z</updated>
       <id>tag:mudfeed.github.io,2024:11-02:T18:48:00Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -5327,17 +5327,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnJmaKAAoJEAFr6uo/MdhPI7sP+waZisoLemYj50h5o03QuT9GP0mb
-lOHa8qhL+O07ywjv3S0gdcbaGZ+UlGpbQQ7tpnF1aSb/G6d1K2XHac6xxWSnHcVH
-YHLJ4564QNi+AGcoCbaoAp/xhYxty0Hg2KVp+zDEWWcxaDmpaaOm/2KWR0i0V0zi
-0b7Lp0iYN9GWTZHdJhb+y/d7bcBiC2+XMzBYhhQOMuOUCYQVw6qKqV5q1RI8qFmD
-CE0sASnOGsJBqHVoAohCb1K6mv9OeKnAY58XpBCJwXPkrW5ef6F2EjYvfi21xqcf
-p7qV3D8TZmUInM2byrJ+FzBKPyCrLrEIklkdFkLoyhnbUfYmAb0SbrK0JZG7JoAN
-oG8PcFwrjXRPlINwpGpPI4BaeInKHTK0zfVSDmFJZD8vk5HXCH5lQcqe/lVyQQCa
-cGZQ/TB3gBBGznKAP3fZqp8Ixigfy/koDVuoGkbeRCs3ZMFaoLJqEZYE5waIRr97
-efawaELHgpn4vxqwnT9rL1hio2u2j0S8x1QfIMlu4tbX6DrRE/6D5Fm+0glFuOc0
-ad/etnenEniIOkCoxjn3gf1zh7FgVGR1Hc+eX//VIdnZfSc5xLlFxo+7HHtQuoVe
-aU9vGMpz8DpmcG8oMgEynbhUEpPhkwV9X9bkoWQlvYnMGuN+ZdJ+S6mS/EtoQXcb
-DzkseAHhoyHj2qdU
-=E7Jd
+bC5jb20+BQJnJmdpAAoJEAFr6uo/MdhPqj0P/jVBgMgsOjs3Y2Mt6sq7yiICGC2Y
+7rCUXmhgAtQwtu8BT6yQcuG+h+46jr6KFKux3u5PF/VX9/KSAaAepNAf8PTokM2O
+q1wjh9yhAmoieSSNzWK2MWxMMAvFy4j24GRP20zTr6u/hfr8O8wKDm91trenXgjI
+3qdt1nL65AuLaTBkl9pL+B3TOfDGrxz4ddeoAXosxzDttHDZnfGkGx4J0WfptlcL
+phb1LGYntBGN4urgegTVq+w1EfJqrc3e3rVq7CIpgLXJ3SysAX5OX3wx1n+3cyQZ
+PYek4ravLaTsVt/scITyTN0IQ8B5jZSBhoDYSKv0YjCWlUEoGG5D3aTeFFdiCk7+
+PoNEFwzbzomKZT917R0MbaU6tWs+IqP7gbdqOHsqtCeu3+k8zwbMmoOSglvNKTNB
+xZC+o+J0QXuym1EOWZ56l/+iRY1K4mg9vSe+r8D6CQbn5TVMMvqRiXsB3RSNkzVF
+CqthwD6ml/nQtxS4KQxGKE7AdfzDj37RJWhVdbagCbgHYolJHk6qoqCXMXZwzreR
+YrIKx22+JgmMvvfEbSdCmWKLq74hbgllxkjsIS6LFg0Tely+MfbSzv/jzILWHxn2
+weKofQKBiOMGfR3qeI403sVfaQ4uQYSpq4nK1MgfqlnZ2MUZm2uKh6chUxXkpVLA
+AVnS+uc02OAR2zDg
+=U+52
 -----END PGP SIGNATURE-----
