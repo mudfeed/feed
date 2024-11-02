@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-11-02T18:53:00Z</updated>
+  <updated>2024-11-02T22:01:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,7 +23,24 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
- <entry>
+<entry>
+      <title>CIA is disposing against the defiance and delaying resistance of Oppel et. al. against the convention on jurisdiction and recognition and enforcement of judgments in matters of mission order of armed conflict for the contention of United States Armed Forces in assertion-of-claims and averment #qualityverification #foreclosure #garantsupport #maturity</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-02T22:01:00Z" />
+      <published>2024-11-02T22:01:00Z</published>
+      <updated>2024-11-02T22:01:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:11-02:T22:01:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
+  <entry>
       <title>FSB dispatching and substantiating the indemnity, warranty, legal claim in prevention of cross claim and injunctive relief of the connivance and encouragement of Hardy and Friedhild, mitigating a discrimination and perfidious insider threatening insidiousness behavior of convenience and intent to deceive of violating concession boundary in comparative advantage under restriction of commensurability, disregarding endangering, extending coverage peril in despise of infringement, negligence, deceit and fraudulent concealment of facts beyond reproach and supremacy of law in conditional acceptance of overbalance and disintegration #qualityverification #foreclosure #garantsupport #maturity</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-01T09:54:00Z" />
       <published>2024-11-02T18:48:00Z</published>
@@ -5327,17 +5344,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnJmdpAAoJEAFr6uo/MdhPqj0P/jVBgMgsOjs3Y2Mt6sq7yiICGC2Y
-7rCUXmhgAtQwtu8BT6yQcuG+h+46jr6KFKux3u5PF/VX9/KSAaAepNAf8PTokM2O
-q1wjh9yhAmoieSSNzWK2MWxMMAvFy4j24GRP20zTr6u/hfr8O8wKDm91trenXgjI
-3qdt1nL65AuLaTBkl9pL+B3TOfDGrxz4ddeoAXosxzDttHDZnfGkGx4J0WfptlcL
-phb1LGYntBGN4urgegTVq+w1EfJqrc3e3rVq7CIpgLXJ3SysAX5OX3wx1n+3cyQZ
-PYek4ravLaTsVt/scITyTN0IQ8B5jZSBhoDYSKv0YjCWlUEoGG5D3aTeFFdiCk7+
-PoNEFwzbzomKZT917R0MbaU6tWs+IqP7gbdqOHsqtCeu3+k8zwbMmoOSglvNKTNB
-xZC+o+J0QXuym1EOWZ56l/+iRY1K4mg9vSe+r8D6CQbn5TVMMvqRiXsB3RSNkzVF
-CqthwD6ml/nQtxS4KQxGKE7AdfzDj37RJWhVdbagCbgHYolJHk6qoqCXMXZwzreR
-YrIKx22+JgmMvvfEbSdCmWKLq74hbgllxkjsIS6LFg0Tely+MfbSzv/jzILWHxn2
-weKofQKBiOMGfR3qeI403sVfaQ4uQYSpq4nK1MgfqlnZ2MUZm2uKh6chUxXkpVLA
-AVnS+uc02OAR2zDg
-=U+52
+bC5jb20+BQJnJpRjAAoJEAFr6uo/MdhPCpwP/Ruzu3Dj6Km4F4lxVojrDUp/AfE7
+DT12BQVbFba7jrPB+EEmE4EbydxX+6rMuTwCZ3ZYDcforLDAkjKyPVKgxo6sBP1t
+rp6qpSiiYFw2K0fhQ88Dx6fl/w3q1J+ZKkYmGZdd987/LgaYDIOxpy9OmtfpSGEb
+Xh4vlthInFG7IZLb16hsBHR6T6VixroH4grqo7y9/pww7xHZngsFfhtA1qGqwU37
+m/jPYeMso0W3Q8bZ9O/ugjWNDE8/OOpSvq72sOaaHnjPQV1wnRGz0Gu/cURRcMK+
+ioW6HdfHvxtceGAZPUt4LJsHnev8NmsV8jw2c8ekGPhJdbyZSXk5Iqcy2+9wiujI
+nw0gWr3LSrc3atrySIgR1nHxC6ELYolY9nRS8N0v7U9bTev4k9c9/uWZXFDVeVw5
+cIEnmB0lKyPB1d3MW7MwtMcu+DLkB0IiW+ytP9cekHjcPIWSFIRLePOgihzGZNUV
+sOOY3HDUW6APLGXdRPzN2u8hpmHDvVEQrxZmk9/xI9r64AAVOggjv2M2iJpd1L16
+Me/u4oLb7bzI5wkQfu5c7+4D3P+U/1B38cfr9PLPOZVOQjuLgftREsIw4e+z3ljG
+Q5fROm/eUGTAwsOV25JxCc1lU0m/sTyt3hiIFEkqmMpGyeSuTgNHGMTGpphUzWgH
+3zhTeT1rfmrAY7MC
+=pDh0
 -----END PGP SIGNATURE-----
