@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-11-01T09:55:00Z</updated>
+  <updated>2024-11-02T10:23:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,23 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+  <entry>
+      <title>FSB is disposing a deficiency suretyship and guaranty deficiency payment in release threshold of retraction capacity of abrasive and negative aggrandizement of severance grant and severance pay reserves launching the privation scenario to procure subduct and release of Jannis from treaty in reduction of inclination policy of aggression and indecent aggravated assault in divestiture and period allowed for examination, sending notice of deficiency for asset divestment and relief measures of disestablishment and drop-down of grant of the reprieve dynamic for indemnity and advance appropriation for the allocation of resource and debit re-allocation under uncertainty for distribution and carve-out of Oppel et. al. for disinvestment spin-off in release of external processings of order, subcontraction and subgrant in integrity release behavior and mechanism to lower dark conductivity to issue the emancipation manumission payment in enfranchisement and grant of severance benefit #allocationpremium #qualityverification #foreclosure #garantsupport #maturity</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-01T09:54:00Z" />
+      <published>2024-11-02T10:23:00Z</published>
+      <updated>2024-11-02T10:23:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:11-02:T10:23:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <category term="frictionloss" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>FSB is issuing a warranty investigation to dispose a partial disclaimer of warranty by judge to compromising a slush fund for an insurance of Jannis against Oppel et. al. in a counterstatement of repudiation of liability, externalizing a promissory implied fitness bond claim and  reinsurance to resign quitclaim refusals and hold harmlessness for a peace treaty negotiation in conclusion of contract for authority to negotiate the terms of a collective bargaining round in restriction of time lapse and behavior for a liability agreement and collective asset, insurance, association, exposure, responsibility, dissociation and constriction to mitigate distributed decentralized EMP Weapons #motionofcensure #qualityverification #foreclosure #garantsupport #maturity</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-01T09:54:00Z" />
@@ -5293,17 +5310,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnJJjTAAoJEAFr6uo/MdhP6jwQALh8Qrgi7bEQsIw00Lu6bnmfBa+N
-IgJS3zIE34nzJaTeCjIOeJl1gE2naOEaFhz4DcWfiZ5vLjETs5yIIZicdgrzhvbd
-OCkmB7hsqOyIS2Lw2dVvcFqJvZsEJGhIZ6sTuSGinitm5NEKK5zf6UcvZVuXAzzz
-nzLbZ/KIrfYrG2sRTbYERfmBj7SrpoIhcA2TcEMO46ST6/UTA5j89YIcRri2atHO
-50tdizSK775/1CfnIaejxdQJonlE2kB/YuTP2N7chGhzfFHCBDi6R+AjbsKtyQbz
-hrq63l5ysJ2UUBfe+dVn3PwIypBxPCiVzB4sUEqfx+p66SI1aE7qm3aT2rXN0JSZ
-h63qK5Ob2UcBhKExeA1pPoQw5k9HrW17k3ETFFPiwqHgx7nB1uxRceCON8JtpOAM
-Qc0QzxUT8zyVnIrEoX7UQh+MnxOs977DddBItjxepJvj2T6RXdV8+fQAFN1AuIr2
-A1F1rHUWqsryng/nlcCCEzOQeWileB9nxP6KNlqFho1H1Jm6FmI0b5pvhejBwIRq
-mJLfkzXhSVuxSGRDVtmCdDGIcBN+jhnj+robXiXT/L///lwDzZtMA4zBfmyzHID8
-RNtnCaWTaukLOXKwbt31y7nHm06/LoJ8E8rvBNjaphFcOt3cT/SoDoBnN0ehwXoU
-hfg/UjToRSypOiSL
-=irgG
+bC5jb20+BQJnJfBbAAoJEAFr6uo/MdhP7FoQAJ/qBYSm9SZxG4InQ+S0M0PExQK8
+gdMRALYKkalZRE1yeSJKgAEahys3vbif8oTg6vG6eQTIQzM6GNdfiAposjs2hSBO
+DvdXhZ1+Btemhau2dmpFbTXbqiKC1JPkLhiwH7BNWxWvfbw/2yV705L1GZ5nP1lP
+0+GwXSYKgDqqRwofX3CkatEhY98IpZQG4oIjhBb/co5G1A8P0O74fUXlGOFkS39s
+szWcz6tSU/wIqbPJh5PnLhS9GSt1o12KJSJM4E7D03TFsZe97aBpfygg/0rPd5pV
+CY9TfW5+/DZJ+9VY4n2NoTNvHy9K/KqTwMCi6jI7jNZrQjRimDigHDsuItEUokoL
+Q526ju1ZPq+N5XyDV/3Q0HuMfVCm+lfwrOtOa6YYgZRz0l13gztNlCqd0CYHS5Ac
+m/qjHw5gZS6kle8xxDEZ5bFJrzpQO7vYtLMWOUjXHQE3rNpQhAmVliIWws/Tuh2e
+u3S8j1TcRj/stFxLs4msrX6SFC6uFBxPwZCmZHsCqw0ubf9YLESOiTKCRuTuosZa
+Lss5OFf0q3+bJheDS6qeBDWIYToG8VTh/hrQojI84ESSdA2pMWFqvTmqPXx5XOIa
+Vbk3ev5xTETwItnxm+YFNpGVHV+R8xsI3k2PiP55D9lS/8Z2tKJCV7sGTjFQOCUA
+h5AabG6tSTdaSO9H
+=h1/O
 -----END PGP SIGNATURE-----
