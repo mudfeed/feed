@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-11-02T22:01:00Z</updated>
+  <updated>2024-11-02T22:10:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,10 +24,10 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
 <entry>
-      <title>CIA is disposing against the defiance and delaying resistance of Oppel et. al. against the convention on jurisdiction and recognition and enforcement of judgments in matters of mission order of armed conflict for the contention of United States Armed Forces in assertion-of-claims and averment #qualityverification #foreclosure #garantsupport #maturity</title>
+      <title>CIA is disposing against the defiance and delaying resistance of Oppel et. al. in convention of jurisdiction, recognition and enforcement of judgments in matters of mission order of armed conflict for the contention of United States Armed Forces in assertion-of-claims and averment #qualityverification #foreclosure #garantsupport #maturity</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-02T22:01:00Z" />
       <published>2024-11-02T22:01:00Z</published>
-      <updated>2024-11-02T22:01:00Z</updated>
+      <updated>2024-11-02T22:10:00Z</updated>
       <id>tag:mudfeed.github.io,2024:11-02:T22:01:00Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -5344,17 +5344,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnJpRjAAoJEAFr6uo/MdhPCpwP/Ruzu3Dj6Km4F4lxVojrDUp/AfE7
-DT12BQVbFba7jrPB+EEmE4EbydxX+6rMuTwCZ3ZYDcforLDAkjKyPVKgxo6sBP1t
-rp6qpSiiYFw2K0fhQ88Dx6fl/w3q1J+ZKkYmGZdd987/LgaYDIOxpy9OmtfpSGEb
-Xh4vlthInFG7IZLb16hsBHR6T6VixroH4grqo7y9/pww7xHZngsFfhtA1qGqwU37
-m/jPYeMso0W3Q8bZ9O/ugjWNDE8/OOpSvq72sOaaHnjPQV1wnRGz0Gu/cURRcMK+
-ioW6HdfHvxtceGAZPUt4LJsHnev8NmsV8jw2c8ekGPhJdbyZSXk5Iqcy2+9wiujI
-nw0gWr3LSrc3atrySIgR1nHxC6ELYolY9nRS8N0v7U9bTev4k9c9/uWZXFDVeVw5
-cIEnmB0lKyPB1d3MW7MwtMcu+DLkB0IiW+ytP9cekHjcPIWSFIRLePOgihzGZNUV
-sOOY3HDUW6APLGXdRPzN2u8hpmHDvVEQrxZmk9/xI9r64AAVOggjv2M2iJpd1L16
-Me/u4oLb7bzI5wkQfu5c7+4D3P+U/1B38cfr9PLPOZVOQjuLgftREsIw4e+z3ljG
-Q5fROm/eUGTAwsOV25JxCc1lU0m/sTyt3hiIFEkqmMpGyeSuTgNHGMTGpphUzWgH
-3zhTeT1rfmrAY7MC
-=pDh0
+bC5jb20+BQJnJpWMAAoJEAFr6uo/MdhPbusP/ipEunIHExV7lPRI+dOK/MIsjsu0
+Tx2PcyuFgx2El6tVTDn/84iScWJXwPn5rGUeKQ0oEKsxurWYEaahkrgnEjX8PV8g
+x1FRwrt/Eck7OZNXrb7q0gqtlOcCYnEmv1xoGIOYAZvJFFA7cgu2fh3l0ilpj87W
+AW0LynBJ/MKooayRSDO7dDPTrkc3c19KrhofVI/wowgO3Aw7HwpJBkpE6698QAkZ
+p8HIh3yduP60UdFRMT6u8/C8pne/AI+8x9RxWY3vZV56znfWWhS0njZZ2PTsEQwM
+f7zc22hkY3ZxqHp9gR/9qYSJ9uQ4MVmiSsYzbEbE5BkuDe/5L2eZkZ/NXEbWwcWt
+Cmmta21Cv5FiKtIIsqwDtqjn7wyFMP+cTCyBj/XFBCRApI68Tc35wC1ROJ4M6Cdw
+vt0gyOes3c/o+KLXnBec4tmv74/qFx5EFeqQ5CrfNpCJzPYey1xaGE8vtFqxvHwZ
+cX01KN4aSRyEwrIyWdwV2+BZwGD0+NCTFnBnUFSMt3Eb0FtTOcd24Flmu76DGN4T
+jMAfUjFoBaH2Kz3elGy9iWvM4R+PmrSJ0g+51P7+wdPgomFJcWiiHLQm98Nonelb
+e5V7xdbslKEYyV3K4lh4VMwX3EqqXrABU+TajfSLzSzB3F9EdbuUjAuEmUvEUO5P
+ddTts031orY5EsZN
+=V7Ar
 -----END PGP SIGNATURE-----
