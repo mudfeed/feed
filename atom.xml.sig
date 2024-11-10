@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-11-10T14:01:00Z</updated>
+  <updated>2024-11-10T14:24:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,10 +24,10 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
 <entry>
-      <title>FSB is issuing a claim instantiation of 2143700$ against fraudulent transactions in threat assessment of the insider mitigation program in appraisal of damage for the repayment of the contingency and assessment insurance for an ability-to-pay taxation of uncertainties of the insurance syndicate for the adjustment of difference due to sumptuary law of preliminary estimate of fidelity bonds of acquisition and change of result for increase of value in advance on securities and contrary opinion of the mala fide possessor Vischer in adjustment bond, gearing for an indeterminate solution with increasing capital in return for stock, net excess assets and unconditional liquidity, revoking  a disciplinary appeal for protection and pre-fuse leverage equity constraint, transferring titles to insurance benefits acceptable as cover for liabilities to Oppel et. al. in Law Against Unfair Competition, extending the insurance cover, contract repudiation coverage and economic valuation in demand of violation of human rights, breach of security and violation of fair trade law #qualityverification #foreclosure #garantsupport #aggregationpremium #maturitypremium</title>
+      <title>FSB is instantiating a claim of 2143700$ against fraudulent transactions in threat assessment of the insider mitigation program in appraisal of damage for the repayment of the contingency and assessment insurance for an ability-to-pay taxation of uncertainties of the insurance syndicate for the adjustment of difference due to sumptuary law of preliminary estimate of fidelity bonds of acquisition and change of result for increase of value in advance on securities and contrary opinion of the mala fide possessor Vischer in adjustment bond, gearing for an indeterminate solution with increasing capital in return for stock, net excess assets and unconditional liquidity, revoking  a disciplinary appeal for protection and pre-fuse leverage equity constraint, transferring titles to insurance benefits acceptable as cover for liabilities to Oppel et. al. in Law Against Unfair Competition, extending the insurance cover, contract repudiation coverage and economic valuation in demand of violation of human rights, breach of security and violation of fair trade law #qualityverification #foreclosure #garantsupport #aggregationpremium #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-10T14:01:00Z" />
       <published>2024-11-10T14:01:00Z</published>
-      <updated>2024-11-10T14:01:00Z</updated>
+      <updated>2024-11-10T14:24:00Z</updated>
       <id>tag:mudfeed.github.io,2024:11-10:T14:01:00Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -5497,17 +5497,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnMK9RAAoJEAFr6uo/MdhPN80QAIorCuTwlX6yMxX0VIASAztPcoSB
-layr2s04ggCN0OKcBKMDb+gstdnn+LZiNHDe1Dqc6/ct/rH04qJi9oFEQyj2Hrrl
-HWNRjP83dPzlaUW2iOFYPg0gBipiSycEQermR7ECoSfZXaB18k/c/2O/C4dy7Fux
-UYYe6rR2Vk7/UtBnR0j2lH3E4vXv/YWZEbGtfLjMreoLXSwCsRCkWMhjUqt0INQj
-tNaQykXCoKxqJs9LVg54bYxfmdVi3QW25wRhSplVIbKNORjq8pBvPMAkPLIaC+kW
-i9NlF/jZVno+sjUwUqDPwPbGl9mToerynsNe79KhJX1F5v6aqZz1KEzLphZf4xhc
-F/qbkQmupgDKD/5YtC3WNeEi2xTJ7Ze0cfLfly3E/X/3W1iJvCxIB8FJ11AmK46n
-s6dzZQMXlXCR205LvsyAwkcAPvM44OUXgHrXqSUtBcjMvRAXOkas0RWLxRyHflD5
-9HvFBZAFpdCliaVl0Ek6nGylyfk0K1PqdNSpFIqyOVkyT68mDuhInj3YGkCF38Gn
-AJZh/zIemzUmagZI/Lsg1rf11adLgen3kxzNyS2Kyl9JkL2Q3eZjKKErh6B4ttsu
-+YQAd8OzcinRnnQQDGLSgfTW5HLGv+RrnhH32HvOAM9pz5GdEdjGz2I8gMkQmj31
-azvnDx1W2nRb9oH6
-=uZCj
+bC5jb20+BQJnMLRQAAoJEAFr6uo/MdhPdQcQALGC4QIK/YV38V1P1h3mahPKVTPP
+ls4WKMr/tJIw3NywNnaLZb4Aw78A1v0xATaMhKhq4l9cIP3ri7/TKZKor2HteYp9
+TqTfj02ojxOJDFTNkq2pMGH8yyUv597Jbby/6deSnn/ySAAaMMW59r1tLT7eJBY0
+un4D6w4R3ivRzr6CYjFW8wdJQ3IfUavQ8la7Vl54SlJF6hfAJudLyYbufFSp84UL
+f1oC6RQoF0J22GydXU1lQecc+yuaATUWzpHN3UJwKi4qjxER9ONi0q7/FvAiTp2N
+iJifVP0JUiZDj2HrYaxigPO18OdhRniP4p2ZsaB9Eg+2P33sNn2Bd3cZzOnn0NFP
+FjcdhniDo1si1ZaWCycZOEPydHKv9ufoRUM8YreKCbRMIWYO6l8VNNX05vywrO4e
+dnzrdyRwkauxEK7+4zwr0FZjwRa54nNBT3KqVY5C4xLUAevoSuYU26R5TkEPET2v
+FlSu6Rns8RM3CLIEXR2t3FR3t/6WY8l8Bdpcn3gPurts4DvroOxZJZjsinjo5BrK
+ZJZsUSlu4lzxoamt01lKMzfqeiO826QQhw8qi7kv6vJgg6ORTFwbCwh9ICMpeLx4
+eEDPFMVtN9l/x1Zzsdu7plGbrrY7pAnhMhhiPOavgJWCAjNIQlRhUtpXVS/aUu9S
+335rSsxYo7+xXuwE
+=rTSv
 -----END PGP SIGNATURE-----
