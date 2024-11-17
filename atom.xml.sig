@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-11-16T13:22:00Z</updated>
+  <updated>2024-11-17T14:02:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,22 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+ <entry>
+      <title>FSB is scheduling of responsibilities, conferring the admission of bonds, dispatching the net donators of Oppel et. al. for a filibuster in adjustment bond for charge, convergence in distribution, inappropriation of funds, proceeds affecting net income and balance-sheet adjustment to negotiate premium for preliminary adjustment, in risk of warranty, damage, claims and loss settlement in diversification and allotment of bonus in obstruction of punishment, to trivialize prohibition of disproportionate measures in risk of transfer of ownership for the incitement of people, disempowerment and incapacitation of an concurrent contentious jurisdiction violating principles for security and human rights on the grounds of factual #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #blackmarketpremium #closingpremium #aggregationpremium #maturitypremium</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-17T14:02:00Z" />
+      <published>2024-11-17T14:02:00Z</published>
+      <updated>2024-11-17T14:02:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:11-17:T14:02:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>FSB is issuing a covenant for mutual recognition of conformity assessment and undertakings in leverage increase, against organized crime for delinquency, commitment expiration, duration promise of express representations, warranties and fitness for special purposes, darkening to indulge for revisal in ordeal of prevarication under cover, relenting  possible further increase of transnational organized, economic crime and agony of torment of the interrogation backhand Oppel et. al. of BND, in attempt of assault and assassination of Jannis, being subject to distress warrant in tax evasion for settlement of accounts and fraudulent insurance syndicate in risk of netting by acceleration due to malfeasance, breach of duty, allocation of fraudulent transfer pricing for interavailable fare #blackmarketpremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #closingpremium #aggregationpremium #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-16T13:21:00Z" />
@@ -5625,17 +5641,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnOI7rAAoJEAFr6uo/MdhP3W8QAKuy7g3XXQgcQsxh3MJLn/2vQWUd
-BPjwCGrXHIfRS9zXoDr3a+TvPdIA408JX4VSegTGYT/JBc9FxTw4vtpFldC10whV
-O3fbUImjV2FySKoXESb46q7G+TBy/5vJKLu5J7Der4SxLn5bcQVWOhZEyzrXUJJA
-asHSvVkVDF5gImMrWnGOh5rZWfMqm/fYiNNvyDXqL40exrQT50o8V5HeGDD0+0aT
-H7pIxXZYb2quRAwHuNhZpDV/zFKmJtOBHWP43zzKR70+S7glA7RIdbnzBUX/RkgX
-b3Ucr848SdcJfGti9f3eORoO4Dj0nMrJ7AQ9ZxMRnVWFrwq5rg+knRlMIX2mSc8k
-ygKcNciSGaoHPBISxnSUOZUGdlMoVldffkCVJdk7n0kILweVdsHKRU9+vtYOCehg
-P9r9Bz1Xr6eV0EznB6qoz7X1oy6aG/FYKBXW1hcFp5TGFxf3NiQW+xXlEiKZ4LZ9
-cT/21DkaTGXArjDmvtWPlzz1SXy5ud+hN6Xe3im3F6qLjsa4XyXPliLy4vNGiZ1N
-XBe4v4DPoLaOkP9CQApi5p9Hb1DSjQi84/qfq7FJ8t4ZwlKn5KPmGKjc7rhf+t1S
-IDGFjXcM6Vj8CcAu+ZIGYfEl7oz6DC3a3lXWtTjywOMtlAydhTbH42yYlJeXNJG1
-at8K9cS0Qn28ZdUZ
-=NOj0
+bC5jb20+BQJnOenbAAoJEAFr6uo/MdhPxxwP/RmyUHLB/ie7GdvlH5DqS9yc9MsK
+G1p1bROVgV+FXus6u9Xm+q0kMfORm0RC/4UhK4UL6kcsOCMC1cjWAeI0t+Kl2lne
+T4sUqwkVcU+OlFl1sRbuE8uRhmtP/beX+Og4Qgx0fDuvsJTE7G4Va9N0iTEgugHO
+14Zkw0u7G4A4BgNmRdJRQfSkg2Wf3U+JKBKeCdiO2mrm1K9XC0zystvIuIvMu4sU
+8S7o7aVzil6j+hon8+Gi2xoM5/FPQZxhMenPn+qfRQDWJ1ycag+3QoW1JYso7pTT
+kAIkRTl5wT4UlLpIms7IRUgEvAx16bWKBSSlG0uorFY0dQN7IRAZXCqfrif6DAHT
++u0uvg2wJO80CJ/YsZbJnvWS4+cKFdG6dl4MIc1jp7GLBo6+J1YaWHbvbhIRdhxb
+qrw+bOa7KDUd2T4juNKwmB2OTOcUDVn+M0X2qayNpuOgHWGuGHS9rF2kIKHfRVKS
+u/SkGR0FDw7qiMZPTA2JHfgSr+Tum7dkmBkvHsdngtdU08KSQ1MFOIfXw5Olv3Vd
+6TowT3TU5rNAy+54rwgu6OLinLO5HqkV/P+4fY8rHj5z23DcaayWZQeciSknGoP2
+Dp+RoKjwtb8cXTGbtDlVS6Wxyimrvg6pHnpJ+vUAXgTgXgUxvG6ECDEhOd7lJrUo
+zLN7BYpK44BStikf
+=Scgl
 -----END PGP SIGNATURE-----
