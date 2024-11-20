@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-11-19T15:55:00Z</updated>
+  <updated>2024-11-20T15:21:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,22 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+  <entry>
+      <title>FSB is disposing a closure demand dispatching Heike Vischer, convicted for veridical and inappropriateness in abuse of power in process of interpleader, misconception in closure and confederacy for a deemed-to-satisfy provision of Oppel et. al. for the public truth cohesion stress strain displacement relations of real facts, human relations, view of conflict and annuity pursuant in declaratory to issue a findings of fact lawsuit in closure regulation demand in perception of entitlement, fiduciary relation, through the agency, notion of money, imaginary profit regardless of expense in disregard of warnings and incommensurate truth synthesis notion of corruption perception and on the sideline negotiations, external economic and diplomatic relations in view of conflict human rights #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-20T15:20:00Z" />
+      <published>2024-11-20T15:20:00Z</published>
+      <updated>2024-11-20T15:20:00Z</updated>
+      <id>tag:mudfeed.github.io,2024:11-20:T15:20:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>FSB is disposing Eckhart in trial of austerity and criminal bearings of the case for a certificate of coverage of Oppel et. al. in conflict impact assessment for a claim of regulation and disposal of prolonged dislocation, annihilation in trial of writ of seizure, constant violation of conflict rule of deprivation in preclusion period, process of elimination, outlawing, exclusion of warranty, excluding the jurisdiction of court, in expectancy of notice of termination, exceeding the assessment ceiling for conflict settlement and extinction of the exercise of a right in exemption from seizure and wrongful deprivation of personal liberty, freedom and rights in a rundown of designated personal future investment #preclusionpremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-11-19T15:55:00Z" />
@@ -5673,17 +5689,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnPKdJAAoJEAFr6uo/MdhPkecP+gNqZPR3V70mu7Oj1PoveymJ3P9V
-96TxsP99kSCbGNLHGS/h3AZPGvHEsQlJIEVt2Pv7h1s0cKiVAvta7dAKCToDjuDg
-dtGfV6izwJh7mqm4DYaCUdKj7/eqbMEiJ945eZfnJTKrM3IH3LaFBIo9NBuyfgxJ
-MmSx6RGToqRz0UID5IvE/5vQ4tn+pXX81DGp0rzaRluLWnQ8gUgxUgghcC9G6HFS
-2wTvDzfSoUuS/gFhgmfuhW3VKvTVHeKoZbCz8o1reAQEiGIkdHJGG+hZJnZFvcvP
-h5D/148itxRHBDrQ5GB0VW100iCWUozYVmj9MN2GPgmpy0aVs78Ae6RYrrQiO82f
-kPBPOvryfQpJnHQh6d7B1bXcqJzEgtvpFHgjLH6fg8KQM+Yv3BSn+EXnPrVuaj0C
-yYa3zFEQ7c95K/2uAOSh5B+lkTUOaHYgpbKZICBZ11Zq05z/Dc6unqLSO6qX4hzP
-lBjjGwKUrswI4OI57JgqFvblYccnaZRZ3nUlOKGjrSSKFlrvQOHWIj3f2zO2CKQ6
-xsf9eBa228lbbqeXiKNQFyne8NjXwb34U9ste/uz+Sdxa9jaZ2Lar5PBwuqOJSX9
-Dm+8aDFB9PhHJhAQHs+ewTzrjP8jcXVw6enkBuxO2cyokHSk5GqjYW0wnki78gVN
-zub0A9df7w2PSnxP
-=YBOk
+bC5jb20+BQJnPfDKAAoJEAFr6uo/MdhP+UkQAJ+WKqIejqi8dC8HyhnFEDgZJwQu
+0+QZnKEHqmXj8La3o5o2xto5csC3UASglfkTIyFrSqpdKJEVQuMMJ+eRKKQeVa2z
+Jf/RpmSVEvWJI/NWaSuWeeVYmZsEZMgdYv6D7SpzlbPEOwa/A9tTPv14TpUsCrs8
+EdzZ2KwYFvEUEJoRt8Ip+DUPhvloATc+T7KGQOr/DNLeCo4mJ/oud7vpzRRZ9pJb
+fdkm3Zql60SF+RONRZZEwO/v3lWsODs7HNQveo7sQj0GaTsIuzhnpm1MVG2tkenY
+c+obMWAQV81TaAgdr2jZfQYCST+aPAoBSY/0j1mcAIpgYIleE1GXMbpd0zDcsrCd
+571l/zXsmfLe8HYo9e90VwxzHvGrirF8nFbsqw3HFTb1gWpirI0avcvkEZSpyx2a
+1NgYPAJglDVbZ3Q76KQ/YLgJRjhuDyBXcnlLqC1bbQzc4FtrZR36BPNIByxnF/+R
+mLzEClyMB5W/R6D+lsf2h/KsX95/CTTNzL0v3unKXrDAmma/Tif41UNjUT+Kl84g
+n0EG4269SugfXZwTBLLIVb1DCi0W03xTC8wVvs8ZGjfg5nhzzN43JoCwjUzBkFmn
+IlhM/UsRAf2FDFe17AkenUdIGL+vCrkaX57UlQT9+HZevsFl6YhooLqrLF8WqKUQ
+Q2ZzCgRHAcYdWmiw
+=qgPu
 -----END PGP SIGNATURE-----
