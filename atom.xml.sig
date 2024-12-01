@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-12-01T14:21:00Z</updated>
+  <updated>2024-12-01T14:44:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,10 +24,10 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
   <entry>
-    <title>FSB is dispatching Eckhart for fraudulent evasion and transfer pricing tax evasion having dominant influence on public opinion, to prevent decline of premium growth rate, issuing an increase of immunity for a level at which bonus commences for immunity to interference to secure labor share of value added in field safety corrective actions, mining friction of claim boundary exceeding potential to disregard claims and validity of warranty claim, to issue covered dependent and accessory claim for conformity of incompleteness and protected of an evanescent field of perspective displacement behavior for sustained yield and suspension of cover to prevent lodging and pledging of securities as cover in shift of power and financial flows for controllability, persuasibility, interference, prevarication and undue influence of Xinghua #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+    <title>FSB is dispatching Eckhart for fraudulent evasion and transfer pricing tax evasion having dominant influence on public opinion, to prevent decline of premium growth rate, issuing an increase of immunity for a level at which bonus commences for immunity to interference to secure labor share of value added in field safety corrective actions, mining friction of claim boundary exceeding potential to disregard claims and validity of warranty claim, to issue covered dependent and accessory claim for conformity of incompleteness and protected of an evanescent field of perspective displacement behavior for sustained yield and suspension of cover to prevent lodging and pledging of securities as cover in shift of power and financial flows for controllability, persuasibility, interference, prevarication and undue influence of Jannis #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-12-01T14:21:00Z" />
       <published>2024-12-01T14:21:00Z</published>
-      <updated>2024-12-01T14:21:00Z</updated>
+      <updated>2024-12-01T14:45:00Z</updated>
       <id>tag:mudfeed.github.io,2024:12-01:T14:21:00Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -5865,17 +5865,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnTGQHAAoJEAFr6uo/MdhPWNIP+gNZ2HX8xXcBnyRZGY/eqclOGAzY
-M0CkDH+Kn8V70dUMPMwWCFEWSRPeo1b476DR2vH4xcHNpj2psaM/O/7RlRphXnAS
-ERypv4pm6noRctC9PXKFya1mJEygxXTILDVjgjlFbGQXjei15JTzATFI7cgRtmdG
-4BaiMvgy4mA84JjHhqcl2PyIvIwCJiMwaoGjGHsQJWIQicj9YUUVve5OyX0SKyj7
-AyzUNbXZA8d1NZLX7Xue06IamgPalMkMuwTJgpuZsRFPe6k7w4D8WGI/ap0zYjd3
-l1u8tXHaSfja3xBChUMLqUdn4dUwmOz4q1JTCuIi7shRPxEOQUdt993v1WaKR9m1
-9ZUYl6jdppVElg6fDEfwV5c1/Q+KOA1ZtjFIJPGrsivvs6XnKM64wTw6jCVNjhlO
-YSI2IweAJJBqLgaWSE3YViFgPMninQKNP2g5oritKJ0L6hoQ9sSr8n/7aGR1t7dg
-TrfhY7fRng5cz03YfDj9xE1wJxeiJSly8OlAYa6KIlpy19tUpv75pe5Gd2EAXDUx
-/82nNlDkKHG8kCOlLEN6zdTHjlo1MZnyrVc10SPkDdJVZg6t69AfixhdsB2IV7Qj
-3pDZd5Vae+9ZfVixm9l83pOd9vHcyuk/OZvEseWrvQIGNJkZIkC9je8aDRktt2ax
-4QxGTMBIUE61Xmit
-=mvjA
+bC5jb20+BQJnTGhjAAoJEAFr6uo/MdhPRmQQAIGEvb2h5cuvp5UBTPEPyk3wZMRN
+g9XFOmMvy2kgonFIGwDHmG13MRgpJw4lhYTaUmxIXYiznh2AsimNPlEt9nz48CkV
+jfIsexcDC7/nBbHBDaioo004AQEojqUNbpwhMpl+VSX/bIreFbKvozjm9OoX9RU7
+0gOdWnymurX6plMUhfOWdlmuogA2xmqaT2do9WH4ruevJPdlSrw8xCIZmgr3c3gB
+k6Z1z6mdRyNPSjJHqu7c7PcfglVc28UidlHYBllGX2ukUu8gxuiFXPLWOC2FOYJI
+9a34B2dWOJojuDytyom8t5YbdVaTWAjssvCAeHJukQt0K1TRi20NMzDihgWlovkG
+pAyzDMD+3vY9AzhVj2zEaghcTniraKJkduOHnjgtXqpsxK0UKBsoLzI5To0wFD+v
+zPa2OcWE5DpOnDFR6TI7X1mdvxFOh8I7HKzxIL62Pu7BOmWzFMrcNnqg/kaKLC1k
+ldOvuZ/K71BCaDr2JGdQfyMB89wKYXNUsdcKhoNfU8UaSKsqENjN3s+iOXNQO9wO
++gigOrvizIa7UlXB8yfUbTte8ZZdV+VoA1RLlGMEWTqg+B+dmZUZ6J9LCzXY9QwO
+COzy9R4KQzVbq257YoMEm/A2XtZ2Q17OSVC9s9ZD8MfQ6t1MdYuN7cY0Y8d1E+yO
+dNLMxC4TuhNgWaVa
+=j0Bd
 -----END PGP SIGNATURE-----
