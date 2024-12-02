@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2024-12-02T18:35:00Z</updated>
+  <updated>2024-12-02T18:40:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,10 +24,10 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
  <entry>
-      <title>FSB is exposing Oppel et. al. for holonomic suppression strategy, issuing a motion for an interlocutory judgment and injunction for preliminary proceeding, negotiation, assessment, adjustment and fixing in cost-benefit analysis of the appeal of money of non coincidencial progressive costs, incured expenses, target costs and non-conformance costs of transient state in ascertainability, reducing contract enforcement costs and allocated coincidental costs and capacity costs, taking full advantage of preliminary expenses to be in due proportion of claim to be paid in equivocal bottom-line concerns for underachievement of intenuous situation of potential capacity and postcondition of common potential for discountenance of take-down tension perplexity and costs of certification to achieve transitional indemnification, funding, provision and arrangement of Jannis in nonpropagated potential of allowable flaw size efficiency for a flaw in a title of critical flaw distribution #interlocutorypremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <title>FSB is exposing Oppel et. al. for holonomic suppression strategy, issuing a motion for an interlocutory judgment and injunction for preliminary proceeding, negotiation, assessment, adjustment and fixing in cost-benefit analysis of the appeal of money of non coincidencial progressive costs, incured expenses, target costs and non-conformance costs of transient state in ascertainability, reducing contract enforcement costs and allocated coincidental costs and capacity costs, taking full advantage of preliminary expenses to be in due proportion of claim to be paid in equivocal bottom-line concerns for underachievement of intenuous situation of potential capacity and postcondition of common potential for discountenance of take-down tension perplexity and costs of certification to achieve transitional indemnification, funding, provision and arrangement of Jannis in nonpropagated potential of allowable flaw size efficiency to claim a flaw in a title #interlocutorypremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-12-02T18:18:00Z" />
       <published>2024-12-02T18:18:00Z</published>
-      <updated>2024-12-02T18:35:00Z</updated>
+      <updated>2024-12-02T18:40:00Z</updated>
       <id>tag:mudfeed.github.io,2024:12-02:T18:18:00Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -5881,17 +5881,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnTfANAAoJEAFr6uo/MdhPEe0QAIJL6grwLZIehX7+gtRe5SGMXHEZ
-3uFutCTEvB0vzRIOagTEJXFW5Kk71eOdt8O3frIDXaDnddJ7CdQwcQw/Lx1UbnHa
-w5lR0SxINfKMfLBQWindsjPZCafwu9gdrp6PtWHAZ0dzAYstwAbCunzdMXuQFOIU
-Thjuuzr4nQacNYRBAk7zIo26j2pVQqWo4vTmMFxjXgyVTzEF1Zr6dpIoGSu+sFB2
-qYunX868Je3rR+YCP5aG9F6UsaKJuOyc9x8quS7tezlonymtUsGH/1BVu3XKC7qm
-2Tmep7Rl8QX92Jh4nYLtG616kFB98g4y5bb7Ap67PRrtMI8UzPucWYsPFx6WTuPF
-I8HGDvhOdTrB53kNcHQT2TRJs+g4TXpBZIo+imPiyQfJSPAKvVuJgYill/QkEF3l
-kTyGsEVWyTQJZGFahgeWntUjnZ8SO0tLWCuYrb8w8ul/WJPwzYFMh0IA5gyMYbwN
-unQ4rpYm6QxR7tOcJTzhDaw9pMK9OFEtr4YpAYANiBGg6bmHRxr/WHy4ycgkXkj9
-iZUJK1jyE/P2QBt/IFcP5zoXsDscLX4Ajjpcczin1rbNdKGGb0dLTDKp9qyjV1KA
-Rs1i8V3U7WvGfWO2/sxReRNBuj7bldiKeAaFswpaaz7uunLF6uoF75svtC8Rf0VJ
-BohFdSvSwb17EhaW
-=J31M
+bC5jb20+BQJnTfFTAAoJEAFr6uo/MdhPcOAP/i7GXpnAzCdguIv32E0OBhNJnM6o
+8NqaxcB29yqzigLikbSQMw/ehQ8/TbD/elPfwNo9vd9jM3tbAUtzXYyru4joSYEJ
+rQIUZHVmVoSVHE7tNXwGqUQiWddXWbesFcofYb1SxMSuD5TddmJ/C0BOrwRBtFc6
+ojcLvsTrRgnJVotrEFWuYo9PJtdFyoL3yBtC1acOvlXoQ9Gbug/eZE2UkzfAAlca
+NAHTCfwCyZezMK41hvhYenLlXVpj+rOKz37j6XSyCPqxZIArDllR9vPhHUf3n5N2
+LhujnaJZnAARUoTjCeJCKa7PSSgt9ktNHiJrvYclrp6+bottnDJ5LTi0QrTQceCo
+0s2GuRJC93YXm4UWhHlyAsayzvsC/icGhdaXAAcf4ADA/GGK9Bw46i0ODhdESGIN
+cwQBbUbaHR9yhdtEwGjjd+KRaWBQig5t40/xIe/nGaiv98MVFTrS0h7ZKmtGsnyh
++m7UHRAJAQ6WtjYxh9b8dATx05Ak1mkCT6dzyf9406NXuI+bVIEJyIwP4PQI+yfa
+j7+CwXQoqyoZcDAoN70/XG/1k2neMjUhFJZW0PpRWRRHaoKi/61ZjwAaSixIbG6E
+opLMjZ5SsypqnQIfbs488zyLrBJLtcIz5SbpR/beMy4n/d1FEDQm79znn+0SfZLL
+vXloISDBEKn4xB+j
+=QbSR
 -----END PGP SIGNATURE-----
