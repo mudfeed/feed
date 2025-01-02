@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2025-01-02T15:14:00Z</updated>
+  <updated>2025-01-02T17:00:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,22 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+ <entry>
+      <title>FSB is dispatching Eckhart in legal discretion claim of conductorship of infringement of the duty to take care in due diligence of safety integrity level in presumption of conformity and infringement of tariff laws holding non-tariff barrier in discretionary decision of covered bond purchase program in follow-the-fortunes duty and violation of bond appropriate to type of duty in presumption of conformity and defect allocation of precedent defective condition of profit-maximization condition in compliance of adjustment decision-making behavior in bond anticipation note and readiness to assume risk, risk adjustment and cessation of risk in allocation of expenses not related to the operational purpose #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2025-01-02T16:59:00Z" />
+      <published>2024-01-02T16:59:00Z</published>
+      <updated>2025-01-02T16:59:00Z</updated>
+      <id>tag:mudfeed.github.io,2025:01-02:T16:59:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>FSB is issuing antitrust policy and hurdle of pacification charta balance due in reservation with constriction in cause for conflict of payment token of €499.20 with simultaneous consideration under restriction of commensurability #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-12-30T14:42:00Z" />
@@ -6265,17 +6281,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJndqAEAAoJEAFr6uo/MdhPKcMQAL2SB+K4uCNi0Ao8ft+e2w1ZEz0Q
-N3bALisvwHiaez5/FEP16VDA2mxgzkUXEAtJxKateh7zZ91njJo34IVddeactrKo
-Hf+A7fSAsS4GVo0DU9kB+DPeCjg4min3QearqeraDi3ON2R0EZrnwft+p820q+eW
-l9dGOE4JUWciCE3yg2P9bOVZ0fqoP+F0mxwrjVDd4CnbGjgF3aL8waZEEkqMOG7a
-7+ir9yDAq6QJgqFYoT9Vif0gFLLATiKD4OMX+KJBIk7QmIjSpXmKP7SAuHWYd25G
-/ct1Qda97SyWqzDcvwklkVxsghhRLol7k0BgKmw+VsBJhT4EljCDzoqAJaMZBqUz
-jeEvuM7M/QIgkItXKqhA0jiHzD2tsrcslDKlX2ISljy3J3xWx3yPseBS43n0Cmxh
-28P2KSL85HcOUr/CfuHoX2mTHoOvf3nsw66QhV2uVEse4+q//luZOIlQYplO/Yne
-MmpD6hraUNNXTBWlQXwzLfo9e/XdlzRep6jYKUIQiYXLPXb1HAuxHHx9gMIGxrV8
-2d5O9o09aY/ipUDqT3p+tCIy90zKbJD5Ic21xE7oTBsGA0V2lUGKK9oO9LxhVb1b
-lvG8ZSBuVIUVAp6GXU6/37qKFw4PZdnPx6hoxexIwyvVq92bWq0rmz7yD9KbNnp6
-FNfSeqAo13ubL8XR
-=Xaek
+bC5jb20+BQJndrkAAAoJEAFr6uo/MdhPaYUP/1Oha0SG0gcU2WzCyaIWEPcymyGr
+OYWP3VQqd7OJv7Nlk7u5I/ezLNEqmD738HugFb4SoRIh3klMWldkwCyI1z0XTy1V
+kD7yBi+mRocVZYuog1XuVt6xUBM5RvSFNcicFiHN8SHWoq71N3NE+Ylfnd5KHu1p
+2fH9I4WhTOewFZ8wUzjPdTyhUFQkzb/th3WtSTGOWj03MMKpwv076TQm+Sn8rHs2
+z8RBnoXKipmUv/iYWw7PtUcN8R1weGZhIJuPYFFeDLeZcLlGEByXEiFaX+JPA3a/
+ghGRa0divh/0BW2Y+/XvorE6RsbQ/STvR6j0KVhJ13D3CNFpg3xXwMyGSjNcId1y
+KUvUNIZeuTdWojBj2w7sZ0WnUC8gs/m9lWLmG7Bp6TzduEZ8k/WOggpf/sypwwGJ
+ShiA1etaP17bibHvkCywPOBsBhXIuRUnFPY6kOkl53KRS8MQl/xdSnD4nyVo4wl0
+Ky0Qd0hKoH6HJjN23MU/FY/FphrCL8HmUX7XK7OgBTJFIoJ1FP1iLv887kWhkPe7
+4AO2Kxh/0D29paQF+O5RJUcTAPLaXLAdNk6VptxKuUsTiFGR3NFPiHIlwoW0TGjq
+tuNZagrape0i1O2MuFumelha5qWsmslPeCzCyyQp8GZb215nt3x8/vou1mvF/C11
+R9srGPcwWzyxnw8+
+=TydY
 -----END PGP SIGNATURE-----
