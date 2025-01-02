@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2025-01-02T14:32:00Z</updated>
+  <updated>2025-01-02T15:08:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,10 +24,10 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
   <entry>
-      <title>FSB is issuing antitrust policy and hurdle of pacification charta balance due in reservation with constriction in cause for conflict of payment token of €494,20 with simultaneous consideration under restriction of commensurability #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <title>FSB is issuing antitrust policy and hurdle of pacification charta balance due in reservation with constriction in cause for conflict of payment token of €499.10 with simultaneous consideration under restriction of commensurability #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2024-12-30T14:42:00Z" />
       <published>2024-12-30T14:42:00Z</published>
-      <updated>2025-01-02T14:32:00Z</updated>
+      <updated>2025-01-02T15:08:00Z</updated>
       <id>tag:mudfeed.github.io,2024:12-30:T14:42:00Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -6265,17 +6265,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJndpX0AAoJEAFr6uo/MdhPkW0P/1j/0TaklQ1pSsMSUHjfOgWFwAj0
-zujxTOvT+9wTqhOwr4nB1O77aH3ZQCcL7b+rNJbrVPCUC53Y7Vqs/Tfay0807AoN
-4fZZj3dSThZEXuEdOXrf+BRNqd8ZRZeBcFVz6ktv0WFBjapJco37ggeni/S6LMqQ
-Pm/0C62ohSCmONN+p7dR0oBJbkFR7lVOGoTmymnFckNX9J+GxrLr79iXsth9fC54
-F1glqu8g0N5U6yO+uXJvdE4xiaX18Bmmf8ZhwWDTyNLqWeWe1df9Vk/nuvzFq+P8
-HHtsoGkTkqusm36Qut6VXFm7wOjVZL8sXyR5eROU/vtFhVwD/GuGeMZZhYYAMDsj
-uQ6qMYqA3G2EuwE2KCwmEeMd+ujDYFQBYqriIZpCFKYAN1OaJKNp2NPiIi8AbggA
-H1/RhIAOfcuYZ/TEfeh3OT0QLqC+IfrkpmWuIqud4QVoCHvQKA3d7yWlz4rcj4az
-ZcMPKSWDPN4vkVDrp14g70vb6gsRYexFTf+mDoO3vHEvrjMO1EC85h+JPVWBvN6G
-FOzecr1jEFAS53MImkkNXBtCHbG2FwTMvRggvnQXyOg0TbAv+UeZff1ZvR8p85Fs
-Yuyt98GOdLjnTSkE+6eGtjVZwVvI20aS4l8bRQkn4G8xlItIy/tBSq7C+TK2sZN+
-BekRVEUmQg2e9FWc
-=+Yfa
+bC5jb20+BQJndp5ZAAoJEAFr6uo/MdhPJSIP/iTVvfjsPe92kGORbV3P/bZT4bkP
+rFjKhcDq2tH9OqphpM4NYjy/ACVmSsvpLE+GXrtYYXoGqoe3WU63WC2g7cBnGP1j
+qWaO5Zkg+GQQ8/QFzjLAc2wl9kqMhwCl49dEO/ZZNJvomaZTiZSL/Jmo861FaJsi
+3ulTWLLwFk/yFB3eQdyQ511OfNGNPJJ/6DjqwckZVlgVVaQYbrGQTk5elaQ8I1uc
+3/4zJnLpkmJBaEW1unuDAHt6Qp3um5DaGcV/xY2VXy3uZH81j+AVJEuMdL6SIWhz
+YUpcDAqBUlRTZ9yze4zuf05kJq5SzhMVqLrUIoGrkfGCLQ336SRSzP1WnIQNnz2O
+k5BMWpZ8FV8sDD9Jw5ps1pbfqxmQkS68s98VQ0KL45SZuuqtj/MNCjRj/QvMCte3
+fZjH3inAhAEw0pvpH3+mrwgCcHxyxX3WQ6sKA9XnCPiQengp2udGYXpw7gB13/aO
+XQqQqkg7ZfXXDuQV25tpUh7+wampOWoIYbkd/gNDc/bzEv1Bb+MbOTw9gDXAoCHo
+UzuWY3AgQzNy/v5zBrjLJcfHU8hIfK6+0fiJzzhb0eIZ/hlsrDW2W2Z7anS81nzz
+CBywFnkJq+HUAFyCuQ3tNmEwGkoSaYOYBqrx5U7LRFZvBBeEEWEivxTYvB/NnZRO
+j0/nXjH/ty7FtBQt
+=VFTx
 -----END PGP SIGNATURE-----
