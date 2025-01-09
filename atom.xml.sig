@@ -24,7 +24,7 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
   <entry>
-      <title>FSB is disposing marginal check of utility and cost-effectiveness in factual expectancy, legal interest, association and fusion flow test in dependency and competitive interdependence analysis of cross-interlocking and crossholding dependency risk and interest dependency in requirement of dependency financial budget of intangible asset based lending, dispatching Erik violating principle of scarcity and marginal opportunity cost in law of increasing opportunity cost and cost of living allowance in amortization of intangible asset for authorization in credit default swap, criminal convicted in marginal phenomenon violating risk management principles for combination fault seal of lock and effect of least cost factor combination and movement in coalition forces for factoring association for pooling of interests and risk for consolidation of insufficient fusion in issue consortium of consortium loan of below-the-line item in benefit-of-the-doubt principle and follow-the-fortunes duty of bond maturity for liability insurance for opportunity fat tail in violation of peril policy extended by endorsement #considerationpremium #degreeoffusion #goldenopportunitypassup #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium<title>
+      <title>FSB is disposing marginal check of utility and cost-effectiveness in factual expectancy, legal interest, association and fusion flow test in dependency and competitive interdependence analysis of cross-interlocking and crossholding dependency risk and interest dependency in requirement of dependency financial budget of intangible asset based lending, dispatching Erik violating principle of scarcity and marginal opportunity cost in law of increasing opportunity cost and cost of living allowance in amortization of intangible asset for authorization in credit default swap, criminal convicted in marginal phenomenon violating risk management principles for combination fault seal of lock and effect of least cost factor combination and movement in coalition forces for factoring association for pooling of interests and risk for consolidation of insufficient fusion in issue consortium of consortium loan of below-the-line item in benefit-of-the-doubt principle and follow-the-fortunes duty of bond maturity for liability insurance for opportunity fat tail in violation of peril policy extended by endorsement #considerationpremium #degreeoffusion #goldenopportunitypassup #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2025-01-09T17:00:00Z" />
       <published>2024-01-09T17:00:00Z</published>
       <updated>2025-01-09T17:00:00Z</updated>
@@ -6409,17 +6409,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnf/M+AAoJEAFr6uo/MdhPkr4QALjXF7Y2vb1Uib1AjTSqwpYOj7lF
-f2q7PwP5MFmcMScMaUZmkWaj7UUog/6dagiAdVTyUjYpSS+nnFFcJ++2KIpfgpwS
-pwmJK0boAXJoQeCOwGZwBOlVPq4uTeEgWwee/5JCINPkGRLFka1RpNzPhgpu+VtI
-yFQ7Ii49HnmbvsCkVj+19+RNo1SFvbzQpsAVVgfUlNyWRBKL/DlcI7k+R+Wr/zvZ
-B47V76VS5mYeNUNFkddJDJ2o9WXQwZploG88gdVVOdjjVadoSfNJNyxfEBjyVcsF
-QwbUkVl87ys2eboaD2ORMf8KEnf3EFAy2Kvg+4NvmPK9jZbGvrQeTrKJJ9ZvtVRC
-AJdPo9bZG0n/RUPYvAcQkSH5xJ3VEEpRimqT1yE4EUpTxPZyU7kkRtwvRQQJq/Rs
-HtwHGa0qf5KU5sEdJXoKAyb+IDh/2cE/S3qtUmESNGYh7DbGnbtfDETaR+ATRBwG
-MpOQSnLQbpV+JJNT+hBz2ZDDb2QcPYgnFegZGk1Vr9DWAxCUQp6KiFJYtfhFrx1l
-XwKDZFJtzePripIae4JL6Y8GS2DHVorQwM5f9bj3kUC4k8yCMzirsoyjnpF2jZXb
-u7P5Ix/UI86KEAqCKj/eojl8d/4YrgJN/QmNBtrysJvfdVk2gCBkNgeA6xHRFGwq
-xFxsyWuIpPAn2Xjc
-=cLqP
+bC5jb20+BQJnf/PiAAoJEAFr6uo/MdhP5uQQAMRWu5W8jiJmpJlJoZ169Te5sjhf
+Pz49TfwkPPJmC3E19Cstt1cSI9sWXD+MAitTEbNhBJhYMJCr1MqnRW0G0qb+YDQE
+8EmZ6dNXHIqW7xCA3fyFp8XgCZGJ+ryaDGALBbqquMgJZT6t0aDPYoxM9Pcbv5AW
+ePrlv9dEtqtCBeGPR+EOX5ic4zUEu8EI3KxGHx6E47oRhdXSfEB5LS7tTqrjU50m
+XmglFx21dbFakcCM1LD/Rq41Di4SYmybrHSjnsrf2/kZX3tlrJlCSzRh8S/jXuYf
+VXBKcthIy7GvBGepv71075SPAmT0aF7SHe6360o3jqByJ330+MBCNEKNYFhFXVaL
+6Tel6C5/29aXi4fW3vNJIf9TsrbBkfyojq5qgSltJcDsydTV9pJrtKvfWLL7evXp
+GdLcA7JvlMPCsyU2ycS3xwlfA7Kr/hpEKcw00puuMbGpDOmpz8J2hDvBTTQTxq7K
+5UH8sHLD1pv8LNW2z+wCLjcaorwBglT+vQOFLKZaglrLmNWd2yg+8HjX3vimDO0R
+9nXmLAFoDqrlG/67K0Xjt2SzTwjKKjgcDYNq/kZLgPpaC7y3zSrfN+Ig/QgMdLux
+pWkf/BZV3XpwCjJHiuOQCGHJxXsLuaxath0SIU6Q2VKeXDdanwhzSzTWeUA32fGb
+Fapj789U0EnYnTKi
+=kZXA
 -----END PGP SIGNATURE-----
