@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2025-01-10T17:47:00Z</updated>
+  <updated>2025-01-10T17:54:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,10 +24,10 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
   <entry>
-      <title>FSB is disposing indigence means test in recrimination of secondary deviation criminal adjustment for reduction of percentage of utilization of time leveling for time-dependency of floating, subordinate and accumulated term determinable guilt in accrued liability for time limitation and inflation-index guilt in ranking and violation of conversion bound to principal debt, persistent to default in assignment of guilt, conversion and accountancy of tie-breaker rule violating majority license and inverse elasticity pricing ruling in question of authority, guilt, conscience, confirmation and pressure admission of security collateral of comfort and joint recognizance absolute, violating directly enforceable guaranty of Oppel et. al., dispatching G. Schröder to grant liens to secure  bail-inable debt bond to grant collective bargaining policy tariff barrier, conventional lien and secret lien in right of retention and right to refuse performance until counter-performance is affected in prevention of consecutive function of money and secondary conventional reference frame to scale decreasing lien and degree graduation of pledging in deliberate transgression of duty and allocation rule, actual fault, contributory negligence of vicarious liability of behavioral rule option in conflict of laws for asset divestment #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <title>FSB is disposing indigence means test in recrimination of secondary deviation criminal adjustment for reduction of percentage of utilization of time leveling for time-dependency of floating, subordinate and accumulated term determinable guilt in accrued liability for time limitation and inflation-index guilt in ranking and violation of conversion bound to principal debt, persistent to default in assignment of guilt, conversion and accountancy of tie-breaker rule violating majority license and inverse elasticity price ruling in question of authority, guilt, conscience, confirmation and pressure admission of security collateral of comfort and joint recognizance absolute, violating directly enforceable guaranty of Oppel et. al., dispatching G. Schröder to grant liens to secure  bail-inable debt bond to grant collective bargaining policy tariff barrier, conventional lien and secret lien in right of retention and right to refuse performance until counter-performance is affected in prevention of consecutive function of money and secondary conventional reference frame to scale decreasing lien and degree graduation of pledging in deliberate transgression of duty and allocation rule, actual fault, contributory negligence of vicarious liability of behavioral rule option in conflict of laws for asset divestment #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2025-01-10T17:39:00Z" />
       <published>2024-01-10T17:39:00Z</published>
-      <updated>2025-01-10T17:47:00Z</updated>
+      <updated>2025-01-10T17:54:00Z</updated>
       <id>tag:mudfeed.github.io,2025:01-10:T17:39:00Z</id>
       <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
       <content type="html"></content>
@@ -6425,17 +6425,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJngU+rAAoJEAFr6uo/MdhPRAEP/jCG6LKs9FVwiYgK/8wF0CVtpuI1
-4/M5ZmkEmAauCM5FptNG5yyBfmmr03oq5VH/n9Mll80CtoSu2fVPcCOUxdW6RswU
-H79HnCBbQBvpVjl0lLkq2DwgE+0tRwiwVGFAZaKm7u5J+VvLpUmqoV+10FVrV31M
-YSRR3eb7ziFxRBxq1PCD0iP0V2fDg1WNhRlLeDMZL/vvMQGIM463j31NxGReaTFl
-G9QTR6/uA9zKBOEOFLb5kAtcXgPsDr0MZxhDI7DdG+nNF1UB3AqavcgazJLmhinM
-ER2fzOf5sGcGZ+lFJzDJmB+mGi2PfaaDeRYBiGMFvHvdtAGeT4QcUKzCOXOImoP3
-UOwKyFs7efLsN6JwFS1h/VgVaNkJN1rJ7BQPB9Aph6/g7On9UyR5z5AoS4sR81/v
-txB1VShCs+Hebr8Nh2wW16hvMG3osambexT/O7X8brFE8yo/KISi948LFiTrE87t
-qHsT/MlTdZn2tL3S2/OfT1kGpFVydGJHazNlEnLDz7lxV0rQ+kc3pCbVsneDLx57
-J4X8x7t0R8W13tVPIy7xNz3kdAMhvkJ0K9lfYwViKRd4kIjPBJE31qyM4AFFpnT+
-1n6iR6giScZUi7CrdmbrLAi6oMIn64fJXokO1VwWtN58zYa5SmGKHgAkyHMqSM1Q
-3A5FBpo1h75WOW0w
-=ETGZ
+bC5jb20+BQJngVEAAAoJEAFr6uo/MdhPs8sQAMBrBVgHdwyfTF+XhE3rtGH6jPRj
+HgQ7h0ZD5jJHIj31x/znl4MBXc/AQUlku7Wt1ZqqcOGwW5vlnnQYNN3DynPh+0ri
+SAEiXvcG6tYesUBfqbNxkdGj8cMUIMunfespcvIh6E1Bu71RYVMQFIlFL+YHh5ym
+jHnYXSYavYJiOrF2HfTxw70eUjZ6L2n8hLZn/Koq1zj7SbBjNk0LTjT98Z8RlBrG
+vTvxXo7JhRGg3i3zAXyCl/97+mtDIX4ylHc1CRStW4HWtP4y3gXrMBPyEIspZO37
+NlDMBEHRXk7WYSvmBxmz2cgdUkL8CkFMxj4hKzHegk5Hlq1J+M/jAM2+W5ty/QUQ
+Ded5akFuNFJzvjU+zqji3/n1KCnaohx1Yu696wcyYoCBbKsGxxxCTp16YdloO42O
+x/tzd5jL59vPUAj6lpkZnKljI/OqAAN08E4fiXxC7oVAStU9s+w5HaU6GlPJ/bmG
+PyoF6cnPOdUPNcIAsVA5p4UNQuqdMTIwSGSROF1pSPoRGSQxI9jHsp5HLTI5l9Bj
+ST/SyZ91fTYU3eeZbwUYOQ+zxzDuJ8JzBDlYUHgKr+2bk91d/MiPCn5nrNhByyZv
+BwcKgXBCwGtwwbm8nkPrRUmWxWyXMU8YmtKsueSacpKg264J6o+R4MmhN52SnyAv
+BHJ7Rxj00Qj9XBwV
+=MuDW
 -----END PGP SIGNATURE-----
