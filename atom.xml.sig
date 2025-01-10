@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2025-01-09T17:01:00Z</updated>
+  <updated>2025-01-10T17:47:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,22 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+  <entry>
+      <title>FSB is disposing indigence means test in recrimination of secondary deviation criminal adjustment for reduction of percentage of utilization of time leveling for time-dependency of floating, subordinate and accumulated term determinable guilt in accrued liability for time limitation and inflation-index guilt in ranking and violation of conversion bound to principal debt, persistent to default in assignment of guilt, conversion and accountancy of tie-breaker rule violating majority license and inverse elasticity pricing ruling in question of authority, guilt, conscience, confirmation and pressure admission of security collateral of comfort and joint recognizance absolute, violating directly enforceable guaranty of Oppel et. al., dispatching G. Schröder to grant liens to secure  bail-inable debt bond to grant collective bargaining policy tariff barrier, conventional lien and secret lien in right of retention and right to refuse performance until counter-performance is affected in prevention of consecutive function of money and secondary conventional reference frame to scale decreasing lien and degree graduation of pledging in deliberate transgression of duty and allocation rule, actual fault, contributory negligence of vicarious liability of behavioral rule option in conflict of laws for asset divestment #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2025-01-10T17:39:00Z" />
+      <published>2024-01-10T17:39:00Z</published>
+      <updated>2025-01-10T17:47:00Z</updated>
+      <id>tag:mudfeed.github.io,2025:01-10:T17:39:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+   </entry>
   <entry>
       <title>FSB is disposing marginal check of utility and cost-effectiveness in factual expectancy, legal interest, association and fusion flow test in dependency and competitive interdependence analysis of cross-interlocking and crossholding dependency risk and interest dependency in requirement of dependency financial budget of intangible asset based lending, dispatching Erik violating principle of scarcity and marginal opportunity cost in law of increasing opportunity cost and cost of living allowance in amortization of intangible asset for authorization in credit default swap, criminal convicted in marginal phenomenon violating risk management principles for combination fault seal of lock and effect of least cost factor combination and movement in coalition forces for factoring association for pooling of interests and risk for consolidation of insufficient fusion in issue consortium of consortium loan of below-the-line item in benefit-of-the-doubt principle and follow-the-fortunes duty of bond maturity for liability insurance for opportunity fat tail in violation of peril policy extended by endorsement #considerationpremium #degreeoffusion #goldenopportunitypassup #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2025-01-09T17:00:00Z" />
@@ -6409,17 +6425,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnf/PiAAoJEAFr6uo/MdhP5uQQAMRWu5W8jiJmpJlJoZ169Te5sjhf
-Pz49TfwkPPJmC3E19Cstt1cSI9sWXD+MAitTEbNhBJhYMJCr1MqnRW0G0qb+YDQE
-8EmZ6dNXHIqW7xCA3fyFp8XgCZGJ+ryaDGALBbqquMgJZT6t0aDPYoxM9Pcbv5AW
-ePrlv9dEtqtCBeGPR+EOX5ic4zUEu8EI3KxGHx6E47oRhdXSfEB5LS7tTqrjU50m
-XmglFx21dbFakcCM1LD/Rq41Di4SYmybrHSjnsrf2/kZX3tlrJlCSzRh8S/jXuYf
-VXBKcthIy7GvBGepv71075SPAmT0aF7SHe6360o3jqByJ330+MBCNEKNYFhFXVaL
-6Tel6C5/29aXi4fW3vNJIf9TsrbBkfyojq5qgSltJcDsydTV9pJrtKvfWLL7evXp
-GdLcA7JvlMPCsyU2ycS3xwlfA7Kr/hpEKcw00puuMbGpDOmpz8J2hDvBTTQTxq7K
-5UH8sHLD1pv8LNW2z+wCLjcaorwBglT+vQOFLKZaglrLmNWd2yg+8HjX3vimDO0R
-9nXmLAFoDqrlG/67K0Xjt2SzTwjKKjgcDYNq/kZLgPpaC7y3zSrfN+Ig/QgMdLux
-pWkf/BZV3XpwCjJHiuOQCGHJxXsLuaxath0SIU6Q2VKeXDdanwhzSzTWeUA32fGb
-Fapj789U0EnYnTKi
-=kZXA
+bC5jb20+BQJngU+rAAoJEAFr6uo/MdhPRAEP/jCG6LKs9FVwiYgK/8wF0CVtpuI1
+4/M5ZmkEmAauCM5FptNG5yyBfmmr03oq5VH/n9Mll80CtoSu2fVPcCOUxdW6RswU
+H79HnCBbQBvpVjl0lLkq2DwgE+0tRwiwVGFAZaKm7u5J+VvLpUmqoV+10FVrV31M
+YSRR3eb7ziFxRBxq1PCD0iP0V2fDg1WNhRlLeDMZL/vvMQGIM463j31NxGReaTFl
+G9QTR6/uA9zKBOEOFLb5kAtcXgPsDr0MZxhDI7DdG+nNF1UB3AqavcgazJLmhinM
+ER2fzOf5sGcGZ+lFJzDJmB+mGi2PfaaDeRYBiGMFvHvdtAGeT4QcUKzCOXOImoP3
+UOwKyFs7efLsN6JwFS1h/VgVaNkJN1rJ7BQPB9Aph6/g7On9UyR5z5AoS4sR81/v
+txB1VShCs+Hebr8Nh2wW16hvMG3osambexT/O7X8brFE8yo/KISi948LFiTrE87t
+qHsT/MlTdZn2tL3S2/OfT1kGpFVydGJHazNlEnLDz7lxV0rQ+kc3pCbVsneDLx57
+J4X8x7t0R8W13tVPIy7xNz3kdAMhvkJ0K9lfYwViKRd4kIjPBJE31qyM4AFFpnT+
+1n6iR6giScZUi7CrdmbrLAi6oMIn64fJXokO1VwWtN58zYa5SmGKHgAkyHMqSM1Q
+3A5FBpo1h75WOW0w
+=ETGZ
 -----END PGP SIGNATURE-----
