@@ -15,13 +15,13 @@
         <link rel="icon" href="feed.png" />
         <style type="text/css">
           .text-2 { font-size: 8pt; }
-          .text-1 { padding-bottom: 0px; text-align:justified; } 
+          .text-1 { padding-bottom: 0px; text-align: justify; } 
           .pb-7 { padding-bottom:20px; }
           .text-8 { padding-top:0px; padding-bottom: 20px; }
           .text-9 { font-size: 12pt; }
           @media print {
             .py-7 { margin:1.6in; }
-            .text-1 { text-align:justified; }
+            .text-1 { text-align: justify; }
           }
         </style>
       </head>
