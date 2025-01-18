@@ -16,7 +16,7 @@
         <style type="text/css">
           .text-2 { font-size: 8pt; }
           .text-1 { padding-bottom: 0px; }
-          .pb-7 { padding-bottom: 20px; }
+          .pb-7 { margin:1.6in; text-align:justified; }
           .text-8 { padding-top:0px; padding-bottom: 20px; }
           .text-9 { font-size: 12pt; }
         </style>
