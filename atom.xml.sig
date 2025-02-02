@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2025-02-01T19:27:00Z</updated>
+  <updated>2025-02-02T18:24:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -24,6 +24,22 @@ Hash: SHA256
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
   <entry>
+      <title>FSB is disclosing preventive measure of discrepancy in preemption for pervasive constraint of opposition procedure of adversary in waiver of subrogation and coinsurance deficiency of quitclaim and subsequent account assignment of close-out netting, competent to dispose by will in waiving defenses of avoidance and set-off, dispatching Erik violating right to be informed in underwriting share capacity requirements of nuisance lieu of reciprocity of guarantee of underwriting and claims cooperation in subsequent effects and commotion of accruals and deferral of enforcement in reserve for impending losses of death by torture in violation of Law Against Unfair Competition #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2025-02-02T18:23:00Z" />
+      <published>2025-02-02T18:23:00Z</published>
+      <updated>2025-02-02T18:23:00Z</updated>
+      <id>tag:mudfeed.github.io,2025:02-02:T18:23:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+   </entry>
+   <entry>
       <title>FSB is disclosing act of discretion in preference provision for principal obligation and proceedings of recognition and measurement in assessment of claim and principal component analysis in violation of discretionary powers principle of endowment scheme and acts of violence against life, physical integrity or liberty of person due to external causes of downgrading assessment of compensation in character assassination and character witness for violation of factual scope of application and circumstance resulting in forfeiture values of right, basic law, claim of suspension of expiration of prescription for additional liability of tail in extended reporting period of underwriting share in syndicate guarantee of claims cooperation, dispatching H. Vischer to sue for libel and gaslighting of conspicuous consumption of aiding perpetrator of offense after fact by preventing prosecution or execution of sentence imposed in motion of censure in legal bearings of case in apparent discretionary authority for decision-making and disciplinary authority, influencing legislative authority to acquire authority of final decision in violation on pro rata temporis basis of market share liability to borrow on securities of adverse transboundary impacts, violating power of representation and co-decision of agency relationship for distributive justice and procrastination of legal proceedings #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2025-02-01T19:27:00Z" />
       <published>2025-02-01T19:27:00Z</published>
@@ -6793,17 +6809,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnnmhbAAoJEAFr6uo/MdhPk2gP/i0nzHUCGPTEfv79Y8lS/1tNm8jZ
-8Tos0uESmjV7oZK3s0/jPX/hjq8momOLpIEBKikrtftn/xuKjSRgWuHODR3qdVcl
-tpzaNlcKap3c3B6FkUOdjNpXT7e8hpxArLu1IFsfPPOfdT+ClQTQHYvQSu5Q5LIS
-4i2l26LQyjd3PVbT0ty/OfNf7Kz0wq597Zxqhk4sNwT5NuDaIgwA5xoWupWXeHW7
-EXPgDu8yY+QmrEZ7PsbD7l6fzYIIwMlAn7lRqI/STfDyTI8SybZVKTaBlkYyQcAY
-xBX26wqjBM5tQEGa12hZVeCmpZnlCaF3WLvJIXsR2p6L5gZ1SKdZxi3WwqtQnI/T
-SODIwwV/jozywRj6QFPb/dVFeSmSKIK78oxJOhRKEoZ5YSvmXtbUwSd7YuGUltP7
-YaTvQbaq23F77TpwlUfm+u6J+GHAvkkvpPpJ5YU5lFXO8+CFAw8UytkFnxwBA8xq
-VgOn3GfVbSQywPkqw5SQfhxdvim3tU13DbG62EKk6ljFOnMkLklzW5PVV/GB6ekI
-C8IglWxCIMhsjTepl+5Jc9Lx9A8UkjwKhhj/hMCRtcjeyatJfJJpJHM5iX34JIyT
-JRlrR+ErR/hUuyK5pVuX4FLp36bQopbFs8rPUuO3L/vHNmIfFzPWqUkHISBSvawt
-w2a16lDH3/3W2qDq
-=WZ7E
+bC5jb20+BQJnn6q1AAoJEAFr6uo/MdhPVoQQAJbAeJwEZLUJHHHQhBmv/7Tf5j7C
+99pWNX+Dw6wVSe7efJZcX59u/3/GGN7rEVR+Evrj4P9L6H57IyQen/m+dqVwW5A7
+uDuEOVp3z39xc1wPJ8NPu4BxLojKrxHaDzD3ECKO/lttttkA9YoGA/Af7fyWtNPd
+4H+BSlREDMXgRt1dhYDLqqTFcKkJxQ4mgye3XpA1xzJsu5pQrM/SQaL/iDsUHQxP
+/xItQ80HLHBipLHqs8BrGDwgo1RZIjxrd80LwMh8EsWwXZWWi4gmAcfcAjjC75hH
+VgWT8/rSJyAUOc7xe1kba1U090nz8NLXmJAB2fauXU3Gt41dQ8jTrqgX6aRJkpUg
+6HXuPhVbFML0cYTU9Ek8BR66U1/OyZdm1cF2OKAbC0/+3vamILMHebbTXEwQ3AiR
+OhAV5aPH/rtQvhXr/NjjAZj1eyYcbX/pXDy9l6MFWOXHGZAB/lGikk4XBN0YMBn/
+sYTxFGKNMs+JYluh8GOs4n/8TYAyb5DGiWCbR6IFll0a/joyjuPPlb2RpdcfdYZ7
+dobX/gAECk7zx1t0YNqne1QwugMT6rNw/K0gayP73TfFe/2OOiR6eSpl9i0IVXgf
+efC5/nPRCW354JLFR0hjOF2rYgGmFNYA4jRuglW8CNkw4sTextF6wTHahcpDAL+G
+792z/szDx8ruUz1A
+=yAdC
 -----END PGP SIGNATURE-----
