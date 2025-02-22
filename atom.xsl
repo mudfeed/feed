@@ -81,7 +81,7 @@
           <!-- p>
             <xsl:value-of select="/atom:feed/atom:subtitle"/>
           </p -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<h2><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
   style="flex-shrink: 0; width: 1em; height: 1em;" viewBox="0 0 800 800"
   fill-rule="evenodd">
 <g>
@@ -140,8 +140,7 @@
 <path style="stroke:none; fill:#000000" d="M 502 712L 502 718L 514 718L 526 718L 526 712L 526 706L 514 706L 502 706L 502 712z"/>
 </g>
 </g>
-</svg>   
-          <h2>Recent feed posts</h2>
+</svg>Recent feed posts</h2>
           <div class="text-8">
             <xsl:text>&lt;</xsl:text><a href="mailto:jannis.bloem@gmail.com"><xsl:value-of select="/atom:feed/atom:author/atom:email" /></a><xsl:text>&#160;</xsl:text><xsl:text>&#128274;</xsl:text><a href=""><xsl:attribute name="href"><xsl:value-of select="/atom:feed/atom:link[3]/@href"/></xsl:attribute>0x3F31D84F-pub.asc</a>, (<a href="https://www.linkedin.com/in/jannis-bloemendal/">linkedIn</a>, <a href="https://www.facebook.com/profile.php?id=61555497917112">facebook</a>)<xsl:text>&gt;</xsl:text>
           </div>         
