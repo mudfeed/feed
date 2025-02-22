@@ -82,7 +82,7 @@
             <xsl:value-of select="/atom:feed/atom:subtitle"/>
           </p -->
 <h2><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-  style="flex-shrink: 0; width: 1em; height: 1em;" viewBox="0 0 800 800"
+  style="flex-shrink: 0; width: 2em; height: 2em;" viewBox="0 0 800 800"
   fill-rule="evenodd">
 <g>
 <g>
