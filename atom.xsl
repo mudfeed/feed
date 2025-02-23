@@ -142,7 +142,9 @@
 </g>
 </svg>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-  width="800pt" height="800pt" viewBox="0 0 800 800"
+  width="800pt" height="800pt" 
+  style="flex-shrink: 0; width: 2em; height: 2em;" 
+  viewBox="0 0 800 800"
   fill-rule="evenodd">
 <g>
 <g>
