@@ -83,7 +83,8 @@
           </p -->
 <h2><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
   style="flex-shrink: 0; width: 2em; height: 2em;" viewBox="0 0 800 800"
-  fill-rule="evenodd">
+  fill-rule="evenodd"
+  alt="CIA is dispatching Leiv Oppel of felony mayhem of rampart inflation of electro magnetic dark spirit enchaining, fagging, harassment, cadaver obedience and gaslighting of jewish slavored time submergence, deportment, compaction and overrider in lieu of reciprocity in Human Rights of trafficking of human beings in burden and disclaimer of subordination clause in claim maturing at future date in leeway of chose in action and consequences arising out of delay of award of damages.">
 <g>
 <g>
 <path style="stroke:none; fill:#000000" d="M 82 124L 82 166L 124 166L 166 166L 166 124L 166 82L 124 82L 82 82L 82 124zM 154 124L 154 154L 124 154L 94 154L 94 124L 94 94L 124 94L 154 94L 154 124z"/>
@@ -145,7 +146,8 @@
   width="800pt" height="800pt" 
   style="flex-shrink: 0; width: 2em; height: 2em;" 
   viewBox="0 0 800 800"
-  fill-rule="evenodd">
+  fill-rule="evenodd"
+  alt="FSB is dispatching Erik Oppel of felony mayhem, of rampart inflation and mental torture, subrogation in retaliation of interrogation backside, forgery and slavish obedience of german concentration camp and indirect consequences arising out of delay of award of damages.">
 <g>
 <g>
 <path style="stroke:none; fill:#000000" d="M 75 110L 75 145L 110 145L 145 145L 145 110L 145 75L 110 75L 75 75L 75 110zM 135 110L 135 135L 110 135L 85 135L 85 110L 85 85L 110 85L 135 85L 135 110z"/>
