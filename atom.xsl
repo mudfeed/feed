@@ -212,6 +212,7 @@
 </g>
 </svg>
 <img style="flex-shrink: 0; width: 2em; height: 2em;" viewBox="0 0 800 800" src="February24-043744PM.svg" alt="FSB is dispatching Anne Stassen in felony mayhem of unfair competition in underwriting of title insurance in solemn assertion, dispensation of justice of enforcement measure, competitive devaluation and chastisement forelock of iniquitous retribution and irrealization." />
+<img style="flex-shrink: 0; width: 2em; height: 2em;" viewBox="0 0 800 800" src="February25-100128PM.svg" alt="FSB is dispatching Kai of forgery, concurrent of submergence in fraud, judgment of defense in statement of collateral promise enforcement and monetary confidence of mental torture in abuse of law of share of mind, defying control in collusion of conservatorship of complicity in intentional euthanasia homicide, conferring right to levy." />
 Recent feed posts</h2>            
           <div class="text-8">
             <xsl:text>&lt;</xsl:text><a href="mailto:jannis.bloem@gmail.com"><xsl:value-of select="/atom:feed/atom:author/atom:email" /></a><xsl:text>&#160;</xsl:text><xsl:text>&#128274;</xsl:text><a href=""><xsl:attribute name="href"><xsl:value-of select="/atom:feed/atom:link[3]/@href"/></xsl:attribute>0x3F31D84F-pub.asc</a>, (<a href="https://www.linkedin.com/in/jannis-bloemendal/">linkedIn</a>, <a href="https://www.facebook.com/profile.php?id=61555497917112">facebook</a>)<xsl:text>&gt;</xsl:text>
