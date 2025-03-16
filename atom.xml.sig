@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2025-03-14T22:38:00Z</updated>
+  <updated>2025-03-16T20:02:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,23 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+
+  <entry>
+      <title>CIA is disclosing dissolution contract of oppression submerge swamp for proper position and invalidation in confusion and disarrangement of extortionate daylight robbery insurance, dispatching Eckhart of bio hack rip-off in attempted extortion in perturbed queasy and confoundment, dispatching Ackerboom in redhibition in compassion fatigue of annuling of crime of Oppel et. al., abolishment of law and liquidation threading of extermination, assimilation, knocked out illegal gambling and elimination, dispatching Erik of obliteration and Kai of dispersal of composing metal music of elimination in gambling in overturn of overthrow of separation of powers in release from service or duty and dismissal in respect of such discrepancy in prevention of public overexposure of tragic in deceisive damned defeat of whack, chop and frustration of pacifying and subordinate vanquish of gaslighting recession compromise, dispatching A. Hofstede of shellacking in yesterday's game of discharge of electro magnetic imprisonment of Jannis recognised jewish in actual state of affairs in contempt of federal state law in spite of precautions, out-of-time in violation of back-of-hand-proof in state of bondage of reciprocal effect in indifference of right of state to inflict punishment, dispatching D. Trump for release from confinement, custody, or care in modern imprisonment, dispatching Bernd of out-of-tune of fatigue life in acquirement of imperceptible wearout of tranquilizing fake of free washout, involuntarily under threat of violence in interdependence reciprocity break of out-of-key disposition in state of equilibrium, field of activity of exorbitant profit for another in state of repair and shortage in coverage of humanitarian crisis with assistance in donor fatigue of apathy in criminal propensity of rescission ‘Keep out of mischief, robbing the piggy bank, neither nor key fits’ #kiboshpremium #bonepremium #doublewhammypremium #scaramouchpremium #vermouthpremium #flippantcaducitypremium #ultrasonicflawpremium #flippantcaducityastro-garbagepremium #virtualevidencepremium #gitpremium #bananasuitpremium #jeopardypremium #pinkelephantpremium #rampartpremium #realfrognosepremium #fillipflawechopremium #boonpremium #dirtyslavishskunk #frazzlepremium #compactionpremium #picnicpremium #lodgmentpremium #!%$premium #fryspremium #redemptionfixpremium #causeofdefectpremium #temporalpremium #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2025-03-16T20:02:00Z" />
+      <published>2025-03-16T20:02:00Z</published>
+      <updated>2025-03-16T20:02:00Z</updated>
+      <id>tag:mudfeed.github.io,2025:03-16:T20:02:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>FSB is disclosing convention and discordance of para legal mistake as to wrongful nature of act of collective action serving as test case in violation of lean principles of cardinal paragon of virtue of extrinsic evil and dark soul dynamic of leviathan and behemoth of criminal propensity of assimilation in maladaptation of friction and frustration in forfeiture, grave crime and anaphylaxis of electromagnetic hypersensitivity in violation of amenities in merit principle of risk injection in confab, conjure and proclivity of predisposition of back and forth of attack of spatial memory, affecting motoric, in risk of indirect murder, dispatching Eckhart of appetentency of incentive and incitement of impulse idiosyncratic charley horse kink of apparently unmotivated idea or action of ‘A bull in a china shop, dull as dishwater, crooked as cucumber, kibosh bungled mess-up booby-trapped’ #kiboshpremium #bonepremium #doublewhammypremium #scaramouchpremium #vermouthpremium #flippantcaducitypremium #ultrasonicflawpremium #flippantcaducityastro-garbagepremium #virtualevidencepremium #gitpremium #bananasuitpremium #jeopardypremium #pinkelephantpremium #rampartpremium #realfrognosepremium #fillipflawechopremium #boonpremium #dirtyslavishskunk #frazzlepremium #compactionpremium #picnicpremium #lodgmentpremium #!%$premium #fryspremium #redemptionfixpremium #causeofdefectpremium #temporalpremium #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2025-03-14T22:38:00Z" />
@@ -7433,17 +7450,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJn1KMEAAoJEAFr6uo/MdhPOngQALixuqk0OmEccJOyPfUKbIWJsvuA
-IETS8EfzQwlsPQ/RGUGFcCN+NrwOFAJgEd51a6e6wZ6HKn5qPbSO1KnmjUIw5j6I
-48TggngsC26/FNdEKO8blVuU1bJiFMo4KwDmE8IZPJWNh7hGKlgvIkUk6+vYuoNX
-LtkzWdDUcdfehqjCNm1Oovu2mkjfIsyfKGvH5Io+pyUGczP+1J0xNPa4PFHKsjrS
-dhxloJSQNAxlHAu2J6BCOn1eZpc75/aUgKy4Bx8dZWBQ+SxreMAS7eVimHwgO/DX
-X47RNRiNFHyPErD40wqPhJ9B6qLemwWwXdxWjQbqRPahEP4+owuN0/9+kKYcdi9Q
-DDDh3KSvtmb7xngNlBMobIyg5sWeZYBJ5pxkepCh+2s7F+zr/dMDO5QOvTlEm5av
-+fnRAaUYwXmhdfOhnXiTR9DJBKQrXIxCTTmWvXhecxb5chZhw/dij9rzrFYbrGNU
-r1j0qangnDtyTLiNqcADmCdE0TjY5XcZCCYHovzUFhIaJOTufy93g8qC9vrsSH+e
-Hyi2I3/Xvw+jtjQEJ+zzC3aHmZTtclQUwgEbrybUQCKDhXc8Zeca2R8gicWN+4j0
-jay2ggRRO4aKFcmafvHMwofm+buSvnyAOkE2z990fupdVHMptKkTH7HbZHewWtlP
-N8WsVAZomLGeYcc5
-=JD5f
+bC5jb20+BQJn1yDjAAoJEAFr6uo/MdhPrggP/RKiocUzWaLTRJWXA6hKTOO4z9A2
+RXvSdyq2HZIBXGmsYhUYCQQPAERvKxzT2mnMNbvXbmDvwN+ZqE6nb8/JaJ2vPW1I
+r5SGPE63jdHrp2Vrvf82N6pRRYApuNL4ag9tCwMGIQZWaibF4gZsS+BtET3aDVBu
+RUXwzCPuPdPxz193Du3C9ErUJd3mIek7oDd8my5DNEvEfc9jgMesz4VmjcN9WQ+Z
+Dd2zlreeNcB5XAu4UpOnKmfkv46/tAHuVs/8Wqh0gAzesu+l/A6akOqOARE0Ow1b
+NeuArh11LB4g7QtgTOqKC5VSiXvDd6Bo8X8qdhtZmkkkMBHCYD/n3xLatLIdmly3
+SXIsjGcxsYKRn9GaVFtuQzScnUg3RK53BYuaN/N1HyeAyI1kgutq1XRscYnM/Eq3
+tlq0fLb4Jyjkq+dVPPRjPRY73NMl1IXnRKg2eCfIrRSV0pHeg/rDIW3YnsY6Ix2d
+J8GT2Xp1WCZx8NA5DZyoo/oN3QGsiaYBCHpotc2zwgvNKetgiHC9TXr3WVGaTkbj
+FQdI6lzzMDhpCczbWZi52PUDzK9Cyv5PYT6NPAw9lXitjp0IUa7Bor7rv9bU5YAC
+nRuZwQKOHjNhiVZ2LXmxDHB9uZE15yatYY/cwSnBH2chc8HHn96WSjrC7KYx24Iy
+qU5RnoxlyR6uxmWI
+=CvBj
 -----END PGP SIGNATURE-----
