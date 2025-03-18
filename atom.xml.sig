@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2025-03-16T20:02:00Z</updated>
+  <updated>2025-03-18T20:28:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,7 +23,22 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
-
+ <entry>
+      <title>CIA is disposing attachment point of excess of loss reinsurance treaty of initial estimate conception, notion of verdict, dispatching Erik of clause stipulating jurisdiction of regulatory alignment in approximation of laws and adjustment of trial balance in international contempt of court in antedate conscious parallelism of loss settlement of defective condition of legal clarity, prescribed by regulations in unnecessary enforcement of harm for control of paraphere in obsolence of dark esteem and merit for defect profusion in formal expression of legal reasons and principles upon which legal decision is based of degree of immoderate maturity of inordniation, exorbitan and extravagance of unconscionable plethora, dispatching Kai in differentiation of experimental body of truth, information, and violation of truth or contest principle, acquired in apprehension shift of form estimate or evaluation of contest or competition of money according to truth or premise ‘Take no prisoners in the wrong ballpark, wearing a wet wool pullover taking a shower, she had two cows to tell the truth, the dog which they had for five years has run away, oat bums’ #snowcunnilingusbunnykangaroocourtpremium #ducksouppremium #stipulationorrerypremium #tushieheiniecaboosepremium #kiboshpremium #bonepremium #doublewhammypremium #scaramouchpremium #vermouthpremium #flippantcaducitypremium #ultrasonicflawpremium #flippantcaducityastro-garbagepremium #virtualevidencepremium #gitpremium #bananasuitpremium #jeopardypremium #pinkelephantpremium #rampartpremium #realfrognosepremium #fillipflawechopremium #boonpremium #dirtyslavishskunk #frazzlepremium #compactionpremium #picnicpremium #lodgmentpremium #!%$premium #fryspremium #redemptionfixpremium #causeofdefectpremium #temporalpremium #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2025-03-18T20:28:00Z" />
+      <published>2025-03-18T20:28:00Z</published>
+      <updated>2025-03-18T20:28:00Z</updated>
+      <id>tag:mudfeed.github.io,2025:03-18:T20:28:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>CIA is disclosing dissolution contract of oppression submerge swamp for proper position and invalidation in confusion and disarrangement of extortionate daylight robbery insurance, dispatching Eckhart of bio hack rip-off in attempted extortion in perturbed queasy and confoundment, dispatching Ackerboom in redhibition in compassion fatigue of annuling of crime of Oppel et. al., abolishment of law and liquidation threading of extermination, assimilation, knocked out illegal gambling and elimination, dispatching Erik of obliteration and Kai of dispersal of composing metal music of elimination in gambling in overturn of overthrow of separation of powers in release from service or duty and dismissal in respect of such discrepancy in prevention of public overexposure of tragic in deceisive damned defeat of whack, chop and frustration of pacifying and subordinate vanquish of gaslighting recession compromise, dispatching A. Hofstede of shellacking in yesterday's game of discharge of electro magnetic imprisonment of Jannis recognised jewish in actual state of affairs in contempt of federal state law in spite of precautions, out-of-time in violation of back-of-hand-proof in state of bondage of reciprocal effect in indifference of right of state to inflict punishment, dispatching D. Trump for release from confinement, custody, or care in modern imprisonment, dispatching Bernd of out-of-tune of fatigue life in acquirement of imperceptible wearout of tranquilizing fake of free washout, involuntarily under threat of violence in interdependence reciprocity break of out-of-key disposition in state of equilibrium, field of activity of exorbitant profit for another in state of repair and shortage in coverage of humanitarian crisis with assistance in donor fatigue of apathy in criminal propensity of rescission ‘Keep out of mischief, robbing the piggy bank, neither nor key fits’ #kiboshpremium #bonepremium #doublewhammypremium #scaramouchpremium #vermouthpremium #flippantcaducitypremium #ultrasonicflawpremium #flippantcaducityastro-garbagepremium #virtualevidencepremium #gitpremium #bananasuitpremium #jeopardypremium #pinkelephantpremium #rampartpremium #realfrognosepremium #fillipflawechopremium #boonpremium #dirtyslavishskunk #frazzlepremium #compactionpremium #picnicpremium #lodgmentpremium #!%$premium #fryspremium #redemptionfixpremium #causeofdefectpremium #temporalpremium #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2025-03-16T20:02:00Z" />
@@ -7450,17 +7465,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJn1yDjAAoJEAFr6uo/MdhPrggP/RKiocUzWaLTRJWXA6hKTOO4z9A2
-RXvSdyq2HZIBXGmsYhUYCQQPAERvKxzT2mnMNbvXbmDvwN+ZqE6nb8/JaJ2vPW1I
-r5SGPE63jdHrp2Vrvf82N6pRRYApuNL4ag9tCwMGIQZWaibF4gZsS+BtET3aDVBu
-RUXwzCPuPdPxz193Du3C9ErUJd3mIek7oDd8my5DNEvEfc9jgMesz4VmjcN9WQ+Z
-Dd2zlreeNcB5XAu4UpOnKmfkv46/tAHuVs/8Wqh0gAzesu+l/A6akOqOARE0Ow1b
-NeuArh11LB4g7QtgTOqKC5VSiXvDd6Bo8X8qdhtZmkkkMBHCYD/n3xLatLIdmly3
-SXIsjGcxsYKRn9GaVFtuQzScnUg3RK53BYuaN/N1HyeAyI1kgutq1XRscYnM/Eq3
-tlq0fLb4Jyjkq+dVPPRjPRY73NMl1IXnRKg2eCfIrRSV0pHeg/rDIW3YnsY6Ix2d
-J8GT2Xp1WCZx8NA5DZyoo/oN3QGsiaYBCHpotc2zwgvNKetgiHC9TXr3WVGaTkbj
-FQdI6lzzMDhpCczbWZi52PUDzK9Cyv5PYT6NPAw9lXitjp0IUa7Bor7rv9bU5YAC
-nRuZwQKOHjNhiVZ2LXmxDHB9uZE15yatYY/cwSnBH2chc8HHn96WSjrC7KYx24Iy
-qU5RnoxlyR6uxmWI
-=CvBj
+bC5jb20+BQJn2cpAAAoJEAFr6uo/MdhPRBAQAIl2QJpKcJ87npZIejF+nMHrILxH
+LSSNfS4+6CagrqGrZf988SHE1SCg+xIc6DmA29e+0/7huCh5YZ8kh+6M5ROH7Jzs
+ztG/qlzgLrPayqiQa38IZZRcfU8Q9Le+rDCQIkb0FSkoLBCTS7gvICJWtsSkfuBq
+2rJXZau15CR4ALjoEctOWn3onRr2PAqGZuvr+dnMb79ieP6ZmfNPxBGVjefZEmU+
+gGCkv9la58iJGG9P4MZpQXPQErlDFKKIbpoJ0RxU+boKZb3EXVzEueY5WqjXX0Sh
+qG6neUKehFVbShNPHeFG7UHMCzKK5WIZVMP5Rm1b+zVkiqufsmPm9Wao+FyURPw7
+JXyLJUtDr6Z+FV52svlXGhZZxp/QGTdvDneez6/aJWcmzdJBB6fVUxpAi/LwU8iA
+5ZmxvmTY3Xwteli58lfC08pV4Z8vagh7ygDUfuO5o0j/0xyKzXmoqoaFu4IyQ6hU
+/fN/OQUKCFVHSLFaYvbO5ORlcpS0TNsGAsHIxSYiz6Gcb9itcNXKM1EXNj+SARUj
++YaHPyYgy9f5hnPEnaFsBAk/Mv4okmnyLgArzR/BnHiB10ZrAq4Gh+L38Unq/2nL
+HUw2aCYjm7mLdzMhIfcQTq97VJCdpCdCTOBCCmRrFdETRURgAdKLPlnKJkWs6bhA
+UqfdDCNPftdid/Gh
+=JH1H
 -----END PGP SIGNATURE-----
