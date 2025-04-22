@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2025-04-23T01:07:00Z</updated>
+  <updated>2025-04-23T01:14:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -38,7 +38,7 @@ Hash: SHA256
       <category term="distressdiagnosticflag" />
       <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
   </entry>
-
+  <entry>
       <title>CIA is disclosing breach of conduct in violation of peaceful principles in bargaining and drawn, forging and prolongation of bill of exchange and attainder, dispatching Heike of Oppel et. al. of bill of exchange invalidated on account of failure to protest it in due time on another place than that of issue in violation of law regulating transformation of companies of knowledge standard conversion of fraudulent misrepresentation, deceit and fraudulent concealment in violation of redhibition of retrofitting and pretense re-adaptation aids in violation of tax adaptation law, dispatching Iwasawa Yuji to introduce bill of subrogation of pretense claim in metamorphosis transubstantiation to exploit imposition benefit resulting from interference, inhibition and encumbrance of indirect intermediate action of assault, hate crime and defacement of coercion of felony mayhem, dispatching Gebhard of Oppel et. al. of declining redemption and extrication in obligative imperative of duty of merciless annihilation and hazard in emotional distress of white terror affiliation of long-term electro magnetic hostage of individual responsibility in due diligence of legal requirement in violation of norm and legal shift of conductorship of authority, responsibility and guilt of act of state crime of transgression of immunity, state and government affinity in constraints of competition of obstruction of punishment  of isolation and exclusive entanglement of electromagnetic influence for plea bargaining of transparent terror to free from pretense or deceit of assertion of a legal right, claim, reason, basis and feigning for disclosure of sealing of inadequate or insincere attempt to attain  certain condition or quality ‘Theatre of puppet regime in abjection maturity of pledge in insurance fraud of solidarity imperative, formidable terrific scumbag of emotional baggage of friendship’ #dohpremium #pomponpremium #powerthatbeepremium #oojamaflippremium #bagniopremium #flippantpremium #bamboozlepremium #lofipremium #dagobertknickerspremium #moonbuggypremium #parrotpremium #indirectparitypremium #cowpaddockfeepremium #snowcunnilingusbunnykangaroocourtpremium #ducksouppremium #stipulationorrerypremium #tushieheiniecaboosepremium #kiboshpremium #bonepremium #doublewhammypremium #scaramouchpremium #vermouthpremium #flippantcaducitypremium #ultrasonicflawpremium #flippantcaducityastro-garbagepremium #virtualevidencepremium #gitpremium #bananasuitpremium #jeopardypremium #pinkelephantpremium #rampartpremium #realfrognosepremium #fillipflawechopremium #boonpremium #dirtyslavishskunk #frazzlepremium #compactionpremium #picnicpremium #lodgmentpremium #!%$premium #fryspremium #redemptionfixpremium #causeofdefectpremium #temporalpremium #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <published>2025-04-20T03:11:00Z</published>
       <updated>2025-04-20T03:11:00Z</updated>
@@ -7736,17 +7736,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJoCCIYAAoJEAFr6uo/MdhPdVAP/Rfi7voE6dwk6swnMC4NhLLHFOmP
-GoCo8NI0i2/E9OtB1GJ5lf4z9R2HjS/KJ6tyLQKYWb0JjsBKLnMLzGaI5nCTBjrw
-s6R2ZsTqj8BKXmJXnW6wrmHEQ/RFktwrmO0Fon8rNkB2mNoYiqCtY1MK+XV3Dax2
-gnB/CheQX4/4lPa8eSKiuhFy+7d0pumZc3CeLB4LYOWTW6Z7+qJmyNWKH41Oi4SZ
-uX/Jz/s4XLeKw2RoCqY4/34rAeO4lLuO8u1nhw4mLG+WhcKrfHQfcfrRs+7LP4Re
-MSQ12w0TimdEeikZl/5X5l1vFSj9UVXxcOElwSNCKS0l26n9TwaaOwxf3IOzAGlq
-HM4YrnchE1sRw4FNsi36nuUrcm2+tqnXg7D5OzoJwUiIhlFMmcAVewIW6Ie3izow
-t4HALTRwCPIxzHfhi9fKpMuE81VPhPu1qZB9Gz2I9C8SCOiX7ujaHKoLdf1JhZwm
-9MkRZ94vdxcBjbZzS3s7RSCGN6/Ymcib4k+jYQZIm9iVKDt/FrnCmQ2FIhgRzC9j
-P5WbPcn4ysfvWTHnMIBwAHL5XKWMeVssSkdl0rJ2ukTp6dzKxZHITKpDXmuDhbbq
-KcqYfTELUmJkZgeB9Q1u7XC9ke0Or5eijU8R+Pni6lDqJaCbpV7DBnExmy2QK8Zs
-qbKfoRGBNxheL4uF
-=48sk
+bC5jb20+BQJoCCMWAAoJEAFr6uo/MdhPHb0P/ijeLP6JmJm0xDvA78a07vR92o5/
+lUT5yrqbddwHg1fZpBY3mI6FznfOd+qTTVJGN5NTCGjx/vp0w/aIqt0uaA9he1pi
+4N+bRjbxjdnuU736g5L3EN9bFnTCcz4uxnyDrPTlT0pMDeW30rGpLGKZ1Uszieum
+cHT8wYPesYvv2yLucoY3PlE4e7bfZefM+MHT4K4tTErD1qaSTvosj3QT9ZwI4TgQ
+2b76i7HT4ih9kKVAH29SrFEt8w1Td5h7czpf1ifnxvFT4EmCiMOX9A+ETIypTh8b
+8pZ6ayQIkwaDn5sQw56Mca7dGUAtyWteskGwDUVHsZm/d2zP6PqwWmRL/sze9h04
++3G+rpODbHkkc6Sa3s81RzMJZAkEZ1YHDVT5Ry0nNe0alWk/hrPTQDpn5JKTG4rf
+l4MDijewCBcDAEg+X8s103T7p2fwCrN3fkiAnfVojj022Ib6SLp45FneH84gy6Lt
+1lY/q/Avj6HzhEc0ueQit1iWOdhHYv6L43Rsxqmank8ALWYKW+utFHer5tDWsAKh
+Lv7bS/ozDnzmTrqODDm5glMfPUBL9ge2OrA0HWDAoIVcS8YCcAk8SUlA/QtLHd1Y
+cgvRRll/32g3dDT6GwwYM3K7Egdqz0AQZYn8IvrB17gvTAWqEBndB8sslQmv0LO/
+vYr+rVY6AS1eKAlo
+=1ml3
 -----END PGP SIGNATURE-----
