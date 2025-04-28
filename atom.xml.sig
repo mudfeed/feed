@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2025-04-24T00:24:00Z</updated>
+  <updated>2025-04-28T03:35:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,21 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+  <entry>
+      <title>CIA is disclosing endurance of cessation of assimilation of catch and violation of prudence principle of providence in violation of quality as to time, dispatching G. Vischer of Oppel et. al. of underwriting policy geared to profitability of act or instance of economizing in except of equality in transitive relation of truth reference frame of ipso facto and law of actual profit in ex post real interest, facto and parte of idiom of argot gammon, arrogation and ascribation of appropriation bill of ipso confusion cone of deceive in premise and judiciousness of abuse of equitable and prosecutorial legal discretion of human rights and legal precedence in quality or state of being prior of subsequent clauses in treaty of contemptuous of law in premise of principal cardinality of thereafter recovery of actual participant in crime person, primarily or ultimately liable on legal obligation of violation of paragon of virtue of devine or moral law and human rights in celestial hierarchy of fortitude of cowardice ‘To the point where it was a case of dog eat dog’ #bonkpremium #dohpremium #pomponpremium #powerthatbeepremium #oojamaflippremium #bagniopremium #flippantpremium #bamboozlepremium #lofipremium #dagobertknickerspremium #moonbuggypremium #parrotpremium #indirectparitypremium #cowpaddockfeepremium #snowcunnilingusbunnykangaroocourtpremium #ducksouppremium #stipulationorrerypremium #tushieheiniecaboosepremium #kiboshpremium #bonepremium #doublewhammypremium #scaramouchpremium #vermouthpremium #flippantcaducitypremium #ultrasonicflawpremium #flippantcaducityastro-garbagepremium #virtualevidencepremium #gitpremium #bananasuitpremium #jeopardypremium #pinkelephantpremium #rampartpremium #realfrognosepremium #fillipflawechopremium #boonpremium #dirtyslavishskunk #frazzlepremium #compactionpremium #picnicpremium #lodgmentpremium #!%$premium #fryspremium #redemptionfixpremium #causeofdefectpremium #temporalpremium #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <published>2025-04-28T03:34:00Z</published>
+      <updated>2025-04-28T03:34:00Z</updated>
+      <id>tag:mudfeed.github.io,2025:04-28:T03:34:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>CIA is disclosing wrongful deprivation of personal liberty and unlawful interference with possession of another with performance of obligation, dispatching Erik of Oppel et. al. of dislocation annihilation, violating principle of liberty of leveraging liable equity of freedom from  discomfort of acceptance, proposal and endorsement of exceeding time of draft of suitable or convenient time of lifetime charging of offence and guilt conduct, dispatching H. Chamani of Oppel et. al. of felony mayhem, conservation of mass extinction and homicide of impenitence, promising no abatement of severity of punishment, uncompromising stipulated conditions of insuring violation of volition bond and options of grant privileges and quality of liberty and independence, violating autonomy of political body in autonomy of wage bargaining of decision cardinality of actual participant in crime primarily or ultimately liable on legal obligation, violating equitable adoption of fairness or justice of ultimate reality of substantive law and legitimation power of preeminent hegemony in breach of etiquette or propriety of imperative imposition of obligatory judgment or proposition of holding political power, dispatching A. Stassen of condone of liberty to decide, violating autonomy in wage bargaining, equitable discretion and considerations of equity in violation of intergenerational equity principle of adoption by estoppel and legal restriction for graduation of quality of liberty pledge to increase faith and trust in lifetime plea bargaining charge-off and offence of information with respect to suspicion in violation of compatibility and compliance of legislation with basic law of virtual-reality heart-risk-time and heart-attack hijack of favorite lovesick handsdown and hamstring of acceptance risk of suicide in provision of law, enforcement and legislation of intermittent draw of resolution of treaty draft of decision, directive and law, violating hearing in accordance with law ‘To get a buzz from devil may care to get a five-finger discount, It's like trying to get blood from a stone to get a bonk on the nose, what-do-you-call-her’ #bonkpremium #dohpremium #pomponpremium #powerthatbeepremium #oojamaflippremium #bagniopremium #flippantpremium #bamboozlepremium #lofipremium #dagobertknickerspremium #moonbuggypremium #parrotpremium #indirectparitypremium #cowpaddockfeepremium #snowcunnilingusbunnykangaroocourtpremium #ducksouppremium #stipulationorrerypremium #tushieheiniecaboosepremium #kiboshpremium #bonepremium #doublewhammypremium #scaramouchpremium #vermouthpremium #flippantcaducitypremium #ultrasonicflawpremium #flippantcaducityastro-garbagepremium #virtualevidencepremium #gitpremium #bananasuitpremium #jeopardypremium #pinkelephantpremium #rampartpremium #realfrognosepremium #fillipflawechopremium #boonpremium #dirtyslavishskunk #frazzlepremium #compactionpremium #picnicpremium #lodgmentpremium #!%$premium #fryspremium #redemptionfixpremium #causeofdefectpremium #temporalpremium #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <published>2025-04-27T00:23:00Z</published>
@@ -7751,17 +7766,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJoDV4kAAoJEAFr6uo/MdhPrlMP/0YJEGO9wJOy05jHiLDVw078qtGF
-CxTXBxjV4IqvmDvfWpBLW2xkntTHRoI4T/pQqmoUmpdygqWnr5Bn707Han4f26JM
-z47GSac3V9Eg3DOmpFhdfjE+UMx4TXGAAQY4CYrE8/rBaC9anCDWKM3bIcmeuoor
-ZyRQ+v+gxz3vRHAbbgtoVVYTy2c6+MTNFpKYIuy7fTsvJxSM1/1dVurOKU1q6hac
-fqvo0dWlmCVyuydHpgED/twTuSVJ3K/+yYTFEg4V5aoelKfJCzlCifFh0hE1I9YY
-MdXOoysGt7OGElWN5q6MHAr9MyKr9GTpgIuq39ZdIY2Iy4oedJL6Z5oGzXTePv2x
-uJlkAZoepRQpdKcLXXAQMpPn6K6mwyil1iRGgitzolbuotUd271HVQZxFUBwDfTW
-/z1sWhKVLPXaGKCDVOeypyyALDeQaKPj2IgW6GW5GwCtLkFjSRuaQ65kDX/g/J+Y
-cDAnnr0XrSuB9tYo8rw+y16Owseh3EJXxmUXyJwdw+drwH3JJcOclBdnKIY6PJTT
-t9Sau19TJ0e2271ShpAiu7qSA7zcWbL7dzZCszq6uZZprC19y4sh2iXP9y27HA7w
-YgKsnDrBak5J85cRvHDQnZ5vEYvHtUWXqPmuv1neq403dasHrWXlmWXUJWGkaBAu
-eUu0TsWLFqVt9nV9
-=Wxd6
+bC5jb20+BQJoDtvrAAoJEAFr6uo/MdhP5LAP/R4lrio+7wRv7DStfzapMpkMtMQw
+txw/O422q1Hw//9n1ZidIoLD/QpvBNZDPzFQhrPeV9IXhr+1rpIv4BoKP6E3YsY4
+F9hn6wxk50ENuMaIvaEZVqjZlzL5ToZ5yCBTt5NlTmNecAfg5APpPC3gs0FvV2cp
+WJyOxgN2kagTIRwncXTF6VlySW+timfGCq4sB54VVG9XIqG2npfwYS6Xf6h25VLZ
+4f9WP3fre2CG+uGdjcoGXC8swIQ5WvWEHUPnqHfQjIF/vplpV2WOW6uTlBaQyFyl
+sXWWMDIN4hPPEYwpevjvgD2Ju8H912lFpJDCLbNqh5d+Z3y1X/CB6i3sybxyrvH6
+fJ0FgkavqNVEo/sps8aZK5lp8XdgtywrUVpk0vjGoDNJiExxH1iQVgJL00ZGdh/A
+nMReiIJk0Dv1IfdavcCDZvbVqX4EGqDMF3vhaTWd0AYloK1+Ur8QKc5fLZ6TnJ4b
+pHQG+92KdbceiLskJR7h7CxQSAkpMbFH6pBuxE5O8n0VFIG9OqzTJJsv6wx4jP2s
+B6/d6r81EXfZxZYv53A2VUNifAL5q1A4KJ6xMhGIQFEINf3DNZY9cVdAUuX23f2Q
+wd/+CBDOeTlAahrdoeupaO2D+bCxLNIGO/cRT5VeuSs3RYA7tTw7h1UpEzWvWh1Q
+6QHi6+/8r/7Fd3K0
+=IvOE
 -----END PGP SIGNATURE-----
