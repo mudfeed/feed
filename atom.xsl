@@ -223,12 +223,11 @@
 <img style="flex-shrink: 0; width: 2em; height: 2em;" viewBox="0 0 800 800" src="qrcode1741474699876.svg" alt="FSB is dispatching Hardy of felony mayhem, convicted to fall foul of international conflict and dullegery, disparagement, taking full advantage of compulsory work abuse, mental torture, secondary enforcement and coercion in conjoinment." />
 <img style="flex-shrink: 0; width: 2em; height: 2em;" viewBox="0 0 800 800" src="qrcode1741815159842.svg" alt="FSB is dispatching Babak of felony mayhem, war netting and negative influence on state pressure of abuse of state authority and official duty." />
 <img style="flex-shrink: 0; width: 2em; height: 2em;" viewBox="0 0 800 800" src="qrcode1742319735180.svg" alt="CIA is dispatching H. Bloemendal of felony mayhem of attachment point of excess of loss limit of exceeding restraint level in undertaking to desist of operation agreement in prevention of coercion bondage of excess of loss reinsurance treaty." />
-<br/>
-<a href="https://www.erudit.org/en/journals/rqdi/1998-v11-n1-rqdi08117/1100692ar/">IMPUNITY AND INTERNATIONAL LAW</a><br/> 
 <h2>Recent feed posts</h2>        
   <div class="text-8">
-            <xsl:text>&lt;</xsl:text><a href="mailto:jannis.bloem@gmail.com"><xsl:value-of select="/atom:feed/atom:author/atom:email" /></a><xsl:text>&#160;</xsl:text><xsl:text>&#128274;</xsl:text><a href=""><xsl:attribute name="href"><xsl:value-of select="/atom:feed/atom:link[3]/@href"/></xsl:attribute>0x3F31D84F-pub.asc</a>, (<a href="https://www.linkedin.com/in/jannis-bloemendal/">linkedIn</a>, <a href="https://www.facebook.com/profile.php?id=61555497917112">facebook</a>)<xsl:text>&gt;</xsl:text>
-          </div>         
+    <xsl:text>&lt;</xsl:text><a href="mailto:jannis.bloem@gmail.com"><xsl:value-of select="/atom:feed/atom:author/atom:email" /></a><xsl:text>&#160;</xsl:text><xsl:text>&#128274;</xsl:text><a href=""><xsl:attribute name="href"><xsl:value-of select="/atom:feed/atom:link[3]/@href"/></xsl:attribute>0x3F31D84F-pub.asc</a>, (<a href="https://www.linkedin.com/in/jannis-bloemendal/">linkedIn</a>, <a href="https://www.facebook.com/profile.php?id=61555497917112">facebook</a>)<xsl:text>&gt;</xsl:text><br/>
+    <a href="https://www.erudit.org/en/journals/rqdi/1998-v11-n1-rqdi08117/1100692ar/">IMPUNITY AND INTERNATIONAL LAW</a>   
+  </div>
           <xsl:for-each select="/atom:feed/atom:entry">
             <div class="post pb-7">
               <xsl:attribute name="id">
